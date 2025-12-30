@@ -1,0 +1,440 @@
+{
+  "pdf_path": "./data/poster-pdfs/multi-per-page/03_Mixed_Art_Poster_Chinese_Scenery.pdf",
+  "posters": [
+    {
+      "page_no": 2,
+      "code": "27001",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p2--27001--63ff1.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "27002",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p2--27002--c5348.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "27003",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p2--27003--35864.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "27004",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p2--27004--070d2.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "27005",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p2--27005--a8050.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "27006",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p2--27006--1e17e.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "27007",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p3--27007--85bbe.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "27008",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p3--27008--eb8c6.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "27009",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p3--27009--39a30.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "27010",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p3--27010--ba956.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "27011",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p3--27011--ad0c9.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "27012",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p3--27012--097b3.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "27013",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p4--27013--9c968.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "27014",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p4--27014--bcef8.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "27015",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p4--27015--9002e.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "27016",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p4--27016--f9d02.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "27017",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p4--27017--71cee.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "27018",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p4--27018--2ad01.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "27019",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p5--27019--b512e.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "27020",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p5--27020--7e908.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "27021",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p5--27021--dff3a.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "27022",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p5--27022--8a345.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "27023",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p5--27023--ed1e5.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "27088",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p5--27088--2ff1a.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "27024",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p6--27024--a39cd.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "27025",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p6--27025--b8742.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "27027",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p6--27027--d099f.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "27028",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p6--27028--d1e30.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "27029",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p6--27029--1c31f.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "27031",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p6--27031--4cc59.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "27032",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p7--27032--29b23.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "27033",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p7--27033--1b87b.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "27034",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p7--27034--37412.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "27035",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p7--27035--2dcc5.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "27036",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p7--27036--b887a.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "27037",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p7--27037--b0ba9.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "27038",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p8--27038--ed3da.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "27039",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p8--27039--d4934.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "27041",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p8--27041--c9e21.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "27042",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p8--27042--7a2b2.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "27043",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p8--27043--b9b63.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "27044",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p8--27044--3b11b.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "27045",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p9--27045--32750.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "27046",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p9--27046--1599b.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "27047",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p9--27047--29216.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "27089",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p9--27089--3e62e.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "27090",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p9--27090--3cbbc.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "27048",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p10--27048--cc254.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "27049",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p10--27049--ab390.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "27050",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p10--27050--df978.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "27051",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p10--27051--f459f.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "27053",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p10--27053--14c61.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "27054",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p10--27054--92075.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "27052",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p11--27052--ce20a.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "27055",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p11--27055--05b22.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "27056",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p11--27056--4e216.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "27057",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p11--27057--6b2c0.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "27058",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p11--27058--8898a.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "27060",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p11--27060--e69aa.jpg"
+    },
+    {
+      "page_no": 12,
+      "code": "27061",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p12--27061--c0ce7.jpg"
+    },
+    {
+      "page_no": 12,
+      "code": "27062",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p12--27062--d6319.jpg"
+    },
+    {
+      "page_no": 12,
+      "code": "27063",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p12--27063--24580.jpg"
+    },
+    {
+      "page_no": 12,
+      "code": "27064",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p12--27064--d4cfa.jpg"
+    },
+    {
+      "page_no": 12,
+      "code": "27065",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p12--27065--2a059.jpg"
+    },
+    {
+      "page_no": 12,
+      "code": "27066",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p12--27066--80724.jpg"
+    },
+    {
+      "page_no": 13,
+      "code": "27067",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p13--27067--785d0.jpg"
+    },
+    {
+      "page_no": 13,
+      "code": "27068",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p13--27068--a9024.jpg"
+    },
+    {
+      "page_no": 13,
+      "code": "27069",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p13--27069--f243c.jpg"
+    },
+    {
+      "page_no": 13,
+      "code": "27070",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p13--27070--877e7.jpg"
+    },
+    {
+      "page_no": 13,
+      "code": "27071",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p13--27071--146d0.jpg"
+    },
+    {
+      "page_no": 14,
+      "code": "27072",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p14--27072--fd0d7.jpg"
+    },
+    {
+      "page_no": 14,
+      "code": "27073",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p14--27073--8c59e.jpg"
+    },
+    {
+      "page_no": 14,
+      "code": "27074",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p14--27074--e8651.jpg"
+    },
+    {
+      "page_no": 14,
+      "code": "27075",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p14--27075--88478.jpg"
+    },
+    {
+      "page_no": 14,
+      "code": "27076",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p14--27076--25a53.jpg"
+    },
+    {
+      "page_no": 14,
+      "code": "27077",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p14--27077--d803d.jpg"
+    },
+    {
+      "page_no": 15,
+      "code": "27078",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p15--27078--28891.jpg"
+    },
+    {
+      "page_no": 15,
+      "code": "27079",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p15--27079--7d10a.jpg"
+    },
+    {
+      "page_no": 15,
+      "code": "27080",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p15--27080--67241.jpg"
+    },
+    {
+      "page_no": 15,
+      "code": "27081",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p15--27081--fbb5a.jpg"
+    },
+    {
+      "page_no": 15,
+      "code": "27082",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p15--27082--e797c.jpg"
+    },
+    {
+      "page_no": 15,
+      "code": "27083",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p15--27083--95ddb.jpg"
+    },
+    {
+      "page_no": 16,
+      "code": "27084",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p16--27084--09693.jpg"
+    },
+    {
+      "page_no": 16,
+      "code": "27085",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p16--27085--5938a.jpg"
+    },
+    {
+      "page_no": 16,
+      "code": "27086",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p16--27086--24730.jpg"
+    },
+    {
+      "page_no": 16,
+      "code": "27087",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p16--27087--713ee.jpg"
+    },
+    {
+      "page_no": 16,
+      "code": "27091",
+      "image_file": "03_Mixed_Art_Poster_Chinese_Scenery--p16--27091--2dee5.jpg"
+    }
+  ]
+}

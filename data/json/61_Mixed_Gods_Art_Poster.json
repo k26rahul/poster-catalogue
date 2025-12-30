@@ -1,0 +1,455 @@
+{
+  "pdf_path": "./data/poster-pdfs/1-per-page/61_Mixed_Gods_Art_Poster.pdf",
+  "posters": [
+    {
+      "page_no": 1,
+      "code": "MIG001",
+      "image_file": "61_Mixed_Gods_Art_Poster--p1--MIG001--32b18.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "MIG002",
+      "image_file": "61_Mixed_Gods_Art_Poster--p2--MIG002--0053a.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "MIG003",
+      "image_file": "61_Mixed_Gods_Art_Poster--p3--MIG003--0da8e.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "MIG004",
+      "image_file": "61_Mixed_Gods_Art_Poster--p4--MIG004--8c4f7.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "MIG005",
+      "image_file": "61_Mixed_Gods_Art_Poster--p5--MIG005--d249c.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "MIG006",
+      "image_file": "61_Mixed_Gods_Art_Poster--p6--MIG006--06996.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "MIG007",
+      "image_file": "61_Mixed_Gods_Art_Poster--p7--MIG007--8584e.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "MIG008",
+      "image_file": "61_Mixed_Gods_Art_Poster--p8--MIG008--24e34.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "MIG009",
+      "image_file": "61_Mixed_Gods_Art_Poster--p9--MIG009--481c2.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "MIG010",
+      "image_file": "61_Mixed_Gods_Art_Poster--p10--MIG010--0ca38.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "MIG011",
+      "image_file": "61_Mixed_Gods_Art_Poster--p11--MIG011--e8584.jpg"
+    },
+    {
+      "page_no": 12,
+      "code": "MIG012",
+      "image_file": "61_Mixed_Gods_Art_Poster--p12--MIG012--e6c87.jpg"
+    },
+    {
+      "page_no": 13,
+      "code": "MIG013",
+      "image_file": "61_Mixed_Gods_Art_Poster--p13--MIG013--3768e.jpg"
+    },
+    {
+      "page_no": 14,
+      "code": "MIG014",
+      "image_file": "61_Mixed_Gods_Art_Poster--p14--MIG014--a6e1d.jpg"
+    },
+    {
+      "page_no": 15,
+      "code": "MIG015",
+      "image_file": "61_Mixed_Gods_Art_Poster--p15--MIG015--d6458.jpg"
+    },
+    {
+      "page_no": 16,
+      "code": "MIG016",
+      "image_file": "61_Mixed_Gods_Art_Poster--p16--MIG016--83324.jpg"
+    },
+    {
+      "page_no": 17,
+      "code": "MIG017",
+      "image_file": "61_Mixed_Gods_Art_Poster--p17--MIG017--cbb20.jpg"
+    },
+    {
+      "page_no": 18,
+      "code": "MIG018",
+      "image_file": "61_Mixed_Gods_Art_Poster--p18--MIG018--d27c3.jpg"
+    },
+    {
+      "page_no": 19,
+      "code": "MIG019",
+      "image_file": "61_Mixed_Gods_Art_Poster--p19--MIG019--aeea5.jpg"
+    },
+    {
+      "page_no": 20,
+      "code": "MIG020",
+      "image_file": "61_Mixed_Gods_Art_Poster--p20--MIG020--2eb77.jpg"
+    },
+    {
+      "page_no": 21,
+      "code": "MIG021",
+      "image_file": "61_Mixed_Gods_Art_Poster--p21--MIG021--74876.jpg"
+    },
+    {
+      "page_no": 22,
+      "code": "MIG022",
+      "image_file": "61_Mixed_Gods_Art_Poster--p22--MIG022--c277b.jpg"
+    },
+    {
+      "page_no": 23,
+      "code": "MIG023",
+      "image_file": "61_Mixed_Gods_Art_Poster--p23--MIG023--723bd.jpg"
+    },
+    {
+      "page_no": 24,
+      "code": "MIG024",
+      "image_file": "61_Mixed_Gods_Art_Poster--p24--MIG024--fa604.jpg"
+    },
+    {
+      "page_no": 25,
+      "code": "MIG025",
+      "image_file": "61_Mixed_Gods_Art_Poster--p25--MIG025--7284b.jpg"
+    },
+    {
+      "page_no": 26,
+      "code": "MIG026",
+      "image_file": "61_Mixed_Gods_Art_Poster--p26--MIG026--c18ee.jpg"
+    },
+    {
+      "page_no": 27,
+      "code": "MIG027",
+      "image_file": "61_Mixed_Gods_Art_Poster--p27--MIG027--66073.jpg"
+    },
+    {
+      "page_no": 28,
+      "code": "MIG028",
+      "image_file": "61_Mixed_Gods_Art_Poster--p28--MIG028--b1edd.jpg"
+    },
+    {
+      "page_no": 29,
+      "code": "MIG029",
+      "image_file": "61_Mixed_Gods_Art_Poster--p29--MIG029--bd536.jpg"
+    },
+    {
+      "page_no": 30,
+      "code": "MIG030",
+      "image_file": "61_Mixed_Gods_Art_Poster--p30--MIG030--70b9f.jpg"
+    },
+    {
+      "page_no": 31,
+      "code": "MIG031",
+      "image_file": "61_Mixed_Gods_Art_Poster--p31--MIG031--872e7.jpg"
+    },
+    {
+      "page_no": 32,
+      "code": "MIG032",
+      "image_file": "61_Mixed_Gods_Art_Poster--p32--MIG032--4d376.jpg"
+    },
+    {
+      "page_no": 33,
+      "code": "MIG033",
+      "image_file": "61_Mixed_Gods_Art_Poster--p33--MIG033--af95b.jpg"
+    },
+    {
+      "page_no": 34,
+      "code": "MIG034",
+      "image_file": "61_Mixed_Gods_Art_Poster--p34--MIG034--605b0.jpg"
+    },
+    {
+      "page_no": 35,
+      "code": "MIG035",
+      "image_file": "61_Mixed_Gods_Art_Poster--p35--MIG035--9069a.jpg"
+    },
+    {
+      "page_no": 36,
+      "code": "MIG036",
+      "image_file": "61_Mixed_Gods_Art_Poster--p36--MIG036--9ddfc.jpg"
+    },
+    {
+      "page_no": 37,
+      "code": "MIG037",
+      "image_file": "61_Mixed_Gods_Art_Poster--p37--MIG037--e1814.jpg"
+    },
+    {
+      "page_no": 38,
+      "code": "MIG038",
+      "image_file": "61_Mixed_Gods_Art_Poster--p38--MIG038--8c637.jpg"
+    },
+    {
+      "page_no": 39,
+      "code": "MIG039",
+      "image_file": "61_Mixed_Gods_Art_Poster--p39--MIG039--3fcd2.jpg"
+    },
+    {
+      "page_no": 40,
+      "code": "MIG040",
+      "image_file": "61_Mixed_Gods_Art_Poster--p40--MIG040--6b903.jpg"
+    },
+    {
+      "page_no": 41,
+      "code": "MIG041",
+      "image_file": "61_Mixed_Gods_Art_Poster--p41--MIG041--543ae.jpg"
+    },
+    {
+      "page_no": 42,
+      "code": "MIG042",
+      "image_file": "61_Mixed_Gods_Art_Poster--p42--MIG042--882b4.jpg"
+    },
+    {
+      "page_no": 43,
+      "code": "MIG043",
+      "image_file": "61_Mixed_Gods_Art_Poster--p43--MIG043--98280.jpg"
+    },
+    {
+      "page_no": 44,
+      "code": "MIG044",
+      "image_file": "61_Mixed_Gods_Art_Poster--p44--MIG044--289c2.jpg"
+    },
+    {
+      "page_no": 45,
+      "code": "MIG045",
+      "image_file": "61_Mixed_Gods_Art_Poster--p45--MIG045--07924.jpg"
+    },
+    {
+      "page_no": 46,
+      "code": "MIG046",
+      "image_file": "61_Mixed_Gods_Art_Poster--p46--MIG046--616e7.jpg"
+    },
+    {
+      "page_no": 47,
+      "code": "MIG047",
+      "image_file": "61_Mixed_Gods_Art_Poster--p47--MIG047--536dc.jpg"
+    },
+    {
+      "page_no": 48,
+      "code": "MIG048",
+      "image_file": "61_Mixed_Gods_Art_Poster--p48--MIG048--bb776.jpg"
+    },
+    {
+      "page_no": 49,
+      "code": "MIG049",
+      "image_file": "61_Mixed_Gods_Art_Poster--p49--MIG049--d1d2d.jpg"
+    },
+    {
+      "page_no": 50,
+      "code": "MIG050",
+      "image_file": "61_Mixed_Gods_Art_Poster--p50--MIG050--62a1c.jpg"
+    },
+    {
+      "page_no": 51,
+      "code": "MIG051",
+      "image_file": "61_Mixed_Gods_Art_Poster--p51--MIG051--b9a2a.jpg"
+    },
+    {
+      "page_no": 52,
+      "code": "MIG052",
+      "image_file": "61_Mixed_Gods_Art_Poster--p52--MIG052--fa78b.jpg"
+    },
+    {
+      "page_no": 53,
+      "code": "MIG053",
+      "image_file": "61_Mixed_Gods_Art_Poster--p53--MIG053--a6853.jpg"
+    },
+    {
+      "page_no": 54,
+      "code": "MIG054",
+      "image_file": "61_Mixed_Gods_Art_Poster--p54--MIG054--9c948.jpg"
+    },
+    {
+      "page_no": 55,
+      "code": "MIG055",
+      "image_file": "61_Mixed_Gods_Art_Poster--p55--MIG055--e5f39.jpg"
+    },
+    {
+      "page_no": 56,
+      "code": "MIG056",
+      "image_file": "61_Mixed_Gods_Art_Poster--p56--MIG056--f5b58.jpg"
+    },
+    {
+      "page_no": 57,
+      "code": "MIG057",
+      "image_file": "61_Mixed_Gods_Art_Poster--p57--MIG057--7d256.jpg"
+    },
+    {
+      "page_no": 58,
+      "code": "MIG058",
+      "image_file": "61_Mixed_Gods_Art_Poster--p58--MIG058--f171a.jpg"
+    },
+    {
+      "page_no": 59,
+      "code": "MIG059",
+      "image_file": "61_Mixed_Gods_Art_Poster--p59--MIG059--064ae.jpg"
+    },
+    {
+      "page_no": 60,
+      "code": "MIG060",
+      "image_file": "61_Mixed_Gods_Art_Poster--p60--MIG060--3844c.jpg"
+    },
+    {
+      "page_no": 61,
+      "code": "MIG061",
+      "image_file": "61_Mixed_Gods_Art_Poster--p61--MIG061--cf98d.jpg"
+    },
+    {
+      "page_no": 62,
+      "code": "MIG062",
+      "image_file": "61_Mixed_Gods_Art_Poster--p62--MIG062--faf15.jpg"
+    },
+    {
+      "page_no": 63,
+      "code": "MIG063",
+      "image_file": "61_Mixed_Gods_Art_Poster--p63--MIG063--41750.jpg"
+    },
+    {
+      "page_no": 64,
+      "code": "MIG064",
+      "image_file": "61_Mixed_Gods_Art_Poster--p64--MIG064--5c92f.jpg"
+    },
+    {
+      "page_no": 65,
+      "code": "MIG065",
+      "image_file": "61_Mixed_Gods_Art_Poster--p65--MIG065--4823f.jpg"
+    },
+    {
+      "page_no": 66,
+      "code": "MIG066",
+      "image_file": "61_Mixed_Gods_Art_Poster--p66--MIG066--9d22f.jpg"
+    },
+    {
+      "page_no": 67,
+      "code": "MIG067",
+      "image_file": "61_Mixed_Gods_Art_Poster--p67--MIG067--19403.jpg"
+    },
+    {
+      "page_no": 68,
+      "code": "MIG068",
+      "image_file": "61_Mixed_Gods_Art_Poster--p68--MIG068--7a746.jpg"
+    },
+    {
+      "page_no": 69,
+      "code": "MIG069",
+      "image_file": "61_Mixed_Gods_Art_Poster--p69--MIG069--92331.jpg"
+    },
+    {
+      "page_no": 70,
+      "code": "MIG070",
+      "image_file": "61_Mixed_Gods_Art_Poster--p70--MIG070--101c2.jpg"
+    },
+    {
+      "page_no": 71,
+      "code": "MIG071",
+      "image_file": "61_Mixed_Gods_Art_Poster--p71--MIG071--cf62c.jpg"
+    },
+    {
+      "page_no": 72,
+      "code": "MIG072",
+      "image_file": "61_Mixed_Gods_Art_Poster--p72--MIG072--7af8e.jpg"
+    },
+    {
+      "page_no": 73,
+      "code": "MIG073",
+      "image_file": "61_Mixed_Gods_Art_Poster--p73--MIG073--14910.jpg"
+    },
+    {
+      "page_no": 74,
+      "code": "MIG074",
+      "image_file": "61_Mixed_Gods_Art_Poster--p74--MIG074--c72a3.jpg"
+    },
+    {
+      "page_no": 75,
+      "code": "MIG075",
+      "image_file": "61_Mixed_Gods_Art_Poster--p75--MIG075--26ff2.jpg"
+    },
+    {
+      "page_no": 76,
+      "code": "MIG076",
+      "image_file": "61_Mixed_Gods_Art_Poster--p76--MIG076--0ff3e.jpg"
+    },
+    {
+      "page_no": 77,
+      "code": "MIG077",
+      "image_file": "61_Mixed_Gods_Art_Poster--p77--MIG077--3707f.jpg"
+    },
+    {
+      "page_no": 78,
+      "code": "MIG078",
+      "image_file": "61_Mixed_Gods_Art_Poster--p78--MIG078--76f7c.jpg"
+    },
+    {
+      "page_no": 79,
+      "code": "MIG079",
+      "image_file": "61_Mixed_Gods_Art_Poster--p79--MIG079--40988.jpg"
+    },
+    {
+      "page_no": 80,
+      "code": "MIG080",
+      "image_file": "61_Mixed_Gods_Art_Poster--p80--MIG080--beb55.jpg"
+    },
+    {
+      "page_no": 81,
+      "code": "MIG081",
+      "image_file": "61_Mixed_Gods_Art_Poster--p81--MIG081--4d87d.jpg"
+    },
+    {
+      "page_no": 82,
+      "code": "MIG082",
+      "image_file": "61_Mixed_Gods_Art_Poster--p82--MIG082--d4aad.jpg"
+    },
+    {
+      "page_no": 83,
+      "code": "MIG083",
+      "image_file": "61_Mixed_Gods_Art_Poster--p83--MIG083--51ac3.jpg"
+    },
+    {
+      "page_no": 84,
+      "code": "MIG084",
+      "image_file": "61_Mixed_Gods_Art_Poster--p84--MIG084--e973e.jpg"
+    },
+    {
+      "page_no": 85,
+      "code": "MIG085",
+      "image_file": "61_Mixed_Gods_Art_Poster--p85--MIG085--3bb7a.jpg"
+    },
+    {
+      "page_no": 86,
+      "code": "MIG086",
+      "image_file": "61_Mixed_Gods_Art_Poster--p86--MIG086--7c799.jpg"
+    },
+    {
+      "page_no": 87,
+      "code": "MIG087",
+      "image_file": "61_Mixed_Gods_Art_Poster--p87--MIG087--fdc7c.jpg"
+    },
+    {
+      "page_no": 88,
+      "code": "MIG088",
+      "image_file": "61_Mixed_Gods_Art_Poster--p88--MIG088--1d6ec.jpg"
+    },
+    {
+      "page_no": 89,
+      "code": "MIG089",
+      "image_file": "61_Mixed_Gods_Art_Poster--p89--MIG089--7d4ef.jpg"
+    },
+    {
+      "page_no": 90,
+      "code": "MIG090",
+      "image_file": "61_Mixed_Gods_Art_Poster--p90--MIG090--1c7d5.jpg"
+    }
+  ]
+}

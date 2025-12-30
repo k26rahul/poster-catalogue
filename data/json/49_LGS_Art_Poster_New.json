@@ -1,0 +1,240 @@
+{
+  "pdf_path": "./data/poster-pdfs/ocr-needed/49_LGS_Art_Poster_New.pdf",
+  "posters": [
+    {
+      "page_no": 1,
+      "code": "LGS-1001",
+      "image_file": "49_LGS_Art_Poster_New--p1--LGS-1001--96023.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "LGS-1002",
+      "image_file": "49_LGS_Art_Poster_New--p2--LGS-1002--a88ba.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "LGS-1003",
+      "image_file": "49_LGS_Art_Poster_New--p3--LGS-1003--db437.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "LGS-1004",
+      "image_file": "49_LGS_Art_Poster_New--p4--LGS-1004--90f7f.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "LGS-1005",
+      "image_file": "49_LGS_Art_Poster_New--p5--LGS-1005--69ec4.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "LGS-1006",
+      "image_file": "49_LGS_Art_Poster_New--p6--LGS-1006--cf339.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "LGS-1007",
+      "image_file": "49_LGS_Art_Poster_New--p7--LGS-1007--e6ccd.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "LGS-1008",
+      "image_file": "49_LGS_Art_Poster_New--p8--LGS-1008--4633a.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "LGS-1009",
+      "image_file": "49_LGS_Art_Poster_New--p9--LGS-1009--477f3.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "LGS-1010",
+      "image_file": "49_LGS_Art_Poster_New--p10--LGS-1010--e99c4.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "LGS-1011",
+      "image_file": "49_LGS_Art_Poster_New--p11--LGS-1011--fa723.jpg"
+    },
+    {
+      "page_no": 12,
+      "code": "LGS-1012",
+      "image_file": "49_LGS_Art_Poster_New--p12--LGS-1012--06f72.jpg"
+    },
+    {
+      "page_no": 13,
+      "code": "LGS-1013",
+      "image_file": "49_LGS_Art_Poster_New--p13--LGS-1013--3b3f2.jpg"
+    },
+    {
+      "page_no": 14,
+      "code": "LGS-1014",
+      "image_file": "49_LGS_Art_Poster_New--p14--LGS-1014--223ca.jpg"
+    },
+    {
+      "page_no": 15,
+      "code": "LGS-1015",
+      "image_file": "49_LGS_Art_Poster_New--p15--LGS-1015--1e712.jpg"
+    },
+    {
+      "page_no": 16,
+      "code": "LGS-1016",
+      "image_file": "49_LGS_Art_Poster_New--p16--LGS-1016--370a5.jpg"
+    },
+    {
+      "page_no": 17,
+      "code": "LGS-1017",
+      "image_file": "49_LGS_Art_Poster_New--p17--LGS-1017--390cb.jpg"
+    },
+    {
+      "page_no": 18,
+      "code": "LGS-1018",
+      "image_file": "49_LGS_Art_Poster_New--p18--LGS-1018--e4be5.jpg"
+    },
+    {
+      "page_no": 19,
+      "code": "LGS-1019",
+      "image_file": "49_LGS_Art_Poster_New--p19--LGS-1019--4f8e5.jpg"
+    },
+    {
+      "page_no": 20,
+      "code": "LGS-1020",
+      "image_file": "49_LGS_Art_Poster_New--p20--LGS-1020--fcaf6.jpg"
+    },
+    {
+      "page_no": 21,
+      "code": "LGS-1021",
+      "image_file": "49_LGS_Art_Poster_New--p21--LGS-1021--43b87.jpg"
+    },
+    {
+      "page_no": 22,
+      "code": "LGS-1022",
+      "image_file": "49_LGS_Art_Poster_New--p22--LGS-1022--a218e.jpg"
+    },
+    {
+      "page_no": 23,
+      "code": "LGS-1023",
+      "image_file": "49_LGS_Art_Poster_New--p23--LGS-1023--da0a2.jpg"
+    },
+    {
+      "page_no": 24,
+      "code": "LGS-1024",
+      "image_file": "49_LGS_Art_Poster_New--p24--LGS-1024--57c6b.jpg"
+    },
+    {
+      "page_no": 25,
+      "code": "LGS-1025",
+      "image_file": "49_LGS_Art_Poster_New--p25--LGS-1025--e460d.jpg"
+    },
+    {
+      "page_no": 26,
+      "code": "LGS-1026",
+      "image_file": "49_LGS_Art_Poster_New--p26--LGS-1026--bef3b.jpg"
+    },
+    {
+      "page_no": 27,
+      "code": "LGS-1027",
+      "image_file": "49_LGS_Art_Poster_New--p27--LGS-1027--f8e6e.jpg"
+    },
+    {
+      "page_no": 28,
+      "code": "LGS-1028",
+      "image_file": "49_LGS_Art_Poster_New--p28--LGS-1028--f07eb.jpg"
+    },
+    {
+      "page_no": 29,
+      "code": "LGS-1029",
+      "image_file": "49_LGS_Art_Poster_New--p29--LGS-1029--29c91.jpg"
+    },
+    {
+      "page_no": 30,
+      "code": "LGS-1030",
+      "image_file": "49_LGS_Art_Poster_New--p30--LGS-1030--7b5fa.jpg"
+    },
+    {
+      "page_no": 31,
+      "code": "LGS-1031",
+      "image_file": "49_LGS_Art_Poster_New--p31--LGS-1031--83088.jpg"
+    },
+    {
+      "page_no": 32,
+      "code": "LGS-1032",
+      "image_file": "49_LGS_Art_Poster_New--p32--LGS-1032--633c9.jpg"
+    },
+    {
+      "page_no": 33,
+      "code": "LGS-1033",
+      "image_file": "49_LGS_Art_Poster_New--p33--LGS-1033--aa462.jpg"
+    },
+    {
+      "page_no": 34,
+      "code": "LGS-1034",
+      "image_file": "49_LGS_Art_Poster_New--p34--LGS-1034--f401e.jpg"
+    },
+    {
+      "page_no": 35,
+      "code": "LGS-1035",
+      "image_file": "49_LGS_Art_Poster_New--p35--LGS-1035--3fa77.jpg"
+    },
+    {
+      "page_no": 36,
+      "code": "LGS-1036",
+      "image_file": "49_LGS_Art_Poster_New--p36--LGS-1036--72fc6.jpg"
+    },
+    {
+      "page_no": 37,
+      "code": "LGS-1037",
+      "image_file": "49_LGS_Art_Poster_New--p37--LGS-1037--96aab.jpg"
+    },
+    {
+      "page_no": 38,
+      "code": "LGS-1038",
+      "image_file": "49_LGS_Art_Poster_New--p38--LGS-1038--e20a0.jpg"
+    },
+    {
+      "page_no": 39,
+      "code": "LGS-1039",
+      "image_file": "49_LGS_Art_Poster_New--p39--LGS-1039--5de21.jpg"
+    },
+    {
+      "page_no": 40,
+      "code": "LGS-1040",
+      "image_file": "49_LGS_Art_Poster_New--p40--LGS-1040--40a4f.jpg"
+    },
+    {
+      "page_no": 41,
+      "code": "LGS-1041",
+      "image_file": "49_LGS_Art_Poster_New--p41--LGS-1041--86b47.jpg"
+    },
+    {
+      "page_no": 42,
+      "code": "LGS-1042",
+      "image_file": "49_LGS_Art_Poster_New--p42--LGS-1042--c1ad2.jpg"
+    },
+    {
+      "page_no": 43,
+      "code": "LGS-1043",
+      "image_file": "49_LGS_Art_Poster_New--p43--LGS-1043--b33dc.jpg"
+    },
+    {
+      "page_no": 44,
+      "code": "LGS-1044",
+      "image_file": "49_LGS_Art_Poster_New--p44--LGS-1044--b1f1b.jpg"
+    },
+    {
+      "page_no": 45,
+      "code": "LGS-1045",
+      "image_file": "49_LGS_Art_Poster_New--p45--LGS-1045--82e41.jpg"
+    },
+    {
+      "page_no": 46,
+      "code": "LGS-1046",
+      "image_file": "49_LGS_Art_Poster_New--p46--LGS-1046--21975.jpg"
+    },
+    {
+      "page_no": 47,
+      "code": "LGS-1047",
+      "image_file": "49_LGS_Art_Poster_New--p47--LGS-1047--ff00d.jpg"
+    }
+  ]
+}

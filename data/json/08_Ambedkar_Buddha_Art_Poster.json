@@ -1,0 +1,155 @@
+{
+  "pdf_path": "./data/poster-pdfs/multi-per-page/08_Ambedkar_Buddha_Art_Poster.pdf",
+  "posters": [
+    {
+      "page_no": 2,
+      "code": "AB-3023",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p2--AB-3023--e30cc.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "AB-3024",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p2--AB-3024--fc876.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "AB-3025",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p2--AB-3025--094ca.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "AB-3027",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p2--AB-3027--f7ff8.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "AB-3029",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p2--AB-3029--256ad.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "AB-3030",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p2--AB-3030--9d920.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "AB-3017",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p3--AB-3017--a27d3.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "AB-3018",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p3--AB-3018--fc777.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "AB-3019",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p3--AB-3019--995b6.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "AB-3020",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p3--AB-3020--05a02.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "AB-3021",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p3--AB-3021--89698.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "AB-3022",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p3--AB-3022--d2094.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "AB-3001",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p4--AB-3001--bdb8b.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "AB-3002",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p4--AB-3002--5bc07.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "AB-3003",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p4--AB-3003--2747f.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "AB-3004",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p4--AB-3004--3729e.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "AB-3005",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p4--AB-3005--a5acd.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "AB-3009",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p4--AB-3009--8e0fa.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "AB-3008",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p5--AB-3008--5cf12.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "AB-3010",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p5--AB-3010--a0835.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "AB-3012",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p5--AB-3012--f453b.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "AB-3013",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p5--AB-3013--7d69a.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "AB-3015",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p5--AB-3015--6a395.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "AB-3016",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p5--AB-3016--dd984.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "AB-3006",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p6--AB-3006--67c05.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "AB-3007",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p6--AB-3007--c7e41.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "AB-3026",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p6--AB-3026--919dc.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "AB-3028",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p6--AB-3028--e9acc.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "AB-3031",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p6--AB-3031--159f4.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "AB-3032",
+      "image_file": "08_Ambedkar_Buddha_Art_Poster--p6--AB-3032--afd9d.jpg"
+    }
+  ]
+}

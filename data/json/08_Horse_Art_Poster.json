@@ -1,0 +1,305 @@
+{
+  "pdf_path": "./data/poster-pdfs/multi-per-page/08_Horse_Art_Poster.pdf",
+  "posters": [
+    {
+      "page_no": 2,
+      "code": "27066",
+      "image_file": "08_Horse_Art_Poster--p2--27066--50bcc.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "27067",
+      "image_file": "08_Horse_Art_Poster--p2--27067--f4e39.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "27068",
+      "image_file": "08_Horse_Art_Poster--p2--27068--ff43c.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "27069",
+      "image_file": "08_Horse_Art_Poster--p2--27069--abbc9.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "27070",
+      "image_file": "08_Horse_Art_Poster--p2--27070--3b019.jpg"
+    },
+    {
+      "page_no": 2,
+      "code": "27071",
+      "image_file": "08_Horse_Art_Poster--p2--27071--b0ed7.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "4142",
+      "image_file": "08_Horse_Art_Poster--p3--4142--dddd5.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "27061",
+      "image_file": "08_Horse_Art_Poster--p3--27061--125d6.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "27062",
+      "image_file": "08_Horse_Art_Poster--p3--27062--05d9e.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "27063",
+      "image_file": "08_Horse_Art_Poster--p3--27063--b8642.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "27064",
+      "image_file": "08_Horse_Art_Poster--p3--27064--4f6a9.jpg"
+    },
+    {
+      "page_no": 3,
+      "code": "27065",
+      "image_file": "08_Horse_Art_Poster--p3--27065--b4afc.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "4136",
+      "image_file": "08_Horse_Art_Poster--p4--4136--aa645.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "4137",
+      "image_file": "08_Horse_Art_Poster--p4--4137--5a3a6.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "4138",
+      "image_file": "08_Horse_Art_Poster--p4--4138--a4897.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "4139",
+      "image_file": "08_Horse_Art_Poster--p4--4139--99ad1.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "4140",
+      "image_file": "08_Horse_Art_Poster--p4--4140--7c256.jpg"
+    },
+    {
+      "page_no": 4,
+      "code": "4141",
+      "image_file": "08_Horse_Art_Poster--p4--4141--bfed1.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "4130",
+      "image_file": "08_Horse_Art_Poster--p5--4130--b5ee1.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "4131",
+      "image_file": "08_Horse_Art_Poster--p5--4131--60583.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "4132",
+      "image_file": "08_Horse_Art_Poster--p5--4132--a7910.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "4133",
+      "image_file": "08_Horse_Art_Poster--p5--4133--2669e.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "4134",
+      "image_file": "08_Horse_Art_Poster--p5--4134--4b7ce.jpg"
+    },
+    {
+      "page_no": 5,
+      "code": "4135",
+      "image_file": "08_Horse_Art_Poster--p5--4135--ac1f1.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "4124",
+      "image_file": "08_Horse_Art_Poster--p6--4124--35262.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "4125",
+      "image_file": "08_Horse_Art_Poster--p6--4125--92a7c.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "4126",
+      "image_file": "08_Horse_Art_Poster--p6--4126--bfe97.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "4127",
+      "image_file": "08_Horse_Art_Poster--p6--4127--ee7ee.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "4128",
+      "image_file": "08_Horse_Art_Poster--p6--4128--d48f8.jpg"
+    },
+    {
+      "page_no": 6,
+      "code": "4129",
+      "image_file": "08_Horse_Art_Poster--p6--4129--76d2b.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "4117",
+      "image_file": "08_Horse_Art_Poster--p7--4117--5d3df.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "4118",
+      "image_file": "08_Horse_Art_Poster--p7--4118--9c33f.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "4119",
+      "image_file": "08_Horse_Art_Poster--p7--4119--d3b49.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "4120",
+      "image_file": "08_Horse_Art_Poster--p7--4120--16a58.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "4121",
+      "image_file": "08_Horse_Art_Poster--p7--4121--69829.jpg"
+    },
+    {
+      "page_no": 7,
+      "code": "4122",
+      "image_file": "08_Horse_Art_Poster--p7--4122--01ee6.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "4076",
+      "image_file": "08_Horse_Art_Poster--p8--4076--e6ad7.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "4077",
+      "image_file": "08_Horse_Art_Poster--p8--4077--a95a9.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "4081",
+      "image_file": "08_Horse_Art_Poster--p8--4081--bb9a9.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "4083",
+      "image_file": "08_Horse_Art_Poster--p8--4083--f6992.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "4086",
+      "image_file": "08_Horse_Art_Poster--p8--4086--f140f.jpg"
+    },
+    {
+      "page_no": 8,
+      "code": "4087",
+      "image_file": "08_Horse_Art_Poster--p8--4087--d87a5.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "4088",
+      "image_file": "08_Horse_Art_Poster--p9--4088--0d03c.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "4089",
+      "image_file": "08_Horse_Art_Poster--p9--4089--5a477.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "4090",
+      "image_file": "08_Horse_Art_Poster--p9--4090--27b49.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "4092",
+      "image_file": "08_Horse_Art_Poster--p9--4092--6d85c.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "4094",
+      "image_file": "08_Horse_Art_Poster--p9--4094--37e35.jpg"
+    },
+    {
+      "page_no": 9,
+      "code": "4095",
+      "image_file": "08_Horse_Art_Poster--p9--4095--bfacb.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "4096",
+      "image_file": "08_Horse_Art_Poster--p10--4096--7ae76.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "4097",
+      "image_file": "08_Horse_Art_Poster--p10--4097--1ef0d.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "4099",
+      "image_file": "08_Horse_Art_Poster--p10--4099--13a4e.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "4101",
+      "image_file": "08_Horse_Art_Poster--p10--4101--24d3f.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "4103",
+      "image_file": "08_Horse_Art_Poster--p10--4103--a2562.jpg"
+    },
+    {
+      "page_no": 10,
+      "code": "4104",
+      "image_file": "08_Horse_Art_Poster--p10--4104--f14b3.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "4105",
+      "image_file": "08_Horse_Art_Poster--p11--4105--acbf5.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "4106",
+      "image_file": "08_Horse_Art_Poster--p11--4106--bcb69.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "4107",
+      "image_file": "08_Horse_Art_Poster--p11--4107--5d25d.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "4109",
+      "image_file": "08_Horse_Art_Poster--p11--4109--d95c7.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "4112",
+      "image_file": "08_Horse_Art_Poster--p11--4112--cc102.jpg"
+    },
+    {
+      "page_no": 11,
+      "code": "4114",
+      "image_file": "08_Horse_Art_Poster--p11--4114--bcb69.jpg"
+    }
+  ]
+}
