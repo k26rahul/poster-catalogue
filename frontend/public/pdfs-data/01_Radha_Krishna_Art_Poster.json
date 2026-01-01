@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/multi-per-page/01_Radha_Krishna_Art_Poster.pdf",
+  "id": "01_Radha_Krishna_Art_Poster",
+  "path": "./data/poster-pdfs/multi-per-page/01_Radha_Krishna_Art_Poster.pdf",
+  "category": "Radha Krishna",
+  "total_posters": 564,
+  "thumbnail": "01_Radha_Krishna_Art_Poster--p2--7121--522a9.jpg",
   "posters": [
     {
       "page_no": 2,

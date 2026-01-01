@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/1-per-page/46_Ram_Darbar_Art_Poster.pdf",
+  "id": "46_Ram_Darbar_Art_Poster",
+  "path": "./data/poster-pdfs/1-per-page/46_Ram_Darbar_Art_Poster.pdf",
+  "category": "Ram Darbar",
+  "total_posters": 9,
+  "thumbnail": "46_Ram_Darbar_Art_Poster--p1--R-14001--908db.jpg",
   "posters": [
     {
       "page_no": 1,

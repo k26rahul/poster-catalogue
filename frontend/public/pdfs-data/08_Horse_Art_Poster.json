@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/multi-per-page/08_Horse_Art_Poster.pdf",
+  "id": "08_Horse_Art_Poster",
+  "path": "./data/poster-pdfs/multi-per-page/08_Horse_Art_Poster.pdf",
+  "category": "Horse",
+  "total_posters": 60,
+  "thumbnail": "08_Horse_Art_Poster--p2--27066--50bcc.jpg",
   "posters": [
     {
       "page_no": 2,

@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/multi-per-page/08_Ambedkar_Buddha_Art_Poster.pdf",
+  "id": "08_Ambedkar_Buddha_Art_Poster",
+  "path": "./data/poster-pdfs/multi-per-page/08_Ambedkar_Buddha_Art_Poster.pdf",
+  "category": "Ambedkar Buddha",
+  "total_posters": 30,
+  "thumbnail": "08_Ambedkar_Buddha_Art_Poster--p2--AB-3023--e30cc.jpg",
   "posters": [
     {
       "page_no": 2,

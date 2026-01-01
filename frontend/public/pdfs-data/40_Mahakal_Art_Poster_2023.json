@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/1-per-page/40_Mahakal_Art_Poster_2023.pdf",
+  "id": "40_Mahakal_Art_Poster_2023",
+  "path": "./data/poster-pdfs/1-per-page/40_Mahakal_Art_Poster_2023.pdf",
+  "category": "Mahakal",
+  "total_posters": 36,
+  "thumbnail": "40_Mahakal_Art_Poster_2023--p1--Mahakal001--399be.jpg",
   "posters": [
     {
       "page_no": 1,

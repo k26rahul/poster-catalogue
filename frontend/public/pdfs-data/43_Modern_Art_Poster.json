@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/ocr-needed/43_Modern_Art_Poster.pdf",
+  "id": "43_Modern_Art_Poster",
+  "path": "./data/poster-pdfs/ocr-needed/43_Modern_Art_Poster.pdf",
+  "category": "Modern",
+  "total_posters": 349,
+  "thumbnail": "43_Modern_Art_Poster--p1--25725--1703f.jpg",
   "posters": [
     {
       "page_no": 1,

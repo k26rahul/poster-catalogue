@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/1-per-page/47_Shiva_Family_Art_Poster.pdf",
+  "id": "47_Shiva_Family_Art_Poster",
+  "path": "./data/poster-pdfs/1-per-page/47_Shiva_Family_Art_Poster.pdf",
+  "category": "Shiva Family",
+  "total_posters": 26,
+  "thumbnail": "47_Shiva_Family_Art_Poster--p1--10057--518b3.jpg",
   "posters": [
     {
       "page_no": 1,

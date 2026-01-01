@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/multi-per-page/03_Mixed_Art_Poster_Chinese_Scenery.pdf",
+  "id": "03_Mixed_Art_Poster_Chinese_Scenery",
+  "path": "./data/poster-pdfs/multi-per-page/03_Mixed_Art_Poster_Chinese_Scenery.pdf",
+  "category": "Mixed Art",
+  "total_posters": 87,
+  "thumbnail": "03_Mixed_Art_Poster_Chinese_Scenery--p2--27001--63ff1.jpg",
   "posters": [
     {
       "page_no": 2,

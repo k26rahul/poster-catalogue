@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/multi-per-page/09_Ambedkar_Art_Poster.pdf",
+  "id": "09_Ambedkar_Art_Poster",
+  "path": "./data/poster-pdfs/multi-per-page/09_Ambedkar_Art_Poster.pdf",
+  "category": "Ambedkar",
+  "total_posters": 36,
+  "thumbnail": "09_Ambedkar_Art_Poster--p2--AMB-003--a859c.jpg",
   "posters": [
     {
       "page_no": 2,

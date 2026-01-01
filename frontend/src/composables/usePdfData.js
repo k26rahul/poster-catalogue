@@ -1,21 +1,32 @@
 import { ref } from 'vue';
 import { http } from '@/utils/fetch';
 
-const metadata = ref(null);
+const pdfCache = new Map();
+
+const pdfData = ref(null);
 const isLoading = ref(false);
 const error = ref(null);
 
 let fetchPromise = null;
 
-async function fetchMetadata() {
-  if (metadata.value !== null) return;
+async function fetchPdf(pdfId) {
+  if (!pdfId) return;
+
+  // cached
+  if (pdfCache.has(pdfId)) {
+    pdfData.value = pdfCache.get(pdfId);
+    return;
+  }
+
   if (fetchPromise) return fetchPromise;
 
   isLoading.value = true;
 
   fetchPromise = (async () => {
     try {
-      metadata.value = await http.get('/pdfs-data/metadata.json');
+      const data = await http.get(`/pdfs-data/${pdfId}.json`);
+      pdfCache.set(pdfId, data);
+      pdfData.value = data;
     } catch (e) {
       error.value = e.message || String(e);
     } finally {
@@ -27,11 +38,11 @@ async function fetchMetadata() {
   return fetchPromise;
 }
 
-export function usePdfsMetadata() {
+export function usePdfData() {
   return {
-    metadata,
+    pdfData,
     isLoading,
     error,
-    fetchMetadata,
+    fetchPdf,
   };
 }

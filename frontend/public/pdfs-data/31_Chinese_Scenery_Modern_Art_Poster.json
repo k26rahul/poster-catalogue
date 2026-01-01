@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/1-per-page/31_Chinese_Scenery_Modern_Art_Poster.pdf",
+  "id": "31_Chinese_Scenery_Modern_Art_Poster",
+  "path": "./data/poster-pdfs/1-per-page/31_Chinese_Scenery_Modern_Art_Poster.pdf",
+  "category": "Chinese Scenery",
+  "total_posters": 116,
+  "thumbnail": "31_Chinese_Scenery_Modern_Art_Poster--p1--0000--8237a.jpg",
   "posters": [
     {
       "page_no": 1,

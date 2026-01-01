@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/1-per-page/45_Tirupati_Balaji_Art_Poster.pdf",
+  "id": "45_Tirupati_Balaji_Art_Poster",
+  "path": "./data/poster-pdfs/1-per-page/45_Tirupati_Balaji_Art_Poster.pdf",
+  "category": "Tirupati Balaji",
+  "total_posters": 24,
+  "thumbnail": "45_Tirupati_Balaji_Art_Poster--p1--10001--2447a.jpg",
   "posters": [
     {
       "page_no": 1,

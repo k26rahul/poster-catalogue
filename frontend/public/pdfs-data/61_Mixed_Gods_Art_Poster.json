@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/1-per-page/61_Mixed_Gods_Art_Poster.pdf",
+  "id": "61_Mixed_Gods_Art_Poster",
+  "path": "./data/poster-pdfs/1-per-page/61_Mixed_Gods_Art_Poster.pdf",
+  "category": "Mixed Gods",
+  "total_posters": 90,
+  "thumbnail": "61_Mixed_Gods_Art_Poster--p1--MIG001--32b18.jpg",
   "posters": [
     {
       "page_no": 1,

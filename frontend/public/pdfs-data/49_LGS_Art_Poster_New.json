@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/ocr-needed/49_LGS_Art_Poster_New.pdf",
+  "id": "49_LGS_Art_Poster_New",
+  "path": "./data/poster-pdfs/ocr-needed/49_LGS_Art_Poster_New.pdf",
+  "category": "Lakshmi Ganesh Saraswati",
+  "total_posters": 47,
+  "thumbnail": "49_LGS_Art_Poster_New--p1--LGS-1001--96023.jpg",
   "posters": [
     {
       "page_no": 1,

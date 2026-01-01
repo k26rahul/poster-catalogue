@@ -1,0 +1,257 @@
+{
+  "pdfs": [
+    {
+      "id": "01_Radha_Krishna_Art_Poster",
+      "path": "./data/poster-pdfs/multi-per-page/01_Radha_Krishna_Art_Poster.pdf",
+      "category": "Radha Krishna",
+      "total_posters": 564,
+      "thumbnail": "01_Radha_Krishna_Art_Poster--p2--7121--522a9.jpg"
+    },
+    {
+      "id": "02_Radha_Krishna_Art_Poster_Vertical",
+      "path": "./data/poster-pdfs/multi-per-page/02_Radha_Krishna_Art_Poster_Vertical.pdf",
+      "category": "Radha Krishna",
+      "total_posters": 222,
+      "thumbnail": "02_Radha_Krishna_Art_Poster_Vertical--p2--6893--3cb9b.jpg"
+    },
+    {
+      "id": "03_Mixed_Art_Poster_Chinese_Scenery",
+      "path": "./data/poster-pdfs/multi-per-page/03_Mixed_Art_Poster_Chinese_Scenery.pdf",
+      "category": "Mixed Art",
+      "total_posters": 87,
+      "thumbnail": "03_Mixed_Art_Poster_Chinese_Scenery--p2--27001--63ff1.jpg"
+    },
+    {
+      "id": "04_Ganesh_Art_Poster",
+      "path": "./data/poster-pdfs/multi-per-page/04_Ganesh_Art_Poster.pdf",
+      "category": "Ganesh",
+      "total_posters": 246,
+      "thumbnail": "04_Ganesh_Art_Poster--p2--7529--1f68b.jpg"
+    },
+    {
+      "id": "08_Ambedkar_Buddha_Art_Poster",
+      "path": "./data/poster-pdfs/multi-per-page/08_Ambedkar_Buddha_Art_Poster.pdf",
+      "category": "Ambedkar Buddha",
+      "total_posters": 30,
+      "thumbnail": "08_Ambedkar_Buddha_Art_Poster--p2--AB-3023--e30cc.jpg"
+    },
+    {
+      "id": "08_Horse_Art_Poster",
+      "path": "./data/poster-pdfs/multi-per-page/08_Horse_Art_Poster.pdf",
+      "category": "Horse",
+      "total_posters": 60,
+      "thumbnail": "08_Horse_Art_Poster--p2--27066--50bcc.jpg"
+    },
+    {
+      "id": "09_Ambedkar_Art_Poster",
+      "path": "./data/poster-pdfs/multi-per-page/09_Ambedkar_Art_Poster.pdf",
+      "category": "Ambedkar",
+      "total_posters": 36,
+      "thumbnail": "09_Ambedkar_Art_Poster--p2--AMB-003--a859c.jpg"
+    },
+    {
+      "id": "38_Nature_Art_Poster",
+      "path": "./data/poster-pdfs/multi-per-page/38_Nature_Art_Poster.pdf",
+      "category": "Nature",
+      "total_posters": 1058,
+      "thumbnail": "38_Nature_Art_Poster--p2--9058--2508e.jpg"
+    },
+    {
+      "id": "02_Ram_Catalogue_PDF_Brochure",
+      "path": "./data/poster-pdfs/1-per-page/02_Ram_Catalogue_PDF_Brochure.pdf",
+      "category": "Ram",
+      "total_posters": 92,
+      "thumbnail": "02_Ram_Catalogue_PDF_Brochure--p1--R-14070--69d37.jpg"
+    },
+    {
+      "id": "29_Chinese_Scenery_Modern_Art_Poster",
+      "path": "./data/poster-pdfs/1-per-page/29_Chinese_Scenery_Modern_Art_Poster.pdf",
+      "category": "Chinese Scenery",
+      "total_posters": 109,
+      "thumbnail": "29_Chinese_Scenery_Modern_Art_Poster--p2--21001--af43e.jpg"
+    },
+    {
+      "id": "30_Chinese_Scenery_Modern_Art_Poster",
+      "path": "./data/poster-pdfs/1-per-page/30_Chinese_Scenery_Modern_Art_Poster.pdf",
+      "category": "Chinese Scenery",
+      "total_posters": 125,
+      "thumbnail": "30_Chinese_Scenery_Modern_Art_Poster--p2--22001--95e57.jpg"
+    },
+    {
+      "id": "31_Chinese_Scenery_Modern_Art_Poster",
+      "path": "./data/poster-pdfs/1-per-page/31_Chinese_Scenery_Modern_Art_Poster.pdf",
+      "category": "Chinese Scenery",
+      "total_posters": 116,
+      "thumbnail": "31_Chinese_Scenery_Modern_Art_Poster--p1--0000--8237a.jpg"
+    },
+    {
+      "id": "40_Mahakal_Art_Poster_2023",
+      "path": "./data/poster-pdfs/1-per-page/40_Mahakal_Art_Poster_2023.pdf",
+      "category": "Mahakal",
+      "total_posters": 36,
+      "thumbnail": "40_Mahakal_Art_Poster_2023--p1--Mahakal001--399be.jpg"
+    },
+    {
+      "id": "45_Tirupati_Balaji_Art_Poster",
+      "path": "./data/poster-pdfs/1-per-page/45_Tirupati_Balaji_Art_Poster.pdf",
+      "category": "Tirupati Balaji",
+      "total_posters": 24,
+      "thumbnail": "45_Tirupati_Balaji_Art_Poster--p1--10001--2447a.jpg"
+    },
+    {
+      "id": "46_Ram_Darbar_Art_Poster",
+      "path": "./data/poster-pdfs/1-per-page/46_Ram_Darbar_Art_Poster.pdf",
+      "category": "Ram Darbar",
+      "total_posters": 9,
+      "thumbnail": "46_Ram_Darbar_Art_Poster--p1--R-14001--908db.jpg"
+    },
+    {
+      "id": "47_Shiva_Family_Art_Poster",
+      "path": "./data/poster-pdfs/1-per-page/47_Shiva_Family_Art_Poster.pdf",
+      "category": "Shiva Family",
+      "total_posters": 26,
+      "thumbnail": "47_Shiva_Family_Art_Poster--p1--10057--518b3.jpg"
+    },
+    {
+      "id": "48_Hanuman_Art_Poster",
+      "path": "./data/poster-pdfs/1-per-page/48_Hanuman_Art_Poster.pdf",
+      "category": "Hanuman",
+      "total_posters": 20,
+      "thumbnail": "48_Hanuman_Art_Poster--p1--H-9001--a4751.jpg"
+    },
+    {
+      "id": "51_Buddha_Art_Poster",
+      "path": "./data/poster-pdfs/1-per-page/51_Buddha_Art_Poster.pdf",
+      "category": "Buddha",
+      "total_posters": 19,
+      "thumbnail": "51_Buddha_Art_Poster--p1--B-2277--58f28.jpg"
+    },
+    {
+      "id": "61_Mixed_Gods_Art_Poster",
+      "path": "./data/poster-pdfs/1-per-page/61_Mixed_Gods_Art_Poster.pdf",
+      "category": "Mixed Gods",
+      "total_posters": 90,
+      "thumbnail": "61_Mixed_Gods_Art_Poster--p1--MIG001--32b18.jpg"
+    },
+    {
+      "id": "72_Buddha_Art_Poster",
+      "path": "./data/poster-pdfs/1-per-page/72_Buddha_Art_Poster.pdf",
+      "category": "Buddha",
+      "total_posters": 31,
+      "thumbnail": "72_Buddha_Art_Poster--p1--B2296--b583a.jpg"
+    },
+    {
+      "id": "75_Khatu_Shyam_Art_Poster",
+      "path": "./data/poster-pdfs/1-per-page/75_Khatu_Shyam_Art_Poster.pdf",
+      "category": "Khatu Shyam",
+      "total_posters": 33,
+      "thumbnail": "75_Khatu_Shyam_Art_Poster--p1--KHS_001--2afd7.jpg"
+    },
+    {
+      "id": "39_Modern_Art_Poster_2023",
+      "path": "./data/poster-pdfs/ocr-needed/39_Modern_Art_Poster_2023.pdf",
+      "category": "Modern",
+      "total_posters": 182,
+      "thumbnail": "39_Modern_Art_Poster_2023--p1--25284--55e54.jpg"
+    },
+    {
+      "id": "43_Modern_Art_Poster",
+      "path": "./data/poster-pdfs/ocr-needed/43_Modern_Art_Poster.pdf",
+      "category": "Modern",
+      "total_posters": 349,
+      "thumbnail": "43_Modern_Art_Poster--p1--25725--1703f.jpg"
+    },
+    {
+      "id": "44_Modern_Art_Poster",
+      "path": "./data/poster-pdfs/ocr-needed/44_Modern_Art_Poster.pdf",
+      "category": "Modern",
+      "total_posters": 155,
+      "thumbnail": "44_Modern_Art_Poster--p1--25569--ee5dc.jpg"
+    },
+    {
+      "id": "49_LGS_Art_Poster_New",
+      "path": "./data/poster-pdfs/ocr-needed/49_LGS_Art_Poster_New.pdf",
+      "category": "Lakshmi Ganesh Saraswati",
+      "total_posters": 47,
+      "thumbnail": "49_LGS_Art_Poster_New--p1--LGS-1001--96023.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Radha Krishna",
+      "description": "घर में प्रेम, सामंजस्य और भक्ति का संचार करता है। राधा कृष्ण पोस्टर दिव्य प्रेम और भावनात्मक संतुलन का प्रतीक हैं।"
+    },
+    {
+      "name": "Chinese Scenery",
+      "description": "आपके स्थान में शांति और प्राकृतिक संतुलन लाता है। चीनी प्राकृतिक दृश्य कला शांति, समृद्धि और सजगता को बढ़ावा देती है।"
+    },
+    {
+      "name": "Ganesh",
+      "description": "भगवान गणेश बाधाओं को दूर करते हैं और सफलता आकर्षित करते हैं। नए आरंभ और सकारात्मक ऊर्जा के लिए आदर्श पोस्टर।"
+    },
+    {
+      "name": "Ambedkar Buddha",
+      "description": "ज्ञान, समानता और आंतरिक शक्ति की प्रेरक छवि। प्रेरणा और विचारशील जीवन के लिए उपयुक्त।"
+    },
+    {
+      "name": "Horse",
+      "description": "गति, शक्ति और प्रगति का प्रतीक। घोड़े के पोस्टर ऊर्जा बढ़ाते हैं और आगे बढ़ने की प्रेरणा देते हैं।"
+    },
+    {
+      "name": "Ambedkar",
+      "description": "बुद्धिमत्ता, साहस और सामाजिक न्याय का सम्मान। प्रेरणा और आत्मसम्मान के लिए अर्थपूर्ण पोस्टर।"
+    },
+    {
+      "name": "Nature",
+      "description": "शांति और ताजगी से जुड़ने का माध्यम। प्राकृतिक पोस्टर तनाव कम करते हैं और दृश्य संतुलन लाते हैं।"
+    },
+    {
+      "name": "Ram",
+      "description": "भगवान राम धर्म, अनुशासन और नैतिक शक्ति के प्रतीक हैं। शांति और पारिवारिक मूल्यों के लिए आदर्श।"
+    },
+    {
+      "name": "Mahakal",
+      "description": "महाकाल समय, शक्ति और निर्भयता का प्रतीक हैं। आत्मविश्वास बढ़ाने वाली सशक्त आध्यात्मिक उपस्थिति।"
+    },
+    {
+      "name": "Tirupati Balaji",
+      "description": "धन, भक्ति और मनोकामना पूर्ति से जुड़े। घर और कार्यस्थल के लिए अत्यंत शुभ।"
+    },
+    {
+      "name": "Ram Darbar",
+      "description": "आदर्श पारिवारिक मूल्यों और नेतृत्व का संपूर्ण चित्र। एकता, भक्ति और सामंजस्य को प्रोत्साहित करता है।"
+    },
+    {
+      "name": "Shiva Family",
+      "description": "शक्ति, करुणा और परिवार के संतुलन का प्रतीक। घर में आध्यात्मिक स्थिरता लाता है।"
+    },
+    {
+      "name": "Hanuman",
+      "description": "भक्ति, शक्ति और सुरक्षा का प्रतीक। साहस, एकाग्रता और भय से मुक्ति के लिए उपयुक्त।"
+    },
+    {
+      "name": "Buddha",
+      "description": "शांति, सजगता और ज्ञानोदय का प्रतीक। ध्यान कक्ष और शांत वातावरण के लिए उपयुक्त।"
+    },
+    {
+      "name": "Mixed Gods",
+      "description": "विभिन्न देवी-देवताओं की सामूहिक दिव्य ऊर्जा। एक ही चित्र में संपूर्ण आध्यात्मिक संतुलन के लिए।"
+    },
+    {
+      "name": "Khatu Shyam",
+      "description": "आस्था, चमत्कार और अटूट भक्ति के लिए प्रसिद्ध। भक्तों के लिए आशा और भावनात्मक शक्ति प्रदान करता है।"
+    },
+    {
+      "name": "Modern",
+      "description": "आधुनिक कला जो शैली और व्यक्तित्व जोड़ती है। आधुनिक इंटीरियर और रचनात्मक स्थानों के लिए आदर्श।"
+    },
+    {
+      "name": "Lakshmi Ganesh Saraswati",
+      "description": "धन, विद्या और सफलता का शक्तिशाली संगम। समृद्धि और शिक्षा के लिए अत्यंत लाभकारी।"
+    },
+    {
+      "name": "Mixed Art",
+      "description": "जिसका कोई निश्चित विषय नहीं होता। इसमें गणेश, बुद्ध, घोड़े, प्रकृति या आधुनिक कला कुछ भी हो सकता है।"
+    }
+  ]
+}

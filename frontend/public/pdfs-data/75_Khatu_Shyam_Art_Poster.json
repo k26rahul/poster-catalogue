@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/1-per-page/75_Khatu_Shyam_Art_Poster.pdf",
+  "id": "75_Khatu_Shyam_Art_Poster",
+  "path": "./data/poster-pdfs/1-per-page/75_Khatu_Shyam_Art_Poster.pdf",
+  "category": "Khatu Shyam",
+  "total_posters": 33,
+  "thumbnail": "75_Khatu_Shyam_Art_Poster--p1--KHS_001--2afd7.jpg",
   "posters": [
     {
       "page_no": 1,

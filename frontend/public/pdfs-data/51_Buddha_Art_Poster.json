@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/1-per-page/51_Buddha_Art_Poster.pdf",
+  "id": "51_Buddha_Art_Poster",
+  "path": "./data/poster-pdfs/1-per-page/51_Buddha_Art_Poster.pdf",
+  "category": "Buddha",
+  "total_posters": 19,
+  "thumbnail": "51_Buddha_Art_Poster--p1--B-2277--58f28.jpg",
   "posters": [
     {
       "page_no": 1,

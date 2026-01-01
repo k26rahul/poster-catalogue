@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/multi-per-page/04_Ganesh_Art_Poster.pdf",
+  "id": "04_Ganesh_Art_Poster",
+  "path": "./data/poster-pdfs/multi-per-page/04_Ganesh_Art_Poster.pdf",
+  "category": "Ganesh",
+  "total_posters": 246,
+  "thumbnail": "04_Ganesh_Art_Poster--p2--7529--1f68b.jpg",
   "posters": [
     {
       "page_no": 2,

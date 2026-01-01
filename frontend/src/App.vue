@@ -10,3 +10,10 @@ import BottomNav from './components/BottomNav.vue';
 
   <BottomNav />
 </template>
+
+<style>
+main {
+  flex: 1;
+  padding-bottom: 64px; /* space for bottom nav */
+}
+</style>

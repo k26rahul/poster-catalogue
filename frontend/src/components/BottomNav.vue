@@ -1,28 +1,29 @@
 <script setup>
 import { RouterLink } from 'vue-router';
+import { Icon } from '@iconify/vue';
 </script>
 
 <template>
-  <nav class="bottom-nav">
+  <nav>
     <RouterLink to="/" class="nav-item">
-      <i class="bi bi-house"></i>
+      <Icon icon="mdi:home-outline" />
       <span>Home</span>
     </RouterLink>
 
     <RouterLink to="/cart" class="nav-item">
-      <i class="bi bi-cart"></i>
+      <Icon icon="mdi:cart-outline" />
       <span>Cart</span>
     </RouterLink>
 
     <RouterLink to="/history" class="nav-item">
-      <i class="bi bi-clock-history"></i>
+      <Icon icon="mdi:history" />
       <span>History</span>
     </RouterLink>
   </nav>
 </template>
 
 <style scoped>
-.bottom-nav {
+nav {
   position: fixed;
   bottom: 0;
   left: 0;
@@ -31,7 +32,7 @@ import { RouterLink } from 'vue-router';
   display: flex;
   align-items: center;
   border-top: 1px solid #ddd;
-  background: #fff;
+  background-color: #fff;
 }
 
 .nav-item {
@@ -46,7 +47,7 @@ import { RouterLink } from 'vue-router';
   color: #555;
 }
 
-.nav-item i {
+.nav-item :deep(svg) {
   font-size: 20px;
 }
 
@@ -55,6 +56,6 @@ import { RouterLink } from 'vue-router';
 }
 
 .router-link-active {
-  color: #0d6efd;
+  color: DodgerBlue;
 }
 </style>

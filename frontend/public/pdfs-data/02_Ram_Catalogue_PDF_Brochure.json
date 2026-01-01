@@ -1,5 +1,9 @@
 {
-  "pdf_path": "./data/poster-pdfs/1-per-page/02_Ram_Catalogue_PDF_Brochure.pdf",
+  "id": "02_Ram_Catalogue_PDF_Brochure",
+  "path": "./data/poster-pdfs/1-per-page/02_Ram_Catalogue_PDF_Brochure.pdf",
+  "category": "Ram",
+  "total_posters": 92,
+  "thumbnail": "02_Ram_Catalogue_PDF_Brochure--p1--R-14070--69d37.jpg",
   "posters": [
     {
       "page_no": 1,

@@ -10,9 +10,20 @@ const router = createRouter({
       component: HomeView,
     },
     {
+      path: '/pdf/:pdfName',
+      name: 'pdf',
+      component: () => import('../views/PdfView.vue'),
+      props: true,
+    },
+    {
       path: '/cart',
       name: 'cart',
       component: () => import('../views/CartView.vue'),
+    },
+    {
+      path: '/checkout',
+      name: 'checkout',
+      component: () => import('../views/CheckoutView.vue'),
     },
     {
       path: '/history',
