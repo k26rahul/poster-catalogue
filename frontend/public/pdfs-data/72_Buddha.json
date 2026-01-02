@@ -1,0 +1,288 @@
+{
+  "id": "72_Buddha",
+  "path": "1-per-page/72_Buddha.pdf",
+  "category": "Buddha",
+  "total_posters": 31,
+  "thumbnail": "72_Buddha--p1--B2296--b583a.jpg",
+  "posters": [
+    {
+      "page_no": 1,
+      "code": "B2296",
+      "image_file": "72_Buddha--p1--B2296--b583a.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 2,
+      "code": "B2297",
+      "image_file": "72_Buddha--p2--B2297--5766e.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 3,
+      "code": "B2298",
+      "image_file": "72_Buddha--p3--B2298--7537a.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 4,
+      "code": "B2299",
+      "image_file": "72_Buddha--p4--B2299--491e9.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 5,
+      "code": "B2300",
+      "image_file": "72_Buddha--p5--B2300--040e3.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 6,
+      "code": "B2301",
+      "image_file": "72_Buddha--p6--B2301--e22ee.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 7,
+      "code": "B2302",
+      "image_file": "72_Buddha--p7--B2302--909e2.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 8,
+      "code": "B-2303",
+      "image_file": "72_Buddha--p8--B-2303--f9497.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 9,
+      "code": "B-2304",
+      "image_file": "72_Buddha--p9--B-2304--b9064.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 10,
+      "code": "B-2305",
+      "image_file": "72_Buddha--p10--B-2305--8a93e.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 11,
+      "code": "B-2306",
+      "image_file": "72_Buddha--p11--B-2306--134f1.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 12,
+      "code": "B-2307",
+      "image_file": "72_Buddha--p12--B-2307--9e7ee.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 13,
+      "code": "B-2308",
+      "image_file": "72_Buddha--p13--B-2308--04876.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 14,
+      "code": "B-2309",
+      "image_file": "72_Buddha--p14--B-2309--d17de.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 15,
+      "code": "B-2310",
+      "image_file": "72_Buddha--p15--B-2310--3602f.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 16,
+      "code": "B-2311",
+      "image_file": "72_Buddha--p16--B-2311--5ca56.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 17,
+      "code": "B-2312",
+      "image_file": "72_Buddha--p17--B-2312--52f06.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 18,
+      "code": "B-2313",
+      "image_file": "72_Buddha--p18--B-2313--e0472.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 19,
+      "code": "B-2314",
+      "image_file": "72_Buddha--p19--B-2314--d4782.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 20,
+      "code": "B-2315",
+      "image_file": "72_Buddha--p20--B-2315--6f417.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 21,
+      "code": "B-2316",
+      "image_file": "72_Buddha--p21--B-2316--515e5.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 22,
+      "code": "B-2317",
+      "image_file": "72_Buddha--p22--B-2317--7a670.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 23,
+      "code": "B-2318",
+      "image_file": "72_Buddha--p23--B-2318--e3f07.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 24,
+      "code": "B-2319",
+      "image_file": "72_Buddha--p24--B-2319--9a574.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 25,
+      "code": "B-2320",
+      "image_file": "72_Buddha--p25--B-2320--0fffb.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 26,
+      "code": "B-2321",
+      "image_file": "72_Buddha--p26--B-2321--1516d.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 27,
+      "code": "B-2322",
+      "image_file": "72_Buddha--p27--B-2322--3c36d.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 28,
+      "code": "B-2323",
+      "image_file": "72_Buddha--p28--B-2323--6dc00.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 29,
+      "code": "B-2324",
+      "image_file": "72_Buddha--p29--B-2324--c2d68.jpg",
+      "size": [
+        587,
+        391
+      ]
+    },
+    {
+      "page_no": 30,
+      "code": "B-2325",
+      "image_file": "72_Buddha--p30--B-2325--d61b5.jpg",
+      "size": [
+        295,
+        443
+      ]
+    },
+    {
+      "page_no": 31,
+      "code": "B-2326",
+      "image_file": "72_Buddha--p31--B-2326--8edf9.jpg",
+      "size": [
+        295,
+        443
+      ]
+    }
+  ]
+}
