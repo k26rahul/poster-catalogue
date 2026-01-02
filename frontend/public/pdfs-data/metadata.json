@@ -5,175 +5,1325 @@
       "path": "multi-per-page/01_Radha_Krishna.pdf",
       "category": "Radha Krishna",
       "total_posters": 564,
-      "thumbnail": "01_Radha_Krishna--p2--7121--522a9.jpg"
+      "posters_sample": [
+        {
+          "page_no": 3,
+          "code": "7113",
+          "image_file": "01_Radha_Krishna--p3--7113--18006.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 87,
+          "code": "6448",
+          "image_file": "01_Radha_Krishna--p87--6448--4837f.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 71,
+          "code": "6711",
+          "image_file": "01_Radha_Krishna--p71--6711--e75c0.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 48,
+          "code": "6830",
+          "image_file": "01_Radha_Krishna--p48--6830--a05cf.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 48,
+          "code": "6828",
+          "image_file": "01_Radha_Krishna--p48--6828--89913.jpg",
+          "size": [
+            216,
+            144
+          ]
+        }
+      ]
     },
     {
       "id": "02_Radha_Krishna_Vertical",
       "path": "multi-per-page/02_Radha_Krishna_Vertical.pdf",
       "category": "Radha Krishna",
       "total_posters": 222,
-      "thumbnail": "02_Radha_Krishna_Vertical--p2--6893--3cb9b.jpg"
+      "posters_sample": [
+        {
+          "page_no": 9,
+          "code": "6816",
+          "image_file": "02_Radha_Krishna_Vertical--p9--6816--d504c.jpg",
+          "size": [
+            200,
+            301
+          ]
+        },
+        {
+          "page_no": 2,
+          "code": "6895",
+          "image_file": "02_Radha_Krishna_Vertical--p2--6895--fa374.jpg",
+          "size": [
+            200,
+            301
+          ]
+        },
+        {
+          "page_no": 3,
+          "code": "6900",
+          "image_file": "02_Radha_Krishna_Vertical--p3--6900--1e343.jpg",
+          "size": [
+            200,
+            301
+          ]
+        },
+        {
+          "page_no": 8,
+          "code": "6496",
+          "image_file": "02_Radha_Krishna_Vertical--p8--6496--002e6.jpg",
+          "size": [
+            200,
+            301
+          ]
+        },
+        {
+          "page_no": 7,
+          "code": "6550",
+          "image_file": "02_Radha_Krishna_Vertical--p7--6550--0dfbd.jpg",
+          "size": [
+            200,
+            301
+          ]
+        }
+      ]
     },
     {
       "id": "03_Mixed",
       "path": "multi-per-page/03_Mixed.pdf",
       "category": "Mixed",
       "total_posters": 87,
-      "thumbnail": "03_Mixed--p2--27001--63ff1.jpg"
+      "posters_sample": [
+        {
+          "page_no": 14,
+          "code": "27077",
+          "image_file": "03_Mixed--p14--27077--d803d.jpg",
+          "size": [
+            301,
+            200
+          ]
+        },
+        {
+          "page_no": 9,
+          "code": "27045",
+          "image_file": "03_Mixed--p9--27045--32750.jpg",
+          "size": [
+            301,
+            200
+          ]
+        },
+        {
+          "page_no": 12,
+          "code": "27065",
+          "image_file": "03_Mixed--p12--27065--2a059.jpg",
+          "size": [
+            301,
+            200
+          ]
+        },
+        {
+          "page_no": 5,
+          "code": "27019",
+          "image_file": "03_Mixed--p5--27019--b512e.jpg",
+          "size": [
+            301,
+            200
+          ]
+        },
+        {
+          "page_no": 15,
+          "code": "27078",
+          "image_file": "03_Mixed--p15--27078--28891.jpg",
+          "size": [
+            301,
+            200
+          ]
+        }
+      ]
     },
     {
       "id": "04_Ganesh",
       "path": "multi-per-page/04_Ganesh.pdf",
       "category": "Ganesh",
       "total_posters": 246,
-      "thumbnail": "04_Ganesh--p2--7529--1f68b.jpg"
+      "posters_sample": [
+        {
+          "page_no": 10,
+          "code": "7478",
+          "image_file": "04_Ganesh--p10--7478--00954.jpg",
+          "size": [
+            301,
+            200
+          ]
+        },
+        {
+          "page_no": 31,
+          "code": "7430",
+          "image_file": "04_Ganesh--p31--7430--a5270.jpg",
+          "size": [
+            200,
+            301
+          ]
+        },
+        {
+          "page_no": 33,
+          "code": "7396",
+          "image_file": "04_Ganesh--p33--7396--feb65.jpg",
+          "size": [
+            200,
+            301
+          ]
+        },
+        {
+          "page_no": 26,
+          "code": "7353",
+          "image_file": "04_Ganesh--p26--7353--e092f.jpg",
+          "size": [
+            301,
+            200
+          ]
+        },
+        {
+          "page_no": 25,
+          "code": "7339",
+          "image_file": "04_Ganesh--p25--7339--ac4da.jpg",
+          "size": [
+            301,
+            200
+          ]
+        }
+      ]
     },
     {
       "id": "08_Ambedkar_Buddha",
       "path": "multi-per-page/08_Ambedkar_Buddha.pdf",
       "category": "Ambedkar Buddha",
       "total_posters": 30,
-      "thumbnail": "08_Ambedkar_Buddha--p2--AB-3023--e30cc.jpg"
+      "posters_sample": [
+        {
+          "page_no": 5,
+          "code": "AB-3013",
+          "image_file": "08_Ambedkar_Buddha--p5--AB-3013--7d69a.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 4,
+          "code": "AB-3003",
+          "image_file": "08_Ambedkar_Buddha--p4--AB-3003--2747f.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 3,
+          "code": "AB-3017",
+          "image_file": "08_Ambedkar_Buddha--p3--AB-3017--a27d3.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 5,
+          "code": "AB-3008",
+          "image_file": "08_Ambedkar_Buddha--p5--AB-3008--5cf12.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 2,
+          "code": "AB-3023",
+          "image_file": "08_Ambedkar_Buddha--p2--AB-3023--e30cc.jpg",
+          "size": [
+            216,
+            144
+          ]
+        }
+      ]
     },
     {
       "id": "08_Horse",
       "path": "multi-per-page/08_Horse.pdf",
       "category": "Horse",
       "total_posters": 60,
-      "thumbnail": "08_Horse--p2--27066--50bcc.jpg"
+      "posters_sample": [
+        {
+          "page_no": 9,
+          "code": "4094",
+          "image_file": "08_Horse--p9--4094--37e35.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 6,
+          "code": "4124",
+          "image_file": "08_Horse--p6--4124--35262.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 5,
+          "code": "4133",
+          "image_file": "08_Horse--p5--4133--2669e.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 11,
+          "code": "4109",
+          "image_file": "08_Horse--p11--4109--d95c7.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 8,
+          "code": "4077",
+          "image_file": "08_Horse--p8--4077--a95a9.jpg",
+          "size": [
+            216,
+            144
+          ]
+        }
+      ]
     },
     {
       "id": "09_Ambedkar",
       "path": "multi-per-page/09_Ambedkar.pdf",
       "category": "Ambedkar",
       "total_posters": 36,
-      "thumbnail": "09_Ambedkar--p2--AMB-003--a859c.jpg"
+      "posters_sample": [
+        {
+          "page_no": 5,
+          "code": "AMB-006",
+          "image_file": "09_Ambedkar--p5--AMB-006--1b915.jpg",
+          "size": [
+            144,
+            216
+          ]
+        },
+        {
+          "page_no": 4,
+          "code": "AMB-022",
+          "image_file": "09_Ambedkar--p4--AMB-022--70c98.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 7,
+          "code": "AMB-021",
+          "image_file": "09_Ambedkar--p7--AMB-021--77c18.jpg",
+          "size": [
+            144,
+            216
+          ]
+        },
+        {
+          "page_no": 4,
+          "code": "AMB-024",
+          "image_file": "09_Ambedkar--p4--AMB-024--ed4cf.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 7,
+          "code": "AMB-023",
+          "image_file": "09_Ambedkar--p7--AMB-023--c3c40.jpg",
+          "size": [
+            144,
+            216
+          ]
+        }
+      ]
     },
     {
       "id": "38_Nature",
       "path": "multi-per-page/38_Nature.pdf",
       "category": "Nature",
       "total_posters": 1058,
-      "thumbnail": "38_Nature--p2--9058--2508e.jpg"
+      "posters_sample": [
+        {
+          "page_no": 132,
+          "code": "8275",
+          "image_file": "38_Nature--p132--8275--a8b83.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 39,
+          "code": "8833",
+          "image_file": "38_Nature--p39--8833--84dcc.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 113,
+          "code": "8391",
+          "image_file": "38_Nature--p113--8391--8311a.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 141,
+          "code": "8220",
+          "image_file": "38_Nature--p141--8220--473bb.jpg",
+          "size": [
+            216,
+            144
+          ]
+        },
+        {
+          "page_no": 21,
+          "code": "8942",
+          "image_file": "38_Nature--p21--8942--7e7ab.jpg",
+          "size": [
+            216,
+            144
+          ]
+        }
+      ]
     },
     {
       "id": "02_Ram",
       "path": "1-per-page/02_Ram.pdf",
       "category": "Ram",
       "total_posters": 92,
-      "thumbnail": "02_Ram--p1--R-14070--69d37.jpg"
+      "posters_sample": [
+        {
+          "page_no": 74,
+          "code": "R-14026",
+          "image_file": "02_Ram--p74--R-14026--a2b61.jpg",
+          "size": [
+            345,
+            517
+          ]
+        },
+        {
+          "page_no": 45,
+          "code": "R-14084",
+          "image_file": "02_Ram--p45--R-14084--62065.jpg",
+          "size": [
+            517,
+            345
+          ]
+        },
+        {
+          "page_no": 13,
+          "code": "R-14043",
+          "image_file": "02_Ram--p13--R-14043--d5ef4.jpg",
+          "size": [
+            517,
+            345
+          ]
+        },
+        {
+          "page_no": 40,
+          "code": "R-14079",
+          "image_file": "02_Ram--p40--R-14079--a94b7.jpg",
+          "size": [
+            345,
+            517
+          ]
+        },
+        {
+          "page_no": 26,
+          "code": "R-14056",
+          "image_file": "02_Ram--p26--R-14056--f09a2.jpg",
+          "size": [
+            517,
+            345
+          ]
+        }
+      ]
     },
     {
       "id": "29_Chinese_Scenery_Modern",
       "path": "1-per-page/29_Chinese_Scenery_Modern.pdf",
       "category": "Chinese Scenery",
       "total_posters": 109,
-      "thumbnail": "29_Chinese_Scenery_Modern--p2--21001--af43e.jpg"
+      "posters_sample": [
+        {
+          "page_no": 3,
+          "code": "21002",
+          "image_file": "29_Chinese_Scenery_Modern--p3--21002--44d88.jpg",
+          "size": [
+            705,
+            469
+          ]
+        },
+        {
+          "page_no": 6,
+          "code": "21005",
+          "image_file": "29_Chinese_Scenery_Modern--p6--21005--9a81c.jpg",
+          "size": [
+            705,
+            469
+          ]
+        },
+        {
+          "page_no": 14,
+          "code": "21013",
+          "image_file": "29_Chinese_Scenery_Modern--p14--21013--0d1d6.jpg",
+          "size": [
+            705,
+            469
+          ]
+        },
+        {
+          "page_no": 52,
+          "code": "21051",
+          "image_file": "29_Chinese_Scenery_Modern--p52--21051--fc195.jpg",
+          "size": [
+            705,
+            469
+          ]
+        },
+        {
+          "page_no": 78,
+          "code": "21077",
+          "image_file": "29_Chinese_Scenery_Modern--p78--21077--58381.jpg",
+          "size": [
+            705,
+            469
+          ]
+        }
+      ]
     },
     {
       "id": "30_Chinese_Scenery_Modern",
       "path": "1-per-page/30_Chinese_Scenery_Modern.pdf",
       "category": "Chinese Scenery",
       "total_posters": 125,
-      "thumbnail": "30_Chinese_Scenery_Modern--p2--22001--95e57.jpg"
+      "posters_sample": [
+        {
+          "page_no": 66,
+          "code": "22065",
+          "image_file": "30_Chinese_Scenery_Modern--p66--22065--a438e.jpg",
+          "size": [
+            705,
+            469
+          ]
+        },
+        {
+          "page_no": 38,
+          "code": "22037",
+          "image_file": "30_Chinese_Scenery_Modern--p38--22037--bfa90.jpg",
+          "size": [
+            705,
+            469
+          ]
+        },
+        {
+          "page_no": 42,
+          "code": "22041",
+          "image_file": "30_Chinese_Scenery_Modern--p42--22041--19c9d.jpg",
+          "size": [
+            705,
+            469
+          ]
+        },
+        {
+          "page_no": 23,
+          "code": "22022",
+          "image_file": "30_Chinese_Scenery_Modern--p23--22022--f179f.jpg",
+          "size": [
+            705,
+            469
+          ]
+        },
+        {
+          "page_no": 108,
+          "code": "22107",
+          "image_file": "30_Chinese_Scenery_Modern--p108--22107--f65f6.jpg",
+          "size": [
+            705,
+            469
+          ]
+        }
+      ]
     },
     {
       "id": "31_Chinese_Scenery_Modern",
       "path": "1-per-page/31_Chinese_Scenery_Modern.pdf",
       "category": "Chinese Scenery",
       "total_posters": 116,
-      "thumbnail": "31_Chinese_Scenery_Modern--p1--0000--8237a.jpg"
+      "posters_sample": [
+        {
+          "page_no": 21,
+          "code": "24019",
+          "image_file": "31_Chinese_Scenery_Modern--p21--24019--27542.jpg",
+          "size": [
+            705,
+            470
+          ]
+        },
+        {
+          "page_no": 40,
+          "code": "24038",
+          "image_file": "31_Chinese_Scenery_Modern--p40--24038--3e793.jpg",
+          "size": [
+            705,
+            470
+          ]
+        },
+        {
+          "page_no": 71,
+          "code": "24069",
+          "image_file": "31_Chinese_Scenery_Modern--p71--24069--f3a38.jpg",
+          "size": [
+            705,
+            470
+          ]
+        },
+        {
+          "page_no": 79,
+          "code": "24077",
+          "image_file": "31_Chinese_Scenery_Modern--p79--24077--f4d43.jpg",
+          "size": [
+            705,
+            470
+          ]
+        },
+        {
+          "page_no": 59,
+          "code": "24057",
+          "image_file": "31_Chinese_Scenery_Modern--p59--24057--cdb99.jpg",
+          "size": [
+            705,
+            470
+          ]
+        }
+      ]
     },
     {
       "id": "40_Mahakal",
       "path": "1-per-page/40_Mahakal.pdf",
       "category": "Mahakal",
       "total_posters": 36,
-      "thumbnail": "40_Mahakal--p1--Mahakal001--399be.jpg"
+      "posters_sample": [
+        {
+          "page_no": 21,
+          "code": "Mahakal021",
+          "image_file": "40_Mahakal--p21--Mahakal021--6b936.jpg",
+          "size": [
+            376,
+            250
+          ]
+        },
+        {
+          "page_no": 22,
+          "code": "Mahakal022",
+          "image_file": "40_Mahakal--p22--Mahakal022--de4c2.jpg",
+          "size": [
+            376,
+            250
+          ]
+        },
+        {
+          "page_no": 34,
+          "code": "Mahakal034",
+          "image_file": "40_Mahakal--p34--Mahakal034--6e06b.jpg",
+          "size": [
+            376,
+            250
+          ]
+        },
+        {
+          "page_no": 17,
+          "code": "Mahakal017",
+          "image_file": "40_Mahakal--p17--Mahakal017--2442f.jpg",
+          "size": [
+            376,
+            250
+          ]
+        },
+        {
+          "page_no": 9,
+          "code": "Mahakal009",
+          "image_file": "40_Mahakal--p9--Mahakal009--0967e.jpg",
+          "size": [
+            376,
+            250
+          ]
+        }
+      ]
     },
     {
       "id": "45_Tirupati_Balaji",
       "path": "1-per-page/45_Tirupati_Balaji.pdf",
       "category": "Tirupati Balaji",
       "total_posters": 24,
-      "thumbnail": "45_Tirupati_Balaji--p1--10001--2447a.jpg"
+      "posters_sample": [
+        {
+          "page_no": 10,
+          "code": "10010",
+          "image_file": "45_Tirupati_Balaji--p10--10010--834f2.jpg",
+          "size": [
+            600,
+            300
+          ]
+        },
+        {
+          "page_no": 14,
+          "code": "10014",
+          "image_file": "45_Tirupati_Balaji--p14--10014--8b438.jpg",
+          "size": [
+            354,
+            472
+          ]
+        },
+        {
+          "page_no": 5,
+          "code": "10005",
+          "image_file": "45_Tirupati_Balaji--p5--10005--78ea9.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 9,
+          "code": "10009",
+          "image_file": "45_Tirupati_Balaji--p9--10009--09305.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 8,
+          "code": "10008",
+          "image_file": "45_Tirupati_Balaji--p8--10008--aad6d.jpg",
+          "size": [
+            354,
+            531
+          ]
+        }
+      ]
     },
     {
       "id": "46_Ram_Darbar",
       "path": "1-per-page/46_Ram_Darbar.pdf",
       "category": "Ram Darbar",
       "total_posters": 9,
-      "thumbnail": "46_Ram_Darbar--p1--R-14001--908db.jpg"
+      "posters_sample": [
+        {
+          "page_no": 8,
+          "code": "R-14008",
+          "image_file": "46_Ram_Darbar--p8--R-14008--ef5fc.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 1,
+          "code": "R-14001",
+          "image_file": "46_Ram_Darbar--p1--R-14001--908db.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 6,
+          "code": "R-14006",
+          "image_file": "46_Ram_Darbar--p6--R-14006--0154b.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 5,
+          "code": "R-14005",
+          "image_file": "46_Ram_Darbar--p5--R-14005--3b6b8.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 2,
+          "code": "R-14002",
+          "image_file": "46_Ram_Darbar--p2--R-14002--92e0a.jpg",
+          "size": [
+            354,
+            531
+          ]
+        }
+      ]
     },
     {
       "id": "47_Shiva_Family",
       "path": "1-per-page/47_Shiva_Family.pdf",
       "category": "Shiva Family",
       "total_posters": 26,
-      "thumbnail": "47_Shiva_Family--p1--10057--518b3.jpg"
+      "posters_sample": [
+        {
+          "page_no": 10,
+          "code": "10066",
+          "image_file": "47_Shiva_Family--p10--10066--4cbf1.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 23,
+          "code": "10079",
+          "image_file": "47_Shiva_Family--p23--10079--95e0c.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 12,
+          "code": "10068",
+          "image_file": "47_Shiva_Family--p12--10068--8348e.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 15,
+          "code": "10071",
+          "image_file": "47_Shiva_Family--p15--10071--15b4a.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 3,
+          "code": "10059",
+          "image_file": "47_Shiva_Family--p3--10059--738d2.jpg",
+          "size": [
+            354,
+            531
+          ]
+        }
+      ]
     },
     {
       "id": "48_Hanuman",
       "path": "1-per-page/48_Hanuman.pdf",
       "category": "Hanuman",
       "total_posters": 20,
-      "thumbnail": "48_Hanuman--p1--H-9001--a4751.jpg"
+      "posters_sample": [
+        {
+          "page_no": 20,
+          "code": "H-9020",
+          "image_file": "48_Hanuman--p20--H-9020--cef9b.jpg",
+          "size": [
+            354,
+            495
+          ]
+        },
+        {
+          "page_no": 14,
+          "code": "H-9014",
+          "image_file": "48_Hanuman--p14--H-9014--39b14.jpg",
+          "size": [
+            354,
+            464
+          ]
+        },
+        {
+          "page_no": 12,
+          "code": "H-9012",
+          "image_file": "48_Hanuman--p12--H-9012--3ab76.jpg",
+          "size": [
+            354,
+            472
+          ]
+        },
+        {
+          "page_no": 5,
+          "code": "H-9005",
+          "image_file": "48_Hanuman--p5--H-9005--24545.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 19,
+          "code": "H-9019",
+          "image_file": "48_Hanuman--p19--H-9019--a2ce7.jpg",
+          "size": [
+            354,
+            531
+          ]
+        }
+      ]
     },
     {
       "id": "51_Buddha",
       "path": "1-per-page/51_Buddha.pdf",
       "category": "Buddha",
       "total_posters": 19,
-      "thumbnail": "51_Buddha--p1--B-2277--58f28.jpg"
+      "posters_sample": [
+        {
+          "page_no": 17,
+          "code": "B-2293",
+          "image_file": "51_Buddha--p17--B-2293--2959b.jpg",
+          "size": [
+            705,
+            470
+          ]
+        },
+        {
+          "page_no": 19,
+          "code": "B-2295",
+          "image_file": "51_Buddha--p19--B-2295--c5666.jpg",
+          "size": [
+            705,
+            470
+          ]
+        },
+        {
+          "page_no": 13,
+          "code": "B-2289",
+          "image_file": "51_Buddha--p13--B-2289--7af40.jpg",
+          "size": [
+            705,
+            470
+          ]
+        },
+        {
+          "page_no": 10,
+          "code": "B-2286",
+          "image_file": "51_Buddha--p10--B-2286--4a7db.jpg",
+          "size": [
+            705,
+            470
+          ]
+        },
+        {
+          "page_no": 7,
+          "code": "B-2283",
+          "image_file": "51_Buddha--p7--B-2283--1a646.jpg",
+          "size": [
+            705,
+            470
+          ]
+        }
+      ]
     },
     {
       "id": "61_Mixed_Gods",
       "path": "1-per-page/61_Mixed_Gods.pdf",
       "category": "Mixed Gods",
       "total_posters": 90,
-      "thumbnail": "61_Mixed_Gods--p1--MIG001--32b18.jpg"
+      "posters_sample": [
+        {
+          "page_no": 21,
+          "code": "MIG021",
+          "image_file": "61_Mixed_Gods--p21--MIG021--74876.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 30,
+          "code": "MIG030",
+          "image_file": "61_Mixed_Gods--p30--MIG030--70b9f.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 33,
+          "code": "MIG033",
+          "image_file": "61_Mixed_Gods--p33--MIG033--af95b.jpg",
+          "size": [
+            704,
+            469
+          ]
+        },
+        {
+          "page_no": 8,
+          "code": "MIG008",
+          "image_file": "61_Mixed_Gods--p8--MIG008--24e34.jpg",
+          "size": [
+            354,
+            531
+          ]
+        },
+        {
+          "page_no": 29,
+          "code": "MIG029",
+          "image_file": "61_Mixed_Gods--p29--MIG029--bd536.jpg",
+          "size": [
+            354,
+            531
+          ]
+        }
+      ]
     },
     {
       "id": "72_Buddha",
       "path": "1-per-page/72_Buddha.pdf",
       "category": "Buddha",
       "total_posters": 31,
-      "thumbnail": "72_Buddha--p1--B2296--b583a.jpg"
+      "posters_sample": [
+        {
+          "page_no": 28,
+          "code": "B-2323",
+          "image_file": "72_Buddha--p28--B-2323--6dc00.jpg",
+          "size": [
+            295,
+            443
+          ]
+        },
+        {
+          "page_no": 27,
+          "code": "B-2322",
+          "image_file": "72_Buddha--p27--B-2322--3c36d.jpg",
+          "size": [
+            587,
+            391
+          ]
+        },
+        {
+          "page_no": 10,
+          "code": "B-2305",
+          "image_file": "72_Buddha--p10--B-2305--8a93e.jpg",
+          "size": [
+            295,
+            443
+          ]
+        },
+        {
+          "page_no": 31,
+          "code": "B-2326",
+          "image_file": "72_Buddha--p31--B-2326--8edf9.jpg",
+          "size": [
+            295,
+            443
+          ]
+        },
+        {
+          "page_no": 16,
+          "code": "B-2311",
+          "image_file": "72_Buddha--p16--B-2311--5ca56.jpg",
+          "size": [
+            295,
+            443
+          ]
+        }
+      ]
     },
     {
       "id": "75_Khatu_Shyam",
       "path": "1-per-page/75_Khatu_Shyam.pdf",
       "category": "Khatu Shyam",
       "total_posters": 33,
-      "thumbnail": "75_Khatu_Shyam--p1--KHS_001--2afd7.jpg"
+      "posters_sample": [
+        {
+          "page_no": 22,
+          "code": "KHS_022",
+          "image_file": "75_Khatu_Shyam--p22--KHS_022--44b5d.jpg",
+          "size": [
+            295,
+            443
+          ]
+        },
+        {
+          "page_no": 25,
+          "code": "KHS_025",
+          "image_file": "75_Khatu_Shyam--p25--KHS_025--a4683.jpg",
+          "size": [
+            587,
+            391
+          ]
+        },
+        {
+          "page_no": 2,
+          "code": "KHS_002",
+          "image_file": "75_Khatu_Shyam--p2--KHS_002--a7c1e.jpg",
+          "size": [
+            295,
+            443
+          ]
+        },
+        {
+          "page_no": 4,
+          "code": "KHS_004",
+          "image_file": "75_Khatu_Shyam--p4--KHS_004--06acb.jpg",
+          "size": [
+            295,
+            443
+          ]
+        },
+        {
+          "page_no": 13,
+          "code": "KHS_013",
+          "image_file": "75_Khatu_Shyam--p13--KHS_013--98f01.jpg",
+          "size": [
+            295,
+            443
+          ]
+        }
+      ]
     },
     {
       "id": "39_Modern",
       "path": "ocr-needed/39_Modern.pdf",
       "category": "Modern",
       "total_posters": 182,
-      "thumbnail": "39_Modern--p1--25284--55e54.jpg"
+      "posters_sample": [
+        {
+          "page_no": 96,
+          "code": "25379",
+          "image_file": "39_Modern--p96--25379--ea298.jpg",
+          "size": [
+            1800,
+            1200
+          ]
+        },
+        {
+          "page_no": 153,
+          "code": "25436",
+          "image_file": "39_Modern--p153--25436--cc4fc.jpg",
+          "size": [
+            1800,
+            1200
+          ]
+        },
+        {
+          "page_no": 151,
+          "code": "25434",
+          "image_file": "39_Modern--p151--25434--303db.jpg",
+          "size": [
+            1800,
+            1200
+          ]
+        },
+        {
+          "page_no": 66,
+          "code": "25349",
+          "image_file": "39_Modern--p66--25349--d1cee.jpg",
+          "size": [
+            1800,
+            1200
+          ]
+        },
+        {
+          "page_no": 2,
+          "code": "25285",
+          "image_file": "39_Modern--p2--25285--cab2e.jpg",
+          "size": [
+            1800,
+            1200
+          ]
+        }
+      ]
     },
     {
       "id": "43_Modern",
       "path": "ocr-needed/43_Modern.pdf",
       "category": "Modern",
       "total_posters": 349,
-      "thumbnail": "43_Modern--p1--25725--1703f.jpg"
+      "posters_sample": [
+        {
+          "page_no": 281,
+          "code": "26005",
+          "image_file": "43_Modern--p281--26005--3ba4d.jpg",
+          "size": [
+            500,
+            353
+          ]
+        },
+        {
+          "page_no": 204,
+          "code": "25928",
+          "image_file": "43_Modern--p204--25928--babcd.jpg",
+          "size": [
+            500,
+            353
+          ]
+        },
+        {
+          "page_no": 157,
+          "code": "25881",
+          "image_file": "43_Modern--p157--25881--ed97b.jpg",
+          "size": [
+            500,
+            353
+          ]
+        },
+        {
+          "page_no": 67,
+          "code": "25791",
+          "image_file": "43_Modern--p67--25791--6ef3a.jpg",
+          "size": [
+            500,
+            353
+          ]
+        },
+        {
+          "page_no": 262,
+          "code": "25986",
+          "image_file": "43_Modern--p262--25986--8c722.jpg",
+          "size": [
+            500,
+            353
+          ]
+        }
+      ]
     },
     {
       "id": "44_Modern",
       "path": "ocr-needed/44_Modern.pdf",
       "category": "Modern",
       "total_posters": 155,
-      "thumbnail": "44_Modern--p1--25569--ee5dc.jpg"
+      "posters_sample": [
+        {
+          "page_no": 104,
+          "code": "25672",
+          "image_file": "44_Modern--p104--25672--bb202.jpg",
+          "size": [
+            800,
+            565
+          ]
+        },
+        {
+          "page_no": 16,
+          "code": "25584",
+          "image_file": "44_Modern--p16--25584--7f13c.jpg",
+          "size": [
+            800,
+            565
+          ]
+        },
+        {
+          "page_no": 82,
+          "code": "25650",
+          "image_file": "44_Modern--p82--25650--d11c4.jpg",
+          "size": [
+            800,
+            565
+          ]
+        },
+        {
+          "page_no": 34,
+          "code": "25602",
+          "image_file": "44_Modern--p34--25602--a79a3.jpg",
+          "size": [
+            800,
+            565
+          ]
+        },
+        {
+          "page_no": 151,
+          "code": "25719",
+          "image_file": "44_Modern--p151--25719--c28d5.jpg",
+          "size": [
+            800,
+            565
+          ]
+        }
+      ]
     },
     {
       "id": "49_LGS",
       "path": "ocr-needed/49_LGS.pdf",
       "category": "Lakshmi Ganesh Saraswati",
       "total_posters": 47,
-      "thumbnail": "49_LGS--p1--LGS-1001--96023.jpg"
+      "posters_sample": [
+        {
+          "page_no": 32,
+          "code": "LGS-1032",
+          "image_file": "49_LGS--p32--LGS-1032--633c9.jpg",
+          "size": [
+            900,
+            600
+          ]
+        },
+        {
+          "page_no": 20,
+          "code": "LGS-1020",
+          "image_file": "49_LGS--p20--LGS-1020--fcaf6.jpg",
+          "size": [
+            900,
+            600
+          ]
+        },
+        {
+          "page_no": 19,
+          "code": "LGS-1019",
+          "image_file": "49_LGS--p19--LGS-1019--4f8e5.jpg",
+          "size": [
+            900,
+            600
+          ]
+        },
+        {
+          "page_no": 45,
+          "code": "LGS-1045",
+          "image_file": "49_LGS--p45--LGS-1045--82e41.jpg",
+          "size": [
+            900,
+            600
+          ]
+        },
+        {
+          "page_no": 26,
+          "code": "LGS-1026",
+          "image_file": "49_LGS--p26--LGS-1026--bef3b.jpg",
+          "size": [
+            900,
+            600
+          ]
+        }
+      ]
     }
   ],
   "categories": [

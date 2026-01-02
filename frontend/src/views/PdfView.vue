@@ -38,6 +38,10 @@ onMounted(() => {
 </template>
 
 <style scoped>
+section {
+  padding: 16px;
+}
+
 h2 {
   margin: 12px 0 6px;
   font-size: 1.15rem;

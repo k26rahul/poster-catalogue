@@ -5,39 +5,38 @@ const props = defineProps({
   poster: { type: Object, required: true },
 });
 
-const added = ref(false);
-const qty = ref(1);
+const qty = ref(0);
 
-function addToCart() {
-  added.value = true;
-  qty.value = 1;
-}
-
-function increment() {
+const inc = e => {
+  e.stopPropagation();
   qty.value += 1;
-}
+};
 
-function decrement() {
-  if (qty.value > 1) qty.value -= 1;
-}
+const dec = e => {
+  e.stopPropagation();
+  if (qty.value > 0) qty.value -= 1;
+};
 </script>
 
 <template>
   <div class="poster-card">
-    <img :src="`/poster-images/${poster.image_file}`" :alt="poster.code || 'poster'" />
+    <div class="image-wrap">
+      <img :src="`/poster-images/${poster.image_file}`" :alt="poster.code || 'poster'" />
 
-    <div class="meta">
-      <div class="title">{{ poster.code || `Page ${poster.page_no}` }}</div>
-
-      <div class="actions">
-        <button v-if="!added" class="add-btn" @click="addToCart">Add to cart</button>
-
-        <div v-else class="qty">
-          <button class="qty-btn" @click="decrement">−</button>
-          <div class="qty-val">{{ qty }}</div>
-          <button class="qty-btn" @click="increment">+</button>
+      <div class="qty-overlay" :class="{ active: qty >= 1 }">
+        <!-- LEFT PART (− qty) -->
+        <div class="qty-left" :class="{ visible: qty >= 1 }">
+          <button @click="dec">−</button>
+          <span>{{ qty }}</span>
         </div>
+
+        <!-- RIGHT PART (+ always visible) -->
+        <button class="qty-plus" @click="inc">+</button>
       </div>
+    </div>
+
+    <div class="title">
+      {{ poster.code }}
     </div>
   </div>
 </template>
@@ -46,74 +45,91 @@ function decrement() {
 .poster-card {
   background: #fff;
   border: 1px solid #e6e6e6;
-  border-radius: 8px;
-  padding: 10px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
+  border-radius: 10px;
+  padding: 8px;
 }
 
-.poster-card img {
+/* IMAGE */
+.image-wrap {
+  position: relative;
+}
+
+.image-wrap img {
   width: 100%;
   height: 220px;
-  object-fit: cover;
-  border-radius: 6px;
-  margin-bottom: 8px;
+  object-fit: contain;
+  border-radius: 8px;
+  background: #f4f4f4;
 }
 
-.meta {
-  width: 100%;
+/* QTY OVERLAY */
+.qty-overlay {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  gap: 8px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.qty-overlay.active {
+  background: #ff2f6d;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.qty-left {
+  display: flex;
+  align-items: center;
+  max-width: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: max-width 0.2s ease, opacity 0.15s ease;
+}
+
+.qty-left.visible {
+  max-width: 120px;
+  opacity: 1;
+}
+
+.qty-left button {
+  background: transparent;
+  border: none;
+  font-size: 20px;
+  padding: 8px 12px;
+  color: white;
+  cursor: pointer;
+}
+
+.qty-left span {
+  min-width: 24px;
+  color: white;
+  text-align: center;
+  font-weight: 600;
+}
+
+.qty-plus {
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  color: #ff2f6d;
+  font-size: 26px;
+  border: 2px solid #ff2f6d;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.qty-overlay.active .qty-plus {
+  color: white;
+  background: transparent;
 }
 
 .title {
-  flex: 1 1 auto;
-  text-align: left;
+  margin-top: 6px;
+  font-size: 0.9rem;
   color: #333;
-  font-size: 0.95rem;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-}
-
-.actions {
-  display: flex;
-  align-items: center;
-}
-
-.add-btn {
-  background: #1f6feb;
-  color: white;
-  border: none;
-  padding: 6px 10px;
-  border-radius: 6px;
-  cursor: pointer;
-  font-size: 0.9rem;
-}
-
-.qty {
-  display: inline-flex;
-  align-items: center;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  overflow: hidden;
-}
-
-.qty-btn {
-  background: transparent;
-  border: none;
-  padding: 6px 10px;
-  cursor: pointer;
-  font-size: 1.1rem;
-}
-
-.qty-val {
-  min-width: 36px;
-  text-align: center;
-  padding: 6px 4px;
 }
 </style>

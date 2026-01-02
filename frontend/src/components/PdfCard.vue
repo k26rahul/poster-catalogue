@@ -1,4 +1,5 @@
 <script setup>
+import { ref } from 'vue';
 import { useRouter } from 'vue-router';
 
 const props = defineProps({
@@ -9,6 +10,9 @@ const props = defineProps({
 });
 
 const router = useRouter();
+const current = ref(0);
+
+const posters = props.pdf.posters_sample;
 
 const goToPdf = () => {
   router.push({
@@ -18,11 +22,37 @@ const goToPdf = () => {
     },
   });
 };
+
+let startX = 0;
+
+const onTouchStart = e => {
+  startX = e.touches[0].clientX;
+};
+
+const onTouchEnd = e => {
+  const dx = e.changedTouches[0].clientX - startX;
+  if (Math.abs(dx) < 40) return;
+
+  if (dx < 0 && current.value < posters.length - 1) {
+    current.value++;
+  } else if (dx > 0 && current.value > 0) {
+    current.value--;
+  }
+};
 </script>
 
 <template>
-  <div class="pdf-card" @click="goToPdf">
-    <img :src="`/poster-images/${pdf.thumbnail}`" :alt="pdf.id" />
+  <div class="pdf-card" @click="goToPdf" @touchstart="onTouchStart" @touchend="onTouchEnd">
+    <img :src="`/poster-images/${posters[current].image_file}`" :alt="pdf.id" />
+
+    <div class="dots">
+      <span
+        v-for="(_, i) in posters"
+        :key="i"
+        :class="{ active: i === current }"
+        @click.stop="current = i"
+      />
+    </div>
 
     <h3>{{ pdf.id.replace(/_/g, ' ') }}</h3>
     <p>{{ pdf.total_posters }} posters</p>
@@ -51,9 +81,25 @@ const goToPdf = () => {
 .pdf-card img {
   width: 100%;
   height: 200px;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 6px;
-  margin-bottom: 8px;
+}
+
+.dots {
+  display: flex;
+  gap: 6px;
+  margin: 8px 0 4px;
+}
+
+.dots span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #ccc;
+}
+
+.dots span.active {
+  background: #333;
 }
 
 .pdf-card h3 {
