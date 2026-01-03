@@ -61,13 +61,13 @@ const onTouchEnd = e => {
 
 <style scoped>
 .pdf-card {
-  background: #fff;
-  border: 1px solid #e6e6e6;
-  border-radius: 8px;
-  padding: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding: 10px;
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  background: var(--card-bg);
   text-align: center;
   cursor: pointer;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
@@ -75,14 +75,15 @@ const onTouchEnd = e => {
 
 .pdf-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 4px 12px var(--shadow-hover);
 }
 
 .pdf-card img {
   width: 100%;
-  height: 200px;
-  object-fit: contain;
+  height: 220px;
   border-radius: 6px;
+  object-fit: contain;
+  background: var(--image-bg);
 }
 
 .dots {
@@ -95,22 +96,21 @@ const onTouchEnd = e => {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: #ccc;
+  background: var(--dot-bg);
 }
 
 .dots span.active {
-  background: #333;
+  background: var(--dot-active);
 }
 
 .pdf-card h3 {
   margin: 6px 0 4px;
   font-size: 0.95rem;
-  color: #333;
+  color: var(--text-primary);
 }
 
 .pdf-card p {
-  margin: 0;
-  color: #777;
   font-size: 0.85rem;
+  color: var(--text-secondary);
 }
 </style>

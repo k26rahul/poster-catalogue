@@ -31,8 +31,8 @@ nav {
   height: 64px;
   display: flex;
   align-items: center;
-  border-top: 1px solid #ddd;
-  background-color: #fff;
+  border-top: 1px solid var(--nav-border);
+  background-color: var(--nav-bg);
 }
 
 .nav-item {
@@ -44,7 +44,7 @@ nav {
   height: 100%;
   font-size: 12px;
   text-decoration: none;
-  color: #555;
+  color: var(--nav-text);
 }
 
 .nav-item :deep(svg) {
@@ -56,6 +56,6 @@ nav {
 }
 
 .router-link-active {
-  color: DodgerBlue;
+  color: var(--nav-active);
 }
 </style>

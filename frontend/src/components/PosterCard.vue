@@ -1,11 +1,13 @@
 <script setup>
-import { ref } from 'vue';
+import { ref, computed } from 'vue';
 
 const props = defineProps({
   poster: { type: Object, required: true },
 });
 
 const qty = ref(0);
+
+const isActive = computed(() => qty.value >= 1);
 
 const inc = e => {
   e.stopPropagation();
@@ -21,16 +23,14 @@ const dec = e => {
 <template>
   <div class="poster-card">
     <div class="image-wrap">
-      <img :src="`/poster-images/${poster.image_file}`" :alt="poster.code || 'poster'" />
+      <img :src="`/poster-images/${poster.image_file}`" :alt="poster.code" />
 
-      <div class="qty-overlay" :class="{ active: qty >= 1 }">
-        <!-- LEFT PART (− qty) -->
-        <div class="qty-left" :class="{ visible: qty >= 1 }">
+      <div class="qty-overlay" :class="{ active: isActive }">
+        <div class="qty-left" :class="{ visible: isActive }">
           <button @click="dec">−</button>
           <span>{{ qty }}</span>
         </div>
 
-        <!-- RIGHT PART (+ always visible) -->
         <button class="qty-plus" @click="inc">+</button>
       </div>
     </div>
@@ -43,13 +43,14 @@ const dec = e => {
 
 <style scoped>
 .poster-card {
-  background: #fff;
-  border: 1px solid #e6e6e6;
-  border-radius: 10px;
-  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  background: var(--card-bg);
 }
 
-/* IMAGE */
 .image-wrap {
   position: relative;
 }
@@ -57,12 +58,11 @@ const dec = e => {
 .image-wrap img {
   width: 100%;
   height: 220px;
+  border-radius: 6px;
   object-fit: contain;
-  border-radius: 8px;
-  background: #f4f4f4;
+  background: var(--image-bg);
 }
 
-/* QTY OVERLAY */
 .qty-overlay {
   position: absolute;
   bottom: 10px;
@@ -74,8 +74,8 @@ const dec = e => {
 }
 
 .qty-overlay.active {
-  background: #ff2f6d;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  background: var(--accent);
+  box-shadow: 0 4px 10px var(--shadow-hover);
 }
 
 .qty-left {
@@ -93,41 +93,42 @@ const dec = e => {
 }
 
 .qty-left button {
-  background: transparent;
-  border: none;
-  font-size: 20px;
   padding: 8px 12px;
-  color: white;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  color: #fff;
   cursor: pointer;
 }
 
 .qty-left span {
   min-width: 24px;
-  color: white;
   text-align: center;
   font-weight: 600;
+  color: #fff;
 }
 
 .qty-plus {
   width: 44px;
   height: 44px;
   border-radius: 12px;
-  color: #ff2f6d;
+  border: 2px solid transparent;
+  background: white;
   font-size: 26px;
-  border: 2px solid #ff2f6d;
+  color: var(--accent);
   cursor: pointer;
   flex-shrink: 0;
 }
 
 .qty-overlay.active .qty-plus {
-  color: white;
   background: transparent;
+  color: #fff;
 }
 
 .title {
   margin-top: 6px;
   font-size: 0.9rem;
-  color: #333;
+  color: var(--text-primary);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;

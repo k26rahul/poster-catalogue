@@ -31,10 +31,6 @@ onMounted(() => {
       />
     </div>
   </section>
-
-  <section v-else>
-    <p>No PDF selected.</p>
-  </section>
 </template>
 
 <style scoped>
@@ -43,8 +39,9 @@ section {
 }
 
 h2 {
-  margin: 12px 0 6px;
-  font-size: 1.15rem;
+  margin: 8px 0;
+  font-size: 1.1rem;
+  color: var(--text-primary);
 }
 
 .posters-grid {
@@ -55,6 +52,8 @@ h2 {
 }
 
 p {
-  color: #666;
+  margin: 4px 0 12px;
+  font-size: 0.95rem;
+  color: var(--text-secondary);
 }
 </style>

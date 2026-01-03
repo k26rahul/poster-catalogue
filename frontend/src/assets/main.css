@@ -1,3 +1,26 @@
+:root {
+  --text-primary: #333;
+  --text-secondary: #555;
+  --text-muted: #666;
+
+  --accent: #2563eb;
+
+  --nav-border: #ddd;
+  --nav-bg: #fff;
+  --nav-text: var(--text-secondary);
+  --nav-active: var(--accent);
+
+  --card-bg: #fff;
+  --card-border: #e6e6e6;
+
+  --dot-bg: #ccc;
+  --dot-active: #333;
+
+  --image-bg: #f4f4f4;
+
+  --shadow-hover: rgba(0, 0, 0, 0.08);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -6,10 +29,4 @@
 
 body {
   font-family: sans-serif;
-}
-
-#app {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
 }
