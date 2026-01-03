@@ -1,22 +1,32 @@
 <script setup>
-import { ref, computed } from 'vue';
+import { computed } from 'vue';
+import { useCart } from '@/composables/useCart';
 
 const props = defineProps({
   poster: { type: Object, required: true },
+  pdfId: { type: String, required: true },
 });
 
-const qty = ref(0);
+const { cart, addPoster, removePoster } = useCart();
+
+const qty = computed(() => {
+  const postersMap = cart.value.get(props.pdfId);
+  const found = postersMap?.get(props.poster.code);
+  return found ? found.quantity : 0;
+});
 
 const isActive = computed(() => qty.value >= 1);
 
 const inc = e => {
   e.stopPropagation();
-  qty.value += 1;
+  addPoster(props.pdfId, props.poster);
 };
 
 const dec = e => {
   e.stopPropagation();
-  if (qty.value > 0) qty.value -= 1;
+  if (qty.value > 0) {
+    removePoster(props.pdfId, props.poster.code);
+  }
 };
 </script>
 
