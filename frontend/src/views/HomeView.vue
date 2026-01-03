@@ -30,7 +30,7 @@ const groupedByCategory = computed(() => {
     <p>{{ category.description }}</p>
 
     <div class="pdf-grid">
-      <PdfCard v-for="pdf in category.pdfs" :key="pdf.id" :pdf="pdf" />
+      <PdfCard v-for="pdf in category.pdfs" :key="pdf.name" :pdf="pdf" />
     </div>
   </section>
 </template>

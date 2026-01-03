@@ -1,6 +1,6 @@
 import { ref, watch } from 'vue';
 
-const STORAGE_KEY = 'Poster cataloge cart data';
+const STORAGE_KEY = 'POSTER_CATALOGUE_CART_DATA';
 
 const cart = ref(new Map());
 

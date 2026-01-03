@@ -1,89 +1,62 @@
 {
-  "id": "46_Ram_Darbar",
+  "name": "46_Ram_Darbar",
   "path": "1-per-page/46_Ram_Darbar.pdf",
   "category": "Ram Darbar",
   "total_posters": 9,
   "posters": [
     {
+      "pdf_name": "46_Ram_Darbar",
       "page_no": 1,
       "code": "R-14001",
-      "image_file": "46_Ram_Darbar--p1--R-14001--908db.jpg",
-      "size": [
-        354,
-        531
-      ]
+      "image_file": "46_Ram_Darbar--p1--R-14001--908db.jpg"
     },
     {
+      "pdf_name": "46_Ram_Darbar",
       "page_no": 2,
       "code": "R-14002",
-      "image_file": "46_Ram_Darbar--p2--R-14002--92e0a.jpg",
-      "size": [
-        354,
-        531
-      ]
+      "image_file": "46_Ram_Darbar--p2--R-14002--92e0a.jpg"
     },
     {
+      "pdf_name": "46_Ram_Darbar",
       "page_no": 3,
       "code": "R-14003",
-      "image_file": "46_Ram_Darbar--p3--R-14003--f216c.jpg",
-      "size": [
-        354,
-        531
-      ]
+      "image_file": "46_Ram_Darbar--p3--R-14003--f216c.jpg"
     },
     {
+      "pdf_name": "46_Ram_Darbar",
       "page_no": 4,
       "code": "R-14004",
-      "image_file": "46_Ram_Darbar--p4--R-14004--2ddc5.jpg",
-      "size": [
-        354,
-        531
-      ]
+      "image_file": "46_Ram_Darbar--p4--R-14004--2ddc5.jpg"
     },
     {
+      "pdf_name": "46_Ram_Darbar",
       "page_no": 5,
       "code": "R-14005",
-      "image_file": "46_Ram_Darbar--p5--R-14005--3b6b8.jpg",
-      "size": [
-        354,
-        531
-      ]
+      "image_file": "46_Ram_Darbar--p5--R-14005--3b6b8.jpg"
     },
     {
+      "pdf_name": "46_Ram_Darbar",
       "page_no": 6,
       "code": "R-14006",
-      "image_file": "46_Ram_Darbar--p6--R-14006--0154b.jpg",
-      "size": [
-        354,
-        531
-      ]
+      "image_file": "46_Ram_Darbar--p6--R-14006--0154b.jpg"
     },
     {
+      "pdf_name": "46_Ram_Darbar",
       "page_no": 7,
       "code": "R-14007",
-      "image_file": "46_Ram_Darbar--p7--R-14007--5eb16.jpg",
-      "size": [
-        354,
-        531
-      ]
+      "image_file": "46_Ram_Darbar--p7--R-14007--5eb16.jpg"
     },
     {
+      "pdf_name": "46_Ram_Darbar",
       "page_no": 8,
       "code": "R-14008",
-      "image_file": "46_Ram_Darbar--p8--R-14008--ef5fc.jpg",
-      "size": [
-        354,
-        531
-      ]
+      "image_file": "46_Ram_Darbar--p8--R-14008--ef5fc.jpg"
     },
     {
+      "pdf_name": "46_Ram_Darbar",
       "page_no": 9,
       "code": "R-14009",
-      "image_file": "46_Ram_Darbar--p9--R-14009--9fc7f.jpg",
-      "size": [
-        600,
-        400
-      ]
+      "image_file": "46_Ram_Darbar--p9--R-14009--9fc7f.jpg"
     }
   ]
 }

@@ -4,13 +4,14 @@ import { useCart } from '@/composables/useCart';
 
 const props = defineProps({
   poster: { type: Object, required: true },
-  pdfId: { type: String, required: true },
 });
 
 const { cart, addPoster, removePoster } = useCart();
 
+const pdfName = computed(() => props.poster.pdf_name);
+
 const qty = computed(() => {
-  const postersMap = cart.value.get(props.pdfId);
+  const postersMap = cart.value.get(pdfName.value);
   const found = postersMap?.get(props.poster.code);
   return found ? found.quantity : 0;
 });
@@ -19,13 +20,13 @@ const isActive = computed(() => qty.value >= 1);
 
 const inc = e => {
   e.stopPropagation();
-  addPoster(props.pdfId, props.poster);
+  addPoster(pdfName.value, props.poster);
 };
 
 const dec = e => {
   e.stopPropagation();
   if (qty.value > 0) {
-    removePoster(props.pdfId, props.poster.code);
+    removePoster(pdfName.value, props.poster.code);
   }
 };
 </script>

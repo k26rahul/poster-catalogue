@@ -20,7 +20,7 @@ onMounted(() => {
   <section v-else-if="error">Error: {{ error }}</section>
 
   <section v-else-if="pdfData">
-    <h2>{{ pdfData.id.replace(/_/g, ' ') }}</h2>
+    <h2>{{ pdfData.name.replace(/_/g, ' ') }}</h2>
     <p>{{ pdfData.total_posters }} posters</p>
 
     <div class="posters-grid">

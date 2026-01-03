@@ -18,7 +18,7 @@ const goToPdf = () => {
   router.push({
     name: 'pdf',
     params: {
-      pdfName: props.pdf.id,
+      pdfName: props.pdf.name,
     },
   });
 };
@@ -54,7 +54,7 @@ const onTouchEnd = e => {
       />
     </div>
 
-    <h3>{{ pdf.id.replace(/_/g, ' ') }}</h3>
+    <h3>{{ pdf.name.replace(/_/g, ' ') }}</h3>
     <p>{{ pdf.total_posters }} posters</p>
   </div>
 </template>
