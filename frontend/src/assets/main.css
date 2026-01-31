@@ -1,92 +1,281 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 :root {
-  --text-primary: #333;
-  --text-secondary: #555;
-  --text-muted: #666;
-  --text-inverse: #fff;
+  /* Text Colors */
+  --text-1: #1a1a2e;
+  --text-2: #4a4a5e;
+  --text-3: #6b6b7e;
+  --text-inverse: #fefefe;
 
-  --accent: #2563eb;
+  /* Background Colors */
+  --bg-1: #f0eeeb;
+  --bg-2: #f7f6f4;
+  --bg-3: #faf9f7;
+  --bg-4: #ffffff;
 
-  --nav-border: #ddd;
-  --nav-bg: #fff;
+  /* Subtle accent backgrounds */
+  --bg-accent-subtle: rgba(92, 107, 192, 0.06);
 
-  --card-border: #e6e6e6;
-  --card-bg: #f4f4f4;
+  /* Border Colors */
+  --border-1: #d4d2cf;
+  --border-2: #e9e7e4;
+  --border-3: #f0eeeb;
 
-  --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
-  --card-shadow-hover: 0 6px 16px rgba(0, 0, 0, 0.12);
+  /* State Colors */
+  --accent: #5c6bc0;
+  --accent-light: #7986cb;
+  --accent-dark: #3f51b5;
+  --color-success: #4caf50;
+  --color-warning: #ff9800;
+  --color-danger: #ef5350;
 
-  --dot-bg: #ccc;
-  --dot-active: #333;
+  /* Shadow Variables - Modern subtle shadows */
+  --shadow-xs: 0 1px 2px rgba(26, 26, 46, 0.04);
+  --shadow-sm: 0 1px 3px rgba(26, 26, 46, 0.06), 0 1px 2px rgba(26, 26, 46, 0.04);
+  --shadow-md: 0 4px 6px rgba(26, 26, 46, 0.05), 0 2px 4px rgba(26, 26, 46, 0.03);
+  --shadow-lg: 0 10px 20px rgba(26, 26, 46, 0.08), 0 3px 6px rgba(26, 26, 46, 0.04);
+  --shadow-xl: 0 20px 40px rgba(26, 26, 46, 0.1), 0 8px 16px rgba(26, 26, 46, 0.05);
 
-  --overlay-shadow: 0 2px 0 rgba(0, 0, 0, 0.12);
-  --overlay-shadow-active: 0 6px 16px rgba(0, 0, 0, 0.24);
-  --overlay-bg: #fff;
+  /* Component Variables */
+  --nav-border: var(--border-3);
+  --nav-bg: rgba(255, 255, 255, 0.85);
 
-  --summary-bg: #eee;
+  --card-border: var(--border-2);
+  --card-bg: var(--bg-4);
+  --card-shadow: var(--shadow-sm);
+  --card-shadow-hover: var(--shadow-lg);
 
-  --btn-border: #ccc;
-  --btn-bg: #f0f0f0;
+  --dot-bg: var(--border-1);
+  --dot-active: var(--accent);
+
+  --overlay-shadow: var(--shadow-md);
+  --overlay-shadow-active: var(--shadow-lg);
+  --overlay-bg: var(--bg-4);
+
+  --error-bg: var(--color-danger);
+  --error-text: var(--text-inverse);
+
+  /* Spacing scale */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 0.75rem;
+  --space-lg: 1rem;
+  --space-xl: 1.5rem;
+  --space-2xl: 2rem;
+  --space-3xl: 3rem;
+
+  /* Border radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 20px;
+  --radius-full: 9999px;
+
+  /* Transitions */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.2s ease;
+  --transition-slow: 0.3s ease;
 }
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: inherit;
+  color: inherit;
 }
 
 body {
+  background-color: var(--bg-1);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+}
+
+main {
   max-width: 64rem;
   margin: 0 auto;
-  color: var(--text-primary);
-  font-family: system-ui, sans-serif;
+  min-height: 105vh;
+  color: var(--text-1);
+  background-color: var(--bg-2);
+}
+
+/* Typography */
+h1, h2, h3, h4 {
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+h3 {
+  font-size: 1rem;
 }
 
 p {
-  color: var(--text-secondary);
+  color: var(--text-2);
+  line-height: 1.6;
 }
 
-.controls button {
-  padding: 0.5rem 1rem;
-  border: 1px solid var(--btn-border);
-  border-radius: 4px;
-  color: var(--text-primary);
+/* Modern Button Styles */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-lg);
+  border: 1px solid var(--border-1);
+  border-radius: var(--radius-full);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--text-2);
+  background-color: var(--bg-4);
+  box-shadow: var(--shadow-xs);
   cursor: pointer;
-  background-color: var(--btn-bg);
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+
+.btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  box-shadow: var(--shadow-sm);
+}
+
+.btn--primary {
+  border-color: var(--accent);
+  color: var(--text-inverse);
+  background: var(--accent);
+}
+
+.btn--primary:hover {
+  background: var(--accent-dark);
+  color: var(--text-inverse);
+}
+
+/* Badge/Pill Styles */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: var(--space-xs) var(--space-md);
+  border-radius: var(--radius-full);
+  font-size: 0.75rem;
+  font-weight: 500;
+  background: var(--bg-accent-subtle);
+  color: var(--accent);
+}
+
+/* Legacy controls support */
+.controls button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-lg);
+  border: 1px solid var(--border-1);
+  border-radius: var(--radius-full);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--text-2);
+  background-color: var(--bg-4);
+  box-shadow: var(--shadow-xs);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.controls button:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  box-shadow: var(--shadow-sm);
 }
 
 .controls label {
   display: flex;
   align-items: center;
-  gap: 0.25rem;
+  gap: var(--space-sm);
+  padding: var(--space-xs) var(--space-md);
+  border-radius: var(--radius-full);
   cursor: pointer;
-  color: var(--text-secondary);
+  font-size: 0.8125rem;
+  color: var(--text-3);
+  transition: color var(--transition-fast), background var(--transition-fast);
 }
 
+.controls label:hover {
+  color: var(--text-1);
+  background: var(--bg-accent-subtle);
+}
+
+.controls label:has(input:checked) {
+  color: var(--accent);
+  background: var(--bg-accent-subtle);
+}
+
+/* Modern summary/details */
 summary {
+  padding: var(--space-lg);
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.75rem;
-  border-radius: 4px;
-  font-weight: bold;
+  gap: var(--space-md);
+  border: 1px solid var(--border-2);
+  border-radius: var(--radius-lg);
+  font-weight: 600;
+  font-size: 0.9375rem;
+  letter-spacing: -0.01em;
+  background-color: var(--bg-4);
+  box-shadow: var(--shadow-sm);
   cursor: pointer;
-  list-style: none; /* hide default triangle */
-  background: var(--summary-bg);
+  transition: all var(--transition-fast);
+}
+
+summary:hover {
+  border-color: var(--border-1);
+  box-shadow: var(--shadow-md);
 }
 
 summary::-webkit-details-marker {
   display: none;
 }
 
-summary:after {
+summary::after {
   content: '+';
-  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: var(--radius-full);
+  font-weight: 600;
+  font-size: 1rem;
+  background: var(--bg-accent-subtle);
+  color: var(--accent);
+  flex-shrink: 0;
 }
 
-details[open] summary:after {
-  content: '-';
+details[open] summary::after {
+  content: '−';
 }
 
 details[open] summary {
-  margin-bottom: 1rem;
+  margin-bottom: var(--space-lg);
+  border-color: var(--accent);
+  background: linear-gradient(135deg, var(--bg-4) 0%, var(--bg-accent-subtle) 100%);
+}
+
+/* Utility classes */
+.text-muted {
+  color: var(--text-3);
+}
+
+.text-small {
+  font-size: 0.8125rem;
 }

@@ -1,15 +1,22 @@
 <script setup>
 import { computed } from 'vue';
 import { cartStore } from '@/stores/cartStore';
+import QuantitySelector from './QuantitySelector.vue';
 
 const props = defineProps({
   poster: {
     type: Object,
     required: true,
   },
+  index: {
+    type: Number,
+    default: null,
+  },
 });
 
-const { cart, addPoster, removePoster } = cartStore;
+const emit = defineEmits(['toggle-zoom']);
+
+const { cart } = cartStore;
 
 const pdfName = computed(() => props.poster.pdfName);
 
@@ -18,122 +25,113 @@ const qty = computed(() => {
 });
 
 const isActive = computed(() => qty.value >= 1);
-
-const inc = e => {
-  e.stopPropagation();
-  addPoster(pdfName.value, props.poster.id);
-};
-
-const dec = e => {
-  e.stopPropagation();
-  if (qty.value > 0) {
-    removePoster(pdfName.value, props.poster.id);
-  }
-};
 </script>
 
 <template>
-  <div class="poster-card">
-    <img :src="`/poster-images/${poster.imageFile}`" :alt="poster.id" />
+  <article class="poster-card" :class="{ selected: isActive }">
+    <!-- Image Container -->
+    <div class="image-container">
+      <img
+        :src="`/poster-images/${poster.imageFile}`"
+        :alt="poster.id"
+        @click="emit('toggle-zoom', poster)"
+      />
 
-    <div class="qty-overlay" :class="{ active: isActive }">
-      <div class="qty-left" :class="{ visible: isActive }">
-        <button @click="dec">−</button>
-        <span>{{ qty }}</span>
-      </div>
+      <!-- Index Badge -->
+      <span v-if="index" class="index-badge">#{{ index }}</span>
 
-      <button class="qty-plus" @click="inc">+</button>
+      <!-- Quantity Controls -->
+      <QuantitySelector
+        class="qty-position"
+        :poster-id="poster.id"
+        :pdf-name="pdfName"
+        variant="compact"
+      />
     </div>
 
-    <div class="title">
-      {{ poster.code }}
+    <!-- Card Footer -->
+    <div class="card-footer">
+      <span class="poster-code">{{ poster.code }}</span>
     </div>
-  </div>
+  </article>
 </template>
 
 <style scoped>
 .poster-card {
-  width: 20rem;
-  padding: 0.5rem;
-  position: relative;
+  width: 100%;
+  max-width: 320px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  gap: 0.5rem;
   border: 1px solid var(--card-border);
-  border-radius: 8px;
+  border-radius: var(--radius-lg);
   background: var(--card-bg);
   box-shadow: var(--card-shadow);
+  overflow: hidden;
+  transition: all var(--transition-fast);
+}
+
+.poster-card:hover {
+  box-shadow: var(--shadow-md);
+}
+
+.poster-card.selected {
+  border-color: transparent;
+  box-shadow:
+    0 0 0 2px var(--accent-light),
+    0 5px 0 2px var(--accent-light);
+}
+
+/* Image Container */
+.image-container {
+  position: relative;
+  background: var(--bg-1);
 }
 
 .poster-card img {
   width: 100%;
   height: auto;
+  display: block;
   object-fit: contain;
-  border-radius: 4px;
+  cursor: zoom-in;
 }
 
-.qty-overlay {
+/* Index Badge */
+.index-badge {
   position: absolute;
-  bottom: 10px;
-  right: 10px;
-  display: flex;
-  align-items: center;
-  border-radius: 1rem;
-  overflow: hidden;
-  color: var(--accent);
-  background-color: var(--overlay-bg);
-  box-shadow: var(--overlay-shadow);
-  transition: box-shadow 0.15s ease;
-}
-
-.qty-overlay.active {
-  color: var(--text-inverse);
-  background: var(--accent);
-  box-shadow: var(--overlay-shadow-active);
-}
-
-.qty-left {
-  display: flex;
-  align-items: center;
-  max-width: 0;
-  opacity: 0;
-  overflow: hidden;
-  transition:
-    max-width 0.2s ease,
-    opacity 0.15s ease;
-}
-
-.qty-left.visible {
-  max-width: 120px;
-  opacity: 1;
-}
-
-.qty-overlay button {
-  padding: 0.5rem 1rem;
-  border: none;
-  border-radius: 12px;
-  color: var(--text-inverse);
-  font-size: 1.5rem;
-  background: transparent;
-  cursor: pointer;
-}
-
-.qty-overlay span {
-  min-width: 1.5rem;
-  text-align: center;
+  top: var(--space-sm);
+  left: var(--space-sm);
+  padding: var(--space-xs) var(--space-md);
+  border-radius: var(--radius-full);
+  font-size: 0.6875rem;
   font-weight: 600;
+  color: var(--text-2);
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(4px);
 }
 
-.qty-overlay:not(.active) .qty-plus {
-  background: var(--overlay-bg);
-  color: var(--accent);
+/* Quantity Selector Position */
+.qty-position {
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 
-.title {
-  font-size: 0.875rem;
+/* Card Footer */
+.card-footer {
+  padding: var(--space-md);
+  text-align: center;
+  background: var(--bg-4);
+  border-top: 1px solid var(--border-3);
+}
+
+.poster-code {
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--text-2);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  display: block;
 }
 </style>
