@@ -53,6 +53,56 @@ function clearCart() {
   cart.clear();
 }
 
+/**
+ * Get a deep snapshot of cart items with poster metadata for batch creation
+ * @param {Object} pdfStore - The PDF store to lookup poster data
+ * @returns {Object} Snapshot of cart items with poster metadata
+ */
+function getCartSnapshot(pdfStore) {
+  const snapshot = {};
+
+  for (const [pdfName, posters] of cart.entries()) {
+    const pdfData = pdfStore.pdfs.get(pdfName);
+    if (!pdfData) continue;
+
+    snapshot[pdfName] = {};
+
+    for (const [posterId, cartItem] of posters.entries()) {
+      const posterData = pdfData.posters?.find(p => p.id === posterId);
+
+      snapshot[pdfName][posterId] = {
+        qty: cartItem.qty,
+        addedAt: cartItem.addedAt,
+        code: posterData?.code || '',
+        imageFile: posterData?.imageFile || '',
+      };
+    }
+  }
+
+  return snapshot;
+}
+
+/**
+ * Restore cart from batch items (for editing a batch)
+ * @param {Object} batchItems - The batch items to restore
+ */
+function restoreFromBatch(batchItems) {
+  cart.clear();
+
+  for (const [pdfName, posters] of Object.entries(batchItems)) {
+    const postersMap = new Map();
+
+    for (const [posterId, posterData] of Object.entries(posters)) {
+      postersMap.set(posterId, {
+        qty: posterData.qty,
+        addedAt: posterData.addedAt,
+      });
+    }
+
+    cart.set(pdfName, postersMap);
+  }
+}
+
 watch(
   cart,
   newCart => {
@@ -68,4 +118,6 @@ export const cartStore = {
   addPoster,
   removePoster,
   clearCart,
+  getCartSnapshot,
+  restoreFromBatch,
 };
