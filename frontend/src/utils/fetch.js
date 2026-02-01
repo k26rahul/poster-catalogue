@@ -18,7 +18,24 @@ async function request(method, path, payload) {
     try {
       res = await fetch(path, options);
     } catch (e) {
-      throw new Error('Network request failed.');
+      // Network completely unavailable
+      throw new Error('⚠️ Network unavailable. Please check your internet connection.');
+    }
+
+    // Handle service worker offline response (503)
+    if (res.status === 503) {
+      let errorData;
+      try {
+        errorData = await res.json();
+      } catch {
+        errorData = { message: 'Service unavailable' };
+      }
+      if (errorData.error === 'offline') {
+        throw new Error(
+          '⚠️ Network unavailable. Resource not found in cache. Please connect to the internet to load this content.',
+        );
+      }
+      throw new Error(errorData.message || 'Service unavailable');
     }
 
     let data;
