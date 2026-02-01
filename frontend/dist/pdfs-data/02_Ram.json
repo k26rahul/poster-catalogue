@@ -1,0 +1,1178 @@
+{
+  "path": "1-per-page/02_Ram.pdf",
+  "name": "02_Ram",
+  "readableName": "02 Ram",
+  "category": "Ram",
+  "totalPosters": 92,
+  "numLandscapePosters": 39,
+  "numPortraitPosters": 53,
+  "usedLandscapeForSample": true,
+  "posters": [
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 1,
+      "index": 1,
+      "code": "R-14070",
+      "id": "02_Ram--i1--R-14070",
+      "imageFile": "02_Ram--i1--R-14070--69d37.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 2,
+      "index": 2,
+      "code": "R-14075",
+      "id": "02_Ram--i2--R-14075",
+      "imageFile": "02_Ram--i2--R-14075--883f7.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 3,
+      "index": 3,
+      "code": "R-14076",
+      "id": "02_Ram--i3--R-14076",
+      "imageFile": "02_Ram--i3--R-14076--0d7ff.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 4,
+      "index": 4,
+      "code": "R-14078",
+      "id": "02_Ram--i4--R-14078",
+      "imageFile": "02_Ram--i4--R-14078--70cd6.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 5,
+      "index": 5,
+      "code": "R-14090",
+      "id": "02_Ram--i5--R-14090",
+      "imageFile": "02_Ram--i5--R-14090--e6fc7.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 6,
+      "index": 6,
+      "code": "R-14071",
+      "id": "02_Ram--i6--R-14071",
+      "imageFile": "02_Ram--i6--R-14071--35833.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 7,
+      "index": 7,
+      "code": "R-14072",
+      "id": "02_Ram--i7--R-14072",
+      "imageFile": "02_Ram--i7--R-14072--538d4.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 8,
+      "index": 8,
+      "code": "R-14073",
+      "id": "02_Ram--i8--R-14073",
+      "imageFile": "02_Ram--i8--R-14073--dc8c8.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 9,
+      "index": 9,
+      "code": "R-14074",
+      "id": "02_Ram--i9--R-14074",
+      "imageFile": "02_Ram--i9--R-14074--67148.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 10,
+      "index": 10,
+      "code": "R-14077",
+      "id": "02_Ram--i10--R-14077",
+      "imageFile": "02_Ram--i10--R-14077--0034e.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 11,
+      "index": 11,
+      "code": "R-14041",
+      "id": "02_Ram--i11--R-14041",
+      "imageFile": "02_Ram--i11--R-14041--c328b.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 12,
+      "index": 12,
+      "code": "R-14042",
+      "id": "02_Ram--i12--R-14042",
+      "imageFile": "02_Ram--i12--R-14042--304a5.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 13,
+      "index": 13,
+      "code": "R-14043",
+      "id": "02_Ram--i13--R-14043",
+      "imageFile": "02_Ram--i13--R-14043--d5ef4.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 14,
+      "index": 14,
+      "code": "R-14044",
+      "id": "02_Ram--i14--R-14044",
+      "imageFile": "02_Ram--i14--R-14044--2fbc0.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 15,
+      "index": 15,
+      "code": "R-14045",
+      "id": "02_Ram--i15--R-14045",
+      "imageFile": "02_Ram--i15--R-14045--a6631.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 16,
+      "index": 16,
+      "code": "R-14046",
+      "id": "02_Ram--i16--R-14046",
+      "imageFile": "02_Ram--i16--R-14046--5fa6d.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 17,
+      "index": 17,
+      "code": "R-14047",
+      "id": "02_Ram--i17--R-14047",
+      "imageFile": "02_Ram--i17--R-14047--4603a.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 18,
+      "index": 18,
+      "code": "R-14048",
+      "id": "02_Ram--i18--R-14048",
+      "imageFile": "02_Ram--i18--R-14048--6d3dd.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 19,
+      "index": 19,
+      "code": "R-14049",
+      "id": "02_Ram--i19--R-14049",
+      "imageFile": "02_Ram--i19--R-14049--5e8a4.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 20,
+      "index": 20,
+      "code": "R-14050",
+      "id": "02_Ram--i20--R-14050",
+      "imageFile": "02_Ram--i20--R-14050--80e68.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 21,
+      "index": 21,
+      "code": "R-14051",
+      "id": "02_Ram--i21--R-14051",
+      "imageFile": "02_Ram--i21--R-14051--4e165.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 22,
+      "index": 22,
+      "code": "R-14052",
+      "id": "02_Ram--i22--R-14052",
+      "imageFile": "02_Ram--i22--R-14052--75f52.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 23,
+      "index": 23,
+      "code": "R-14053",
+      "id": "02_Ram--i23--R-14053",
+      "imageFile": "02_Ram--i23--R-14053--839b6.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 24,
+      "index": 24,
+      "code": "R-14054",
+      "id": "02_Ram--i24--R-14054",
+      "imageFile": "02_Ram--i24--R-14054--5c71b.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 25,
+      "index": 25,
+      "code": "R-14055",
+      "id": "02_Ram--i25--R-14055",
+      "imageFile": "02_Ram--i25--R-14055--058c9.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 26,
+      "index": 26,
+      "code": "R-14056",
+      "id": "02_Ram--i26--R-14056",
+      "imageFile": "02_Ram--i26--R-14056--f09a2.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 27,
+      "index": 27,
+      "code": "R-14057",
+      "id": "02_Ram--i27--R-14057",
+      "imageFile": "02_Ram--i27--R-14057--c5b63.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 28,
+      "index": 28,
+      "code": "R-14058",
+      "id": "02_Ram--i28--R-14058",
+      "imageFile": "02_Ram--i28--R-14058--c6c48.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 29,
+      "index": 29,
+      "code": "R-14059",
+      "id": "02_Ram--i29--R-14059",
+      "imageFile": "02_Ram--i29--R-14059--69536.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 30,
+      "index": 30,
+      "code": "R-14060",
+      "id": "02_Ram--i30--R-14060",
+      "imageFile": "02_Ram--i30--R-14060--60be9.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 31,
+      "index": 31,
+      "code": "R-14061",
+      "id": "02_Ram--i31--R-14061",
+      "imageFile": "02_Ram--i31--R-14061--3dfa4.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 32,
+      "index": 32,
+      "code": "R-14062",
+      "id": "02_Ram--i32--R-14062",
+      "imageFile": "02_Ram--i32--R-14062--43c21.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 33,
+      "index": 33,
+      "code": "R-14063",
+      "id": "02_Ram--i33--R-14063",
+      "imageFile": "02_Ram--i33--R-14063--7e534.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 34,
+      "index": 34,
+      "code": "R-14064",
+      "id": "02_Ram--i34--R-14064",
+      "imageFile": "02_Ram--i34--R-14064--53c2f.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 35,
+      "index": 35,
+      "code": "R-14065",
+      "id": "02_Ram--i35--R-14065",
+      "imageFile": "02_Ram--i35--R-14065--b362d.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 36,
+      "index": 36,
+      "code": "R-14066",
+      "id": "02_Ram--i36--R-14066",
+      "imageFile": "02_Ram--i36--R-14066--c007a.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 37,
+      "index": 37,
+      "code": "R-14067",
+      "id": "02_Ram--i37--R-14067",
+      "imageFile": "02_Ram--i37--R-14067--805e4.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 38,
+      "index": 38,
+      "code": "R-14068",
+      "id": "02_Ram--i38--R-14068",
+      "imageFile": "02_Ram--i38--R-14068--f6bb5.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 39,
+      "index": 39,
+      "code": "R-14069",
+      "id": "02_Ram--i39--R-14069",
+      "imageFile": "02_Ram--i39--R-14069--00c58.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 40,
+      "index": 40,
+      "code": "R-14079",
+      "id": "02_Ram--i40--R-14079",
+      "imageFile": "02_Ram--i40--R-14079--a94b7.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 41,
+      "index": 41,
+      "code": "R-14080",
+      "id": "02_Ram--i41--R-14080",
+      "imageFile": "02_Ram--i41--R-14080--62eb1.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 42,
+      "index": 42,
+      "code": "R-14081",
+      "id": "02_Ram--i42--R-14081",
+      "imageFile": "02_Ram--i42--R-14081--b7bce.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 43,
+      "index": 43,
+      "code": "R-14082",
+      "id": "02_Ram--i43--R-14082",
+      "imageFile": "02_Ram--i43--R-14082--6c4a6.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 44,
+      "index": 44,
+      "code": "R-14083",
+      "id": "02_Ram--i44--R-14083",
+      "imageFile": "02_Ram--i44--R-14083--8ae1f.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 45,
+      "index": 45,
+      "code": "R-14084",
+      "id": "02_Ram--i45--R-14084",
+      "imageFile": "02_Ram--i45--R-14084--62065.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 46,
+      "index": 46,
+      "code": "R-14085",
+      "id": "02_Ram--i46--R-14085",
+      "imageFile": "02_Ram--i46--R-14085--254d7.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 47,
+      "index": 47,
+      "code": "R-14086",
+      "id": "02_Ram--i47--R-14086",
+      "imageFile": "02_Ram--i47--R-14086--a8e84.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 48,
+      "index": 48,
+      "code": "R-14087",
+      "id": "02_Ram--i48--R-14087",
+      "imageFile": "02_Ram--i48--R-14087--326ca.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 49,
+      "index": 49,
+      "code": "R-14088",
+      "id": "02_Ram--i49--R-14088",
+      "imageFile": "02_Ram--i49--R-14088--58714.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 50,
+      "index": 50,
+      "code": "R-14089",
+      "id": "02_Ram--i50--R-14089",
+      "imageFile": "02_Ram--i50--R-14089--fa727.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 51,
+      "index": 51,
+      "code": "R-14010",
+      "id": "02_Ram--i51--R-14010",
+      "imageFile": "02_Ram--i51--R-14010--dea97.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 52,
+      "index": 52,
+      "code": "R-14011",
+      "id": "02_Ram--i52--R-14011",
+      "imageFile": "02_Ram--i52--R-14011--ed2b1.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 53,
+      "index": 53,
+      "code": "R-14012",
+      "id": "02_Ram--i53--R-14012",
+      "imageFile": "02_Ram--i53--R-14012--ac2eb.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 54,
+      "index": 54,
+      "code": "R-14015",
+      "id": "02_Ram--i54--R-14015",
+      "imageFile": "02_Ram--i54--R-14015--fd915.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 55,
+      "index": 55,
+      "code": "R-14016",
+      "id": "02_Ram--i55--R-14016",
+      "imageFile": "02_Ram--i55--R-14016--185d0.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 56,
+      "index": 56,
+      "code": "R-14017",
+      "id": "02_Ram--i56--R-14017",
+      "imageFile": "02_Ram--i56--R-14017--45d20.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 57,
+      "index": 57,
+      "code": "R-14018",
+      "id": "02_Ram--i57--R-14018",
+      "imageFile": "02_Ram--i57--R-14018--9f19e.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 58,
+      "index": 58,
+      "code": "R-14019",
+      "id": "02_Ram--i58--R-14019",
+      "imageFile": "02_Ram--i58--R-14019--ada19.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 59,
+      "index": 59,
+      "code": "R-14009",
+      "id": "02_Ram--i59--R-14009",
+      "imageFile": "02_Ram--i59--R-14009--0c005.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 60,
+      "index": 60,
+      "code": "R-14032",
+      "id": "02_Ram--i60--R-14032",
+      "imageFile": "02_Ram--i60--R-14032--8482e.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 61,
+      "index": 61,
+      "code": "R-14033",
+      "id": "02_Ram--i61--R-14033",
+      "imageFile": "02_Ram--i61--R-14033--b3c88.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 62,
+      "index": 62,
+      "code": "R-14034",
+      "id": "02_Ram--i62--R-14034",
+      "imageFile": "02_Ram--i62--R-14034--11a9e.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 63,
+      "index": 63,
+      "code": "R-14035",
+      "id": "02_Ram--i63--R-14035",
+      "imageFile": "02_Ram--i63--R-14035--9cdf7.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 64,
+      "index": 64,
+      "code": "R-14036",
+      "id": "02_Ram--i64--R-14036",
+      "imageFile": "02_Ram--i64--R-14036--e5e63.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 65,
+      "index": 65,
+      "code": "R-14037",
+      "id": "02_Ram--i65--R-14037",
+      "imageFile": "02_Ram--i65--R-14037--4d2cd.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 66,
+      "index": 66,
+      "code": "R-14038",
+      "id": "02_Ram--i66--R-14038",
+      "imageFile": "02_Ram--i66--R-14038--17606.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 67,
+      "index": 67,
+      "code": "R-14013",
+      "id": "02_Ram--i67--R-14013",
+      "imageFile": "02_Ram--i67--R-14013--a1c35.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 68,
+      "index": 68,
+      "code": "R-14014",
+      "id": "02_Ram--i68--R-14014",
+      "imageFile": "02_Ram--i68--R-14014--55ad1.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 69,
+      "index": 69,
+      "code": "R-14020",
+      "id": "02_Ram--i69--R-14020",
+      "imageFile": "02_Ram--i69--R-14020--941df.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 70,
+      "index": 70,
+      "code": "R-14021",
+      "id": "02_Ram--i70--R-14021",
+      "imageFile": "02_Ram--i70--R-14021--a41e6.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 71,
+      "index": 71,
+      "code": "R-14022",
+      "id": "02_Ram--i71--R-14022",
+      "imageFile": "02_Ram--i71--R-14022--b231f.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 72,
+      "index": 72,
+      "code": "R-14024",
+      "id": "02_Ram--i72--R-14024",
+      "imageFile": "02_Ram--i72--R-14024--6cd8c.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 73,
+      "index": 73,
+      "code": "R-14025",
+      "id": "02_Ram--i73--R-14025",
+      "imageFile": "02_Ram--i73--R-14025--2e613.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 74,
+      "index": 74,
+      "code": "R-14026",
+      "id": "02_Ram--i74--R-14026",
+      "imageFile": "02_Ram--i74--R-14026--a2b61.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 75,
+      "index": 75,
+      "code": "R-14027",
+      "id": "02_Ram--i75--R-14027",
+      "imageFile": "02_Ram--i75--R-14027--405c3.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 76,
+      "index": 76,
+      "code": "R-14028",
+      "id": "02_Ram--i76--R-14028",
+      "imageFile": "02_Ram--i76--R-14028--5854d.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 77,
+      "index": 77,
+      "code": "R-14041",
+      "id": "02_Ram--i77--R-14041",
+      "imageFile": "02_Ram--i77--R-14041--ddf51.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 78,
+      "index": 78,
+      "code": "R-14042",
+      "id": "02_Ram--i78--R-14042",
+      "imageFile": "02_Ram--i78--R-14042--65ee1.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 79,
+      "index": 79,
+      "code": "R-14001",
+      "id": "02_Ram--i79--R-14001",
+      "imageFile": "02_Ram--i79--R-14001--fcd50.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 80,
+      "index": 80,
+      "code": "R-14002",
+      "id": "02_Ram--i80--R-14002",
+      "imageFile": "02_Ram--i80--R-14002--3062b.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 81,
+      "index": 81,
+      "code": "R-14003",
+      "id": "02_Ram--i81--R-14003",
+      "imageFile": "02_Ram--i81--R-14003--6d324.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 82,
+      "index": 82,
+      "code": "R-14004",
+      "id": "02_Ram--i82--R-14004",
+      "imageFile": "02_Ram--i82--R-14004--7497c.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 83,
+      "index": 83,
+      "code": "R-14005",
+      "id": "02_Ram--i83--R-14005",
+      "imageFile": "02_Ram--i83--R-14005--ee737.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 84,
+      "index": 84,
+      "code": "R-14006",
+      "id": "02_Ram--i84--R-14006",
+      "imageFile": "02_Ram--i84--R-14006--2e9aa.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 85,
+      "index": 85,
+      "code": "R-14007",
+      "id": "02_Ram--i85--R-14007",
+      "imageFile": "02_Ram--i85--R-14007--0200b.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 86,
+      "index": 86,
+      "code": "R-14008",
+      "id": "02_Ram--i86--R-14008",
+      "imageFile": "02_Ram--i86--R-14008--cc523.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 87,
+      "index": 87,
+      "code": "R-14023",
+      "id": "02_Ram--i87--R-14023",
+      "imageFile": "02_Ram--i87--R-14023--8bd54.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 88,
+      "index": 88,
+      "code": "R-14029",
+      "id": "02_Ram--i88--R-14029",
+      "imageFile": "02_Ram--i88--R-14029--b560f.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 89,
+      "index": 89,
+      "code": "R-14030",
+      "id": "02_Ram--i89--R-14030",
+      "imageFile": "02_Ram--i89--R-14030--9361d.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 90,
+      "index": 90,
+      "code": "R-14031",
+      "id": "02_Ram--i90--R-14031",
+      "imageFile": "02_Ram--i90--R-14031--5d288.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 91,
+      "index": 91,
+      "code": "R-14039",
+      "id": "02_Ram--i91--R-14039",
+      "imageFile": "02_Ram--i91--R-14039--cfde1.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 92,
+      "index": 92,
+      "code": "R-14040",
+      "id": "02_Ram--i92--R-14040",
+      "imageFile": "02_Ram--i92--R-14040--00269.jpg",
+      "imageSize": [
+        345,
+        517
+      ]
+    }
+  ],
+  "postersSample": [
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 58,
+      "index": 58,
+      "code": "R-14019",
+      "id": "02_Ram--i58--R-14019",
+      "imageFile": "02_Ram--i58--R-14019--ada19.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 23,
+      "index": 23,
+      "code": "R-14053",
+      "id": "02_Ram--i23--R-14053",
+      "imageFile": "02_Ram--i23--R-14053--839b6.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 19,
+      "index": 19,
+      "code": "R-14049",
+      "id": "02_Ram--i19--R-14049",
+      "imageFile": "02_Ram--i19--R-14049--5e8a4.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 45,
+      "index": 45,
+      "code": "R-14084",
+      "id": "02_Ram--i45--R-14084",
+      "imageFile": "02_Ram--i45--R-14084--62065.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    },
+    {
+      "pdfName": "02_Ram",
+      "pageNo": 26,
+      "index": 26,
+      "code": "R-14056",
+      "id": "02_Ram--i26--R-14056",
+      "imageFile": "02_Ram--i26--R-14056--f09a2.jpg",
+      "imageSize": [
+        517,
+        345
+      ]
+    }
+  ]
+}

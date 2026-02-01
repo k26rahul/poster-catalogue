@@ -1,0 +1,506 @@
+{
+  "path": "1-per-page/40_Mahakal.pdf",
+  "name": "40_Mahakal",
+  "readableName": "40 Mahakal",
+  "category": "Mahakal",
+  "totalPosters": 36,
+  "numLandscapePosters": 36,
+  "numPortraitPosters": 0,
+  "usedLandscapeForSample": true,
+  "posters": [
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 1,
+      "index": 1,
+      "code": "Mahakal001",
+      "id": "40_Mahakal--i1--Mahakal001",
+      "imageFile": "40_Mahakal--i1--Mahakal001--399be.jpg",
+      "imageSize": [
+        375,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 2,
+      "index": 2,
+      "code": "Mahakal002",
+      "id": "40_Mahakal--i2--Mahakal002",
+      "imageFile": "40_Mahakal--i2--Mahakal002--3db69.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 3,
+      "index": 3,
+      "code": "Mahakal003",
+      "id": "40_Mahakal--i3--Mahakal003",
+      "imageFile": "40_Mahakal--i3--Mahakal003--4bc9a.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 4,
+      "index": 4,
+      "code": "Mahakal004",
+      "id": "40_Mahakal--i4--Mahakal004",
+      "imageFile": "40_Mahakal--i4--Mahakal004--37240.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 5,
+      "index": 5,
+      "code": "Mahakal005",
+      "id": "40_Mahakal--i5--Mahakal005",
+      "imageFile": "40_Mahakal--i5--Mahakal005--cf109.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 6,
+      "index": 6,
+      "code": "Mahakal006",
+      "id": "40_Mahakal--i6--Mahakal006",
+      "imageFile": "40_Mahakal--i6--Mahakal006--a0ef0.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 7,
+      "index": 7,
+      "code": "Mahakal007",
+      "id": "40_Mahakal--i7--Mahakal007",
+      "imageFile": "40_Mahakal--i7--Mahakal007--0443a.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 8,
+      "index": 8,
+      "code": "Mahakal008",
+      "id": "40_Mahakal--i8--Mahakal008",
+      "imageFile": "40_Mahakal--i8--Mahakal008--4e991.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 9,
+      "index": 9,
+      "code": "Mahakal009",
+      "id": "40_Mahakal--i9--Mahakal009",
+      "imageFile": "40_Mahakal--i9--Mahakal009--0967e.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 10,
+      "index": 10,
+      "code": "Mahakal010",
+      "id": "40_Mahakal--i10--Mahakal010",
+      "imageFile": "40_Mahakal--i10--Mahakal010--0508e.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 11,
+      "index": 11,
+      "code": "Mahakal011",
+      "id": "40_Mahakal--i11--Mahakal011",
+      "imageFile": "40_Mahakal--i11--Mahakal011--7d7cb.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 12,
+      "index": 12,
+      "code": "Mahakal012",
+      "id": "40_Mahakal--i12--Mahakal012",
+      "imageFile": "40_Mahakal--i12--Mahakal012--5e17f.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 13,
+      "index": 13,
+      "code": "Mahakal013",
+      "id": "40_Mahakal--i13--Mahakal013",
+      "imageFile": "40_Mahakal--i13--Mahakal013--5b1f1.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 14,
+      "index": 14,
+      "code": "Mahakal014",
+      "id": "40_Mahakal--i14--Mahakal014",
+      "imageFile": "40_Mahakal--i14--Mahakal014--3d586.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 15,
+      "index": 15,
+      "code": "Mahakal015",
+      "id": "40_Mahakal--i15--Mahakal015",
+      "imageFile": "40_Mahakal--i15--Mahakal015--6354c.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 16,
+      "index": 16,
+      "code": "Mahakal016",
+      "id": "40_Mahakal--i16--Mahakal016",
+      "imageFile": "40_Mahakal--i16--Mahakal016--45324.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 17,
+      "index": 17,
+      "code": "Mahakal017",
+      "id": "40_Mahakal--i17--Mahakal017",
+      "imageFile": "40_Mahakal--i17--Mahakal017--2442f.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 18,
+      "index": 18,
+      "code": "Mahakal018",
+      "id": "40_Mahakal--i18--Mahakal018",
+      "imageFile": "40_Mahakal--i18--Mahakal018--edbc2.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 19,
+      "index": 19,
+      "code": "Mahakal019",
+      "id": "40_Mahakal--i19--Mahakal019",
+      "imageFile": "40_Mahakal--i19--Mahakal019--db770.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 20,
+      "index": 20,
+      "code": "Mahakal020",
+      "id": "40_Mahakal--i20--Mahakal020",
+      "imageFile": "40_Mahakal--i20--Mahakal020--0eb0f.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 21,
+      "index": 21,
+      "code": "Mahakal021",
+      "id": "40_Mahakal--i21--Mahakal021",
+      "imageFile": "40_Mahakal--i21--Mahakal021--6b936.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 22,
+      "index": 22,
+      "code": "Mahakal022",
+      "id": "40_Mahakal--i22--Mahakal022",
+      "imageFile": "40_Mahakal--i22--Mahakal022--de4c2.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 23,
+      "index": 23,
+      "code": "Mahakal023",
+      "id": "40_Mahakal--i23--Mahakal023",
+      "imageFile": "40_Mahakal--i23--Mahakal023--857e6.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 24,
+      "index": 24,
+      "code": "Mahakal024",
+      "id": "40_Mahakal--i24--Mahakal024",
+      "imageFile": "40_Mahakal--i24--Mahakal024--7ba1e.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 25,
+      "index": 25,
+      "code": "Mahakal025",
+      "id": "40_Mahakal--i25--Mahakal025",
+      "imageFile": "40_Mahakal--i25--Mahakal025--b39b5.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 26,
+      "index": 26,
+      "code": "Mahakal026",
+      "id": "40_Mahakal--i26--Mahakal026",
+      "imageFile": "40_Mahakal--i26--Mahakal026--83771.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 27,
+      "index": 27,
+      "code": "Mahakal027",
+      "id": "40_Mahakal--i27--Mahakal027",
+      "imageFile": "40_Mahakal--i27--Mahakal027--82659.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 28,
+      "index": 28,
+      "code": "Mahakal028",
+      "id": "40_Mahakal--i28--Mahakal028",
+      "imageFile": "40_Mahakal--i28--Mahakal028--9a66e.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 29,
+      "index": 29,
+      "code": "Mahakal029",
+      "id": "40_Mahakal--i29--Mahakal029",
+      "imageFile": "40_Mahakal--i29--Mahakal029--9313b.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 30,
+      "index": 30,
+      "code": "Mahakal030",
+      "id": "40_Mahakal--i30--Mahakal030",
+      "imageFile": "40_Mahakal--i30--Mahakal030--ac810.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 31,
+      "index": 31,
+      "code": "Mahakal031",
+      "id": "40_Mahakal--i31--Mahakal031",
+      "imageFile": "40_Mahakal--i31--Mahakal031--79eb5.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 32,
+      "index": 32,
+      "code": "Mahakal032",
+      "id": "40_Mahakal--i32--Mahakal032",
+      "imageFile": "40_Mahakal--i32--Mahakal032--94cac.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 33,
+      "index": 33,
+      "code": "Mahakal033",
+      "id": "40_Mahakal--i33--Mahakal033",
+      "imageFile": "40_Mahakal--i33--Mahakal033--a5975.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 34,
+      "index": 34,
+      "code": "Mahakal034",
+      "id": "40_Mahakal--i34--Mahakal034",
+      "imageFile": "40_Mahakal--i34--Mahakal034--6e06b.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 35,
+      "index": 35,
+      "code": "Mahakal035",
+      "id": "40_Mahakal--i35--Mahakal035",
+      "imageFile": "40_Mahakal--i35--Mahakal035--742a9.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 36,
+      "index": 36,
+      "code": "Mahakal036",
+      "id": "40_Mahakal--i36--Mahakal036",
+      "imageFile": "40_Mahakal--i36--Mahakal036--b7b8f.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    }
+  ],
+  "postersSample": [
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 3,
+      "index": 3,
+      "code": "Mahakal003",
+      "id": "40_Mahakal--i3--Mahakal003",
+      "imageFile": "40_Mahakal--i3--Mahakal003--4bc9a.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 20,
+      "index": 20,
+      "code": "Mahakal020",
+      "id": "40_Mahakal--i20--Mahakal020",
+      "imageFile": "40_Mahakal--i20--Mahakal020--0eb0f.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 32,
+      "index": 32,
+      "code": "Mahakal032",
+      "id": "40_Mahakal--i32--Mahakal032",
+      "imageFile": "40_Mahakal--i32--Mahakal032--94cac.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 7,
+      "index": 7,
+      "code": "Mahakal007",
+      "id": "40_Mahakal--i7--Mahakal007",
+      "imageFile": "40_Mahakal--i7--Mahakal007--0443a.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    },
+    {
+      "pdfName": "40_Mahakal",
+      "pageNo": 14,
+      "index": 14,
+      "code": "Mahakal014",
+      "id": "40_Mahakal--i14--Mahakal014",
+      "imageFile": "40_Mahakal--i14--Mahakal014--3d586.jpg",
+      "imageSize": [
+        376,
+        250
+      ]
+    }
+  ]
+}

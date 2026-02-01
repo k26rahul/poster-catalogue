@@ -1,0 +1,182 @@
+{
+  "path": "1-per-page/46_Ram_Darbar.pdf",
+  "name": "46_Ram_Darbar",
+  "readableName": "46 Ram Darbar",
+  "category": "Ram Darbar",
+  "totalPosters": 9,
+  "numLandscapePosters": 1,
+  "numPortraitPosters": 8,
+  "usedLandscapeForSample": false,
+  "posters": [
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 1,
+      "index": 1,
+      "code": "R-14001",
+      "id": "46_Ram_Darbar--i1--R-14001",
+      "imageFile": "46_Ram_Darbar--i1--R-14001--908db.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 2,
+      "index": 2,
+      "code": "R-14002",
+      "id": "46_Ram_Darbar--i2--R-14002",
+      "imageFile": "46_Ram_Darbar--i2--R-14002--92e0a.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 3,
+      "index": 3,
+      "code": "R-14003",
+      "id": "46_Ram_Darbar--i3--R-14003",
+      "imageFile": "46_Ram_Darbar--i3--R-14003--f216c.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 4,
+      "index": 4,
+      "code": "R-14004",
+      "id": "46_Ram_Darbar--i4--R-14004",
+      "imageFile": "46_Ram_Darbar--i4--R-14004--2ddc5.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 5,
+      "index": 5,
+      "code": "R-14005",
+      "id": "46_Ram_Darbar--i5--R-14005",
+      "imageFile": "46_Ram_Darbar--i5--R-14005--3b6b8.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 6,
+      "index": 6,
+      "code": "R-14006",
+      "id": "46_Ram_Darbar--i6--R-14006",
+      "imageFile": "46_Ram_Darbar--i6--R-14006--0154b.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 7,
+      "index": 7,
+      "code": "R-14007",
+      "id": "46_Ram_Darbar--i7--R-14007",
+      "imageFile": "46_Ram_Darbar--i7--R-14007--5eb16.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 8,
+      "index": 8,
+      "code": "R-14008",
+      "id": "46_Ram_Darbar--i8--R-14008",
+      "imageFile": "46_Ram_Darbar--i8--R-14008--ef5fc.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 9,
+      "index": 9,
+      "code": "R-14009",
+      "id": "46_Ram_Darbar--i9--R-14009",
+      "imageFile": "46_Ram_Darbar--i9--R-14009--9fc7f.jpg",
+      "imageSize": [
+        600,
+        400
+      ]
+    }
+  ],
+  "postersSample": [
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 8,
+      "index": 8,
+      "code": "R-14008",
+      "id": "46_Ram_Darbar--i8--R-14008",
+      "imageFile": "46_Ram_Darbar--i8--R-14008--ef5fc.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 2,
+      "index": 2,
+      "code": "R-14002",
+      "id": "46_Ram_Darbar--i2--R-14002",
+      "imageFile": "46_Ram_Darbar--i2--R-14002--92e0a.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 4,
+      "index": 4,
+      "code": "R-14004",
+      "id": "46_Ram_Darbar--i4--R-14004",
+      "imageFile": "46_Ram_Darbar--i4--R-14004--2ddc5.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 3,
+      "index": 3,
+      "code": "R-14003",
+      "id": "46_Ram_Darbar--i3--R-14003",
+      "imageFile": "46_Ram_Darbar--i3--R-14003--f216c.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "46_Ram_Darbar",
+      "pageNo": 7,
+      "index": 7,
+      "code": "R-14007",
+      "id": "46_Ram_Darbar--i7--R-14007",
+      "imageFile": "46_Ram_Darbar--i7--R-14007--5eb16.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    }
+  ]
+}

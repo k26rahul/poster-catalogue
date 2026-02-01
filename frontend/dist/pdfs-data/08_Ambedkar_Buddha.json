@@ -1,0 +1,434 @@
+{
+  "path": "multi-per-page/08_Ambedkar_Buddha.pdf",
+  "name": "08_Ambedkar_Buddha",
+  "readableName": "08 Ambedkar Buddha",
+  "category": "Ambedkar Buddha",
+  "totalPosters": 30,
+  "numLandscapePosters": 24,
+  "numPortraitPosters": 6,
+  "usedLandscapeForSample": true,
+  "posters": [
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 2,
+      "index": 1,
+      "code": "AB-3023",
+      "id": "08_Ambedkar_Buddha--i1--AB-3023",
+      "imageFile": "08_Ambedkar_Buddha--i1--AB-3023--e30cc.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 2,
+      "index": 2,
+      "code": "AB-3024",
+      "id": "08_Ambedkar_Buddha--i2--AB-3024",
+      "imageFile": "08_Ambedkar_Buddha--i2--AB-3024--fc876.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 2,
+      "index": 3,
+      "code": "AB-3025",
+      "id": "08_Ambedkar_Buddha--i3--AB-3025",
+      "imageFile": "08_Ambedkar_Buddha--i3--AB-3025--094ca.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 2,
+      "index": 4,
+      "code": "AB-3027",
+      "id": "08_Ambedkar_Buddha--i4--AB-3027",
+      "imageFile": "08_Ambedkar_Buddha--i4--AB-3027--f7ff8.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 2,
+      "index": 5,
+      "code": "AB-3029",
+      "id": "08_Ambedkar_Buddha--i5--AB-3029",
+      "imageFile": "08_Ambedkar_Buddha--i5--AB-3029--256ad.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 2,
+      "index": 6,
+      "code": "AB-3030",
+      "id": "08_Ambedkar_Buddha--i6--AB-3030",
+      "imageFile": "08_Ambedkar_Buddha--i6--AB-3030--9d920.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 3,
+      "index": 7,
+      "code": "AB-3017",
+      "id": "08_Ambedkar_Buddha--i7--AB-3017",
+      "imageFile": "08_Ambedkar_Buddha--i7--AB-3017--a27d3.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 3,
+      "index": 8,
+      "code": "AB-3018",
+      "id": "08_Ambedkar_Buddha--i8--AB-3018",
+      "imageFile": "08_Ambedkar_Buddha--i8--AB-3018--fc777.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 3,
+      "index": 9,
+      "code": "AB-3019",
+      "id": "08_Ambedkar_Buddha--i9--AB-3019",
+      "imageFile": "08_Ambedkar_Buddha--i9--AB-3019--995b6.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 3,
+      "index": 10,
+      "code": "AB-3020",
+      "id": "08_Ambedkar_Buddha--i10--AB-3020",
+      "imageFile": "08_Ambedkar_Buddha--i10--AB-3020--05a02.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 3,
+      "index": 11,
+      "code": "AB-3021",
+      "id": "08_Ambedkar_Buddha--i11--AB-3021",
+      "imageFile": "08_Ambedkar_Buddha--i11--AB-3021--89698.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 3,
+      "index": 12,
+      "code": "AB-3022",
+      "id": "08_Ambedkar_Buddha--i12--AB-3022",
+      "imageFile": "08_Ambedkar_Buddha--i12--AB-3022--d2094.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 4,
+      "index": 13,
+      "code": "AB-3001",
+      "id": "08_Ambedkar_Buddha--i13--AB-3001",
+      "imageFile": "08_Ambedkar_Buddha--i13--AB-3001--bdb8b.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 4,
+      "index": 14,
+      "code": "AB-3002",
+      "id": "08_Ambedkar_Buddha--i14--AB-3002",
+      "imageFile": "08_Ambedkar_Buddha--i14--AB-3002--5bc07.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 4,
+      "index": 15,
+      "code": "AB-3003",
+      "id": "08_Ambedkar_Buddha--i15--AB-3003",
+      "imageFile": "08_Ambedkar_Buddha--i15--AB-3003--2747f.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 4,
+      "index": 16,
+      "code": "AB-3004",
+      "id": "08_Ambedkar_Buddha--i16--AB-3004",
+      "imageFile": "08_Ambedkar_Buddha--i16--AB-3004--3729e.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 4,
+      "index": 17,
+      "code": "AB-3005",
+      "id": "08_Ambedkar_Buddha--i17--AB-3005",
+      "imageFile": "08_Ambedkar_Buddha--i17--AB-3005--a5acd.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 4,
+      "index": 18,
+      "code": "AB-3009",
+      "id": "08_Ambedkar_Buddha--i18--AB-3009",
+      "imageFile": "08_Ambedkar_Buddha--i18--AB-3009--8e0fa.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 5,
+      "index": 19,
+      "code": "AB-3008",
+      "id": "08_Ambedkar_Buddha--i19--AB-3008",
+      "imageFile": "08_Ambedkar_Buddha--i19--AB-3008--5cf12.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 5,
+      "index": 20,
+      "code": "AB-3010",
+      "id": "08_Ambedkar_Buddha--i20--AB-3010",
+      "imageFile": "08_Ambedkar_Buddha--i20--AB-3010--a0835.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 5,
+      "index": 21,
+      "code": "AB-3012",
+      "id": "08_Ambedkar_Buddha--i21--AB-3012",
+      "imageFile": "08_Ambedkar_Buddha--i21--AB-3012--f453b.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 5,
+      "index": 22,
+      "code": "AB-3013",
+      "id": "08_Ambedkar_Buddha--i22--AB-3013",
+      "imageFile": "08_Ambedkar_Buddha--i22--AB-3013--7d69a.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 5,
+      "index": 23,
+      "code": "AB-3015",
+      "id": "08_Ambedkar_Buddha--i23--AB-3015",
+      "imageFile": "08_Ambedkar_Buddha--i23--AB-3015--6a395.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 5,
+      "index": 24,
+      "code": "AB-3016",
+      "id": "08_Ambedkar_Buddha--i24--AB-3016",
+      "imageFile": "08_Ambedkar_Buddha--i24--AB-3016--dd984.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 6,
+      "index": 25,
+      "code": "AB-3006",
+      "id": "08_Ambedkar_Buddha--i25--AB-3006",
+      "imageFile": "08_Ambedkar_Buddha--i25--AB-3006--67c05.jpg",
+      "imageSize": [
+        144,
+        216
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 6,
+      "index": 26,
+      "code": "AB-3007",
+      "id": "08_Ambedkar_Buddha--i26--AB-3007",
+      "imageFile": "08_Ambedkar_Buddha--i26--AB-3007--c7e41.jpg",
+      "imageSize": [
+        144,
+        216
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 6,
+      "index": 27,
+      "code": "AB-3026",
+      "id": "08_Ambedkar_Buddha--i27--AB-3026",
+      "imageFile": "08_Ambedkar_Buddha--i27--AB-3026--919dc.jpg",
+      "imageSize": [
+        144,
+        216
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 6,
+      "index": 28,
+      "code": "AB-3028",
+      "id": "08_Ambedkar_Buddha--i28--AB-3028",
+      "imageFile": "08_Ambedkar_Buddha--i28--AB-3028--e9acc.jpg",
+      "imageSize": [
+        144,
+        216
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 6,
+      "index": 29,
+      "code": "AB-3031",
+      "id": "08_Ambedkar_Buddha--i29--AB-3031",
+      "imageFile": "08_Ambedkar_Buddha--i29--AB-3031--159f4.jpg",
+      "imageSize": [
+        144,
+        216
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 6,
+      "index": 30,
+      "code": "AB-3032",
+      "id": "08_Ambedkar_Buddha--i30--AB-3032",
+      "imageFile": "08_Ambedkar_Buddha--i30--AB-3032--afd9d.jpg",
+      "imageSize": [
+        144,
+        216
+      ]
+    }
+  ],
+  "postersSample": [
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 2,
+      "index": 6,
+      "code": "AB-3030",
+      "id": "08_Ambedkar_Buddha--i6--AB-3030",
+      "imageFile": "08_Ambedkar_Buddha--i6--AB-3030--9d920.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 3,
+      "index": 9,
+      "code": "AB-3019",
+      "id": "08_Ambedkar_Buddha--i9--AB-3019",
+      "imageFile": "08_Ambedkar_Buddha--i9--AB-3019--995b6.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 5,
+      "index": 19,
+      "code": "AB-3008",
+      "id": "08_Ambedkar_Buddha--i19--AB-3008",
+      "imageFile": "08_Ambedkar_Buddha--i19--AB-3008--5cf12.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 4,
+      "index": 17,
+      "code": "AB-3005",
+      "id": "08_Ambedkar_Buddha--i17--AB-3005",
+      "imageFile": "08_Ambedkar_Buddha--i17--AB-3005--a5acd.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Ambedkar_Buddha",
+      "pageNo": 5,
+      "index": 22,
+      "code": "AB-3013",
+      "id": "08_Ambedkar_Buddha--i22--AB-3013",
+      "imageFile": "08_Ambedkar_Buddha--i22--AB-3013--7d69a.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    }
+  ]
+}

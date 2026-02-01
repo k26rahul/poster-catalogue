@@ -1,0 +1,1118 @@
+{
+  "path": "multi-per-page/03_Mixed.pdf",
+  "name": "03_Mixed",
+  "readableName": "03 Mixed",
+  "category": "Mixed",
+  "totalPosters": 87,
+  "numLandscapePosters": 85,
+  "numPortraitPosters": 2,
+  "usedLandscapeForSample": true,
+  "posters": [
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 2,
+      "index": 1,
+      "code": "27001",
+      "id": "03_Mixed--i1--27001",
+      "imageFile": "03_Mixed--i1--27001--63ff1.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 2,
+      "index": 2,
+      "code": "27002",
+      "id": "03_Mixed--i2--27002",
+      "imageFile": "03_Mixed--i2--27002--c5348.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 2,
+      "index": 3,
+      "code": "27003",
+      "id": "03_Mixed--i3--27003",
+      "imageFile": "03_Mixed--i3--27003--35864.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 2,
+      "index": 4,
+      "code": "27004",
+      "id": "03_Mixed--i4--27004",
+      "imageFile": "03_Mixed--i4--27004--070d2.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 2,
+      "index": 5,
+      "code": "27005",
+      "id": "03_Mixed--i5--27005",
+      "imageFile": "03_Mixed--i5--27005--a8050.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 2,
+      "index": 6,
+      "code": "27006",
+      "id": "03_Mixed--i6--27006",
+      "imageFile": "03_Mixed--i6--27006--1e17e.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 3,
+      "index": 7,
+      "code": "27007",
+      "id": "03_Mixed--i7--27007",
+      "imageFile": "03_Mixed--i7--27007--85bbe.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 3,
+      "index": 8,
+      "code": "27008",
+      "id": "03_Mixed--i8--27008",
+      "imageFile": "03_Mixed--i8--27008--eb8c6.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 3,
+      "index": 9,
+      "code": "27009",
+      "id": "03_Mixed--i9--27009",
+      "imageFile": "03_Mixed--i9--27009--39a30.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 3,
+      "index": 10,
+      "code": "27010",
+      "id": "03_Mixed--i10--27010",
+      "imageFile": "03_Mixed--i10--27010--ba956.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 3,
+      "index": 11,
+      "code": "27011",
+      "id": "03_Mixed--i11--27011",
+      "imageFile": "03_Mixed--i11--27011--ad0c9.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 3,
+      "index": 12,
+      "code": "27012",
+      "id": "03_Mixed--i12--27012",
+      "imageFile": "03_Mixed--i12--27012--097b3.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 4,
+      "index": 13,
+      "code": "27013",
+      "id": "03_Mixed--i13--27013",
+      "imageFile": "03_Mixed--i13--27013--9c968.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 4,
+      "index": 14,
+      "code": "27014",
+      "id": "03_Mixed--i14--27014",
+      "imageFile": "03_Mixed--i14--27014--bcef8.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 4,
+      "index": 15,
+      "code": "27015",
+      "id": "03_Mixed--i15--27015",
+      "imageFile": "03_Mixed--i15--27015--9002e.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 4,
+      "index": 16,
+      "code": "27016",
+      "id": "03_Mixed--i16--27016",
+      "imageFile": "03_Mixed--i16--27016--f9d02.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 4,
+      "index": 17,
+      "code": "27017",
+      "id": "03_Mixed--i17--27017",
+      "imageFile": "03_Mixed--i17--27017--71cee.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 4,
+      "index": 18,
+      "code": "27018",
+      "id": "03_Mixed--i18--27018",
+      "imageFile": "03_Mixed--i18--27018--2ad01.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 5,
+      "index": 19,
+      "code": "27019",
+      "id": "03_Mixed--i19--27019",
+      "imageFile": "03_Mixed--i19--27019--b512e.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 5,
+      "index": 20,
+      "code": "27020",
+      "id": "03_Mixed--i20--27020",
+      "imageFile": "03_Mixed--i20--27020--7e908.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 5,
+      "index": 21,
+      "code": "27021",
+      "id": "03_Mixed--i21--27021",
+      "imageFile": "03_Mixed--i21--27021--dff3a.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 5,
+      "index": 22,
+      "code": "27022",
+      "id": "03_Mixed--i22--27022",
+      "imageFile": "03_Mixed--i22--27022--8a345.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 5,
+      "index": 23,
+      "code": "27023",
+      "id": "03_Mixed--i23--27023",
+      "imageFile": "03_Mixed--i23--27023--ed1e5.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 5,
+      "index": 24,
+      "code": "27088",
+      "id": "03_Mixed--i24--27088",
+      "imageFile": "03_Mixed--i24--27088--2ff1a.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 6,
+      "index": 25,
+      "code": "27024",
+      "id": "03_Mixed--i25--27024",
+      "imageFile": "03_Mixed--i25--27024--a39cd.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 6,
+      "index": 26,
+      "code": "27025",
+      "id": "03_Mixed--i26--27025",
+      "imageFile": "03_Mixed--i26--27025--b8742.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 6,
+      "index": 27,
+      "code": "27027",
+      "id": "03_Mixed--i27--27027",
+      "imageFile": "03_Mixed--i27--27027--d099f.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 6,
+      "index": 28,
+      "code": "27028",
+      "id": "03_Mixed--i28--27028",
+      "imageFile": "03_Mixed--i28--27028--d1e30.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 6,
+      "index": 29,
+      "code": "27029",
+      "id": "03_Mixed--i29--27029",
+      "imageFile": "03_Mixed--i29--27029--1c31f.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 6,
+      "index": 30,
+      "code": "27031",
+      "id": "03_Mixed--i30--27031",
+      "imageFile": "03_Mixed--i30--27031--4cc59.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 7,
+      "index": 31,
+      "code": "27032",
+      "id": "03_Mixed--i31--27032",
+      "imageFile": "03_Mixed--i31--27032--29b23.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 7,
+      "index": 32,
+      "code": "27033",
+      "id": "03_Mixed--i32--27033",
+      "imageFile": "03_Mixed--i32--27033--1b87b.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 7,
+      "index": 33,
+      "code": "27034",
+      "id": "03_Mixed--i33--27034",
+      "imageFile": "03_Mixed--i33--27034--37412.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 7,
+      "index": 34,
+      "code": "27035",
+      "id": "03_Mixed--i34--27035",
+      "imageFile": "03_Mixed--i34--27035--2dcc5.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 7,
+      "index": 35,
+      "code": "27036",
+      "id": "03_Mixed--i35--27036",
+      "imageFile": "03_Mixed--i35--27036--b887a.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 7,
+      "index": 36,
+      "code": "27037",
+      "id": "03_Mixed--i36--27037",
+      "imageFile": "03_Mixed--i36--27037--b0ba9.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 8,
+      "index": 37,
+      "code": "27038",
+      "id": "03_Mixed--i37--27038",
+      "imageFile": "03_Mixed--i37--27038--ed3da.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 8,
+      "index": 38,
+      "code": "27039",
+      "id": "03_Mixed--i38--27039",
+      "imageFile": "03_Mixed--i38--27039--d4934.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 8,
+      "index": 39,
+      "code": "27041",
+      "id": "03_Mixed--i39--27041",
+      "imageFile": "03_Mixed--i39--27041--c9e21.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 8,
+      "index": 40,
+      "code": "27042",
+      "id": "03_Mixed--i40--27042",
+      "imageFile": "03_Mixed--i40--27042--7a2b2.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 8,
+      "index": 41,
+      "code": "27043",
+      "id": "03_Mixed--i41--27043",
+      "imageFile": "03_Mixed--i41--27043--b9b63.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 8,
+      "index": 42,
+      "code": "27044",
+      "id": "03_Mixed--i42--27044",
+      "imageFile": "03_Mixed--i42--27044--3b11b.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 9,
+      "index": 43,
+      "code": "27045",
+      "id": "03_Mixed--i43--27045",
+      "imageFile": "03_Mixed--i43--27045--32750.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 9,
+      "index": 44,
+      "code": "27046",
+      "id": "03_Mixed--i44--27046",
+      "imageFile": "03_Mixed--i44--27046--1599b.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 9,
+      "index": 45,
+      "code": "27047",
+      "id": "03_Mixed--i45--27047",
+      "imageFile": "03_Mixed--i45--27047--29216.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 9,
+      "index": 46,
+      "code": "27089",
+      "id": "03_Mixed--i46--27089",
+      "imageFile": "03_Mixed--i46--27089--3e62e.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 9,
+      "index": 47,
+      "code": "27090",
+      "id": "03_Mixed--i47--27090",
+      "imageFile": "03_Mixed--i47--27090--3cbbc.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 10,
+      "index": 48,
+      "code": "27048",
+      "id": "03_Mixed--i48--27048",
+      "imageFile": "03_Mixed--i48--27048--cc254.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 10,
+      "index": 49,
+      "code": "27049",
+      "id": "03_Mixed--i49--27049",
+      "imageFile": "03_Mixed--i49--27049--ab390.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 10,
+      "index": 50,
+      "code": "27050",
+      "id": "03_Mixed--i50--27050",
+      "imageFile": "03_Mixed--i50--27050--df978.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 10,
+      "index": 51,
+      "code": "27051",
+      "id": "03_Mixed--i51--27051",
+      "imageFile": "03_Mixed--i51--27051--f459f.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 10,
+      "index": 52,
+      "code": "27053",
+      "id": "03_Mixed--i52--27053",
+      "imageFile": "03_Mixed--i52--27053--14c61.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 10,
+      "index": 53,
+      "code": "27054",
+      "id": "03_Mixed--i53--27054",
+      "imageFile": "03_Mixed--i53--27054--92075.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 11,
+      "index": 54,
+      "code": "27052",
+      "id": "03_Mixed--i54--27052",
+      "imageFile": "03_Mixed--i54--27052--ce20a.jpg",
+      "imageSize": [
+        200,
+        301
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 11,
+      "index": 55,
+      "code": "27055",
+      "id": "03_Mixed--i55--27055",
+      "imageFile": "03_Mixed--i55--27055--05b22.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 11,
+      "index": 56,
+      "code": "27056",
+      "id": "03_Mixed--i56--27056",
+      "imageFile": "03_Mixed--i56--27056--4e216.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 11,
+      "index": 57,
+      "code": "27057",
+      "id": "03_Mixed--i57--27057",
+      "imageFile": "03_Mixed--i57--27057--6b2c0.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 11,
+      "index": 58,
+      "code": "27058",
+      "id": "03_Mixed--i58--27058",
+      "imageFile": "03_Mixed--i58--27058--8898a.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 11,
+      "index": 59,
+      "code": "27060",
+      "id": "03_Mixed--i59--27060",
+      "imageFile": "03_Mixed--i59--27060--e69aa.jpg",
+      "imageSize": [
+        200,
+        301
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 12,
+      "index": 60,
+      "code": "27061",
+      "id": "03_Mixed--i60--27061",
+      "imageFile": "03_Mixed--i60--27061--c0ce7.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 12,
+      "index": 61,
+      "code": "27062",
+      "id": "03_Mixed--i61--27062",
+      "imageFile": "03_Mixed--i61--27062--d6319.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 12,
+      "index": 62,
+      "code": "27063",
+      "id": "03_Mixed--i62--27063",
+      "imageFile": "03_Mixed--i62--27063--24580.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 12,
+      "index": 63,
+      "code": "27064",
+      "id": "03_Mixed--i63--27064",
+      "imageFile": "03_Mixed--i63--27064--d4cfa.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 12,
+      "index": 64,
+      "code": "27065",
+      "id": "03_Mixed--i64--27065",
+      "imageFile": "03_Mixed--i64--27065--2a059.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 12,
+      "index": 65,
+      "code": "27066",
+      "id": "03_Mixed--i65--27066",
+      "imageFile": "03_Mixed--i65--27066--80724.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 13,
+      "index": 66,
+      "code": "27067",
+      "id": "03_Mixed--i66--27067",
+      "imageFile": "03_Mixed--i66--27067--785d0.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 13,
+      "index": 67,
+      "code": "27068",
+      "id": "03_Mixed--i67--27068",
+      "imageFile": "03_Mixed--i67--27068--a9024.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 13,
+      "index": 68,
+      "code": "27069",
+      "id": "03_Mixed--i68--27069",
+      "imageFile": "03_Mixed--i68--27069--f243c.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 13,
+      "index": 69,
+      "code": "27070",
+      "id": "03_Mixed--i69--27070",
+      "imageFile": "03_Mixed--i69--27070--877e7.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 13,
+      "index": 70,
+      "code": "27071",
+      "id": "03_Mixed--i70--27071",
+      "imageFile": "03_Mixed--i70--27071--146d0.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 14,
+      "index": 71,
+      "code": "27072",
+      "id": "03_Mixed--i71--27072",
+      "imageFile": "03_Mixed--i71--27072--fd0d7.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 14,
+      "index": 72,
+      "code": "27073",
+      "id": "03_Mixed--i72--27073",
+      "imageFile": "03_Mixed--i72--27073--8c59e.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 14,
+      "index": 73,
+      "code": "27074",
+      "id": "03_Mixed--i73--27074",
+      "imageFile": "03_Mixed--i73--27074--e8651.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 14,
+      "index": 74,
+      "code": "27075",
+      "id": "03_Mixed--i74--27075",
+      "imageFile": "03_Mixed--i74--27075--88478.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 14,
+      "index": 75,
+      "code": "27076",
+      "id": "03_Mixed--i75--27076",
+      "imageFile": "03_Mixed--i75--27076--25a53.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 14,
+      "index": 76,
+      "code": "27077",
+      "id": "03_Mixed--i76--27077",
+      "imageFile": "03_Mixed--i76--27077--d803d.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 15,
+      "index": 77,
+      "code": "27078",
+      "id": "03_Mixed--i77--27078",
+      "imageFile": "03_Mixed--i77--27078--28891.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 15,
+      "index": 78,
+      "code": "27079",
+      "id": "03_Mixed--i78--27079",
+      "imageFile": "03_Mixed--i78--27079--7d10a.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 15,
+      "index": 79,
+      "code": "27080",
+      "id": "03_Mixed--i79--27080",
+      "imageFile": "03_Mixed--i79--27080--67241.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 15,
+      "index": 80,
+      "code": "27081",
+      "id": "03_Mixed--i80--27081",
+      "imageFile": "03_Mixed--i80--27081--fbb5a.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 15,
+      "index": 81,
+      "code": "27082",
+      "id": "03_Mixed--i81--27082",
+      "imageFile": "03_Mixed--i81--27082--e797c.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 15,
+      "index": 82,
+      "code": "27083",
+      "id": "03_Mixed--i82--27083",
+      "imageFile": "03_Mixed--i82--27083--95ddb.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 16,
+      "index": 83,
+      "code": "27084",
+      "id": "03_Mixed--i83--27084",
+      "imageFile": "03_Mixed--i83--27084--09693.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 16,
+      "index": 84,
+      "code": "27085",
+      "id": "03_Mixed--i84--27085",
+      "imageFile": "03_Mixed--i84--27085--5938a.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 16,
+      "index": 85,
+      "code": "27086",
+      "id": "03_Mixed--i85--27086",
+      "imageFile": "03_Mixed--i85--27086--24730.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 16,
+      "index": 86,
+      "code": "27087",
+      "id": "03_Mixed--i86--27087",
+      "imageFile": "03_Mixed--i86--27087--713ee.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 16,
+      "index": 87,
+      "code": "27091",
+      "id": "03_Mixed--i87--27091",
+      "imageFile": "03_Mixed--i87--27091--2dee5.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    }
+  ],
+  "postersSample": [
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 16,
+      "index": 87,
+      "code": "27091",
+      "id": "03_Mixed--i87--27091",
+      "imageFile": "03_Mixed--i87--27091--2dee5.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 15,
+      "index": 77,
+      "code": "27078",
+      "id": "03_Mixed--i77--27078",
+      "imageFile": "03_Mixed--i77--27078--28891.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 10,
+      "index": 49,
+      "code": "27049",
+      "id": "03_Mixed--i49--27049",
+      "imageFile": "03_Mixed--i49--27049--ab390.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 6,
+      "index": 29,
+      "code": "27029",
+      "id": "03_Mixed--i29--27029",
+      "imageFile": "03_Mixed--i29--27029--1c31f.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    },
+    {
+      "pdfName": "03_Mixed",
+      "pageNo": 7,
+      "index": 34,
+      "code": "27035",
+      "id": "03_Mixed--i34--27035",
+      "imageFile": "03_Mixed--i34--27035--2dcc5.jpg",
+      "imageSize": [
+        301,
+        200
+      ]
+    }
+  ]
+}

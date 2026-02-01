@@ -1,0 +1,794 @@
+{
+  "path": "multi-per-page/08_Horse.pdf",
+  "name": "08_Horse",
+  "readableName": "08 Horse",
+  "category": "Horse",
+  "totalPosters": 60,
+  "numLandscapePosters": 60,
+  "numPortraitPosters": 0,
+  "usedLandscapeForSample": true,
+  "posters": [
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 2,
+      "index": 1,
+      "code": "27066",
+      "id": "08_Horse--i1--27066",
+      "imageFile": "08_Horse--i1--27066--50bcc.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 2,
+      "index": 2,
+      "code": "27067",
+      "id": "08_Horse--i2--27067",
+      "imageFile": "08_Horse--i2--27067--f4e39.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 2,
+      "index": 3,
+      "code": "27068",
+      "id": "08_Horse--i3--27068",
+      "imageFile": "08_Horse--i3--27068--ff43c.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 2,
+      "index": 4,
+      "code": "27069",
+      "id": "08_Horse--i4--27069",
+      "imageFile": "08_Horse--i4--27069--abbc9.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 2,
+      "index": 5,
+      "code": "27070",
+      "id": "08_Horse--i5--27070",
+      "imageFile": "08_Horse--i5--27070--3b019.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 2,
+      "index": 6,
+      "code": "27071",
+      "id": "08_Horse--i6--27071",
+      "imageFile": "08_Horse--i6--27071--b0ed7.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 3,
+      "index": 7,
+      "code": "4142",
+      "id": "08_Horse--i7--4142",
+      "imageFile": "08_Horse--i7--4142--dddd5.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 3,
+      "index": 8,
+      "code": "27061",
+      "id": "08_Horse--i8--27061",
+      "imageFile": "08_Horse--i8--27061--125d6.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 3,
+      "index": 9,
+      "code": "27062",
+      "id": "08_Horse--i9--27062",
+      "imageFile": "08_Horse--i9--27062--05d9e.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 3,
+      "index": 10,
+      "code": "27063",
+      "id": "08_Horse--i10--27063",
+      "imageFile": "08_Horse--i10--27063--b8642.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 3,
+      "index": 11,
+      "code": "27064",
+      "id": "08_Horse--i11--27064",
+      "imageFile": "08_Horse--i11--27064--4f6a9.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 3,
+      "index": 12,
+      "code": "27065",
+      "id": "08_Horse--i12--27065",
+      "imageFile": "08_Horse--i12--27065--b4afc.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 4,
+      "index": 13,
+      "code": "4136",
+      "id": "08_Horse--i13--4136",
+      "imageFile": "08_Horse--i13--4136--aa645.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 4,
+      "index": 14,
+      "code": "4137",
+      "id": "08_Horse--i14--4137",
+      "imageFile": "08_Horse--i14--4137--5a3a6.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 4,
+      "index": 15,
+      "code": "4138",
+      "id": "08_Horse--i15--4138",
+      "imageFile": "08_Horse--i15--4138--a4897.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 4,
+      "index": 16,
+      "code": "4139",
+      "id": "08_Horse--i16--4139",
+      "imageFile": "08_Horse--i16--4139--99ad1.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 4,
+      "index": 17,
+      "code": "4140",
+      "id": "08_Horse--i17--4140",
+      "imageFile": "08_Horse--i17--4140--7c256.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 4,
+      "index": 18,
+      "code": "4141",
+      "id": "08_Horse--i18--4141",
+      "imageFile": "08_Horse--i18--4141--bfed1.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 5,
+      "index": 19,
+      "code": "4130",
+      "id": "08_Horse--i19--4130",
+      "imageFile": "08_Horse--i19--4130--b5ee1.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 5,
+      "index": 20,
+      "code": "4131",
+      "id": "08_Horse--i20--4131",
+      "imageFile": "08_Horse--i20--4131--60583.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 5,
+      "index": 21,
+      "code": "4132",
+      "id": "08_Horse--i21--4132",
+      "imageFile": "08_Horse--i21--4132--a7910.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 5,
+      "index": 22,
+      "code": "4133",
+      "id": "08_Horse--i22--4133",
+      "imageFile": "08_Horse--i22--4133--2669e.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 5,
+      "index": 23,
+      "code": "4134",
+      "id": "08_Horse--i23--4134",
+      "imageFile": "08_Horse--i23--4134--4b7ce.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 5,
+      "index": 24,
+      "code": "4135",
+      "id": "08_Horse--i24--4135",
+      "imageFile": "08_Horse--i24--4135--ac1f1.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 6,
+      "index": 25,
+      "code": "4124",
+      "id": "08_Horse--i25--4124",
+      "imageFile": "08_Horse--i25--4124--35262.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 6,
+      "index": 26,
+      "code": "4125",
+      "id": "08_Horse--i26--4125",
+      "imageFile": "08_Horse--i26--4125--92a7c.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 6,
+      "index": 27,
+      "code": "4126",
+      "id": "08_Horse--i27--4126",
+      "imageFile": "08_Horse--i27--4126--bfe97.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 6,
+      "index": 28,
+      "code": "4127",
+      "id": "08_Horse--i28--4127",
+      "imageFile": "08_Horse--i28--4127--ee7ee.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 6,
+      "index": 29,
+      "code": "4128",
+      "id": "08_Horse--i29--4128",
+      "imageFile": "08_Horse--i29--4128--d48f8.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 6,
+      "index": 30,
+      "code": "4129",
+      "id": "08_Horse--i30--4129",
+      "imageFile": "08_Horse--i30--4129--76d2b.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 7,
+      "index": 31,
+      "code": "4117",
+      "id": "08_Horse--i31--4117",
+      "imageFile": "08_Horse--i31--4117--5d3df.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 7,
+      "index": 32,
+      "code": "4118",
+      "id": "08_Horse--i32--4118",
+      "imageFile": "08_Horse--i32--4118--9c33f.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 7,
+      "index": 33,
+      "code": "4119",
+      "id": "08_Horse--i33--4119",
+      "imageFile": "08_Horse--i33--4119--d3b49.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 7,
+      "index": 34,
+      "code": "4120",
+      "id": "08_Horse--i34--4120",
+      "imageFile": "08_Horse--i34--4120--16a58.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 7,
+      "index": 35,
+      "code": "4121",
+      "id": "08_Horse--i35--4121",
+      "imageFile": "08_Horse--i35--4121--69829.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 7,
+      "index": 36,
+      "code": "4122",
+      "id": "08_Horse--i36--4122",
+      "imageFile": "08_Horse--i36--4122--01ee6.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 8,
+      "index": 37,
+      "code": "4076",
+      "id": "08_Horse--i37--4076",
+      "imageFile": "08_Horse--i37--4076--e6ad7.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 8,
+      "index": 38,
+      "code": "4077",
+      "id": "08_Horse--i38--4077",
+      "imageFile": "08_Horse--i38--4077--a95a9.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 8,
+      "index": 39,
+      "code": "4081",
+      "id": "08_Horse--i39--4081",
+      "imageFile": "08_Horse--i39--4081--bb9a9.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 8,
+      "index": 40,
+      "code": "4083",
+      "id": "08_Horse--i40--4083",
+      "imageFile": "08_Horse--i40--4083--f6992.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 8,
+      "index": 41,
+      "code": "4086",
+      "id": "08_Horse--i41--4086",
+      "imageFile": "08_Horse--i41--4086--f140f.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 8,
+      "index": 42,
+      "code": "4087",
+      "id": "08_Horse--i42--4087",
+      "imageFile": "08_Horse--i42--4087--d87a5.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 9,
+      "index": 43,
+      "code": "4088",
+      "id": "08_Horse--i43--4088",
+      "imageFile": "08_Horse--i43--4088--0d03c.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 9,
+      "index": 44,
+      "code": "4089",
+      "id": "08_Horse--i44--4089",
+      "imageFile": "08_Horse--i44--4089--5a477.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 9,
+      "index": 45,
+      "code": "4090",
+      "id": "08_Horse--i45--4090",
+      "imageFile": "08_Horse--i45--4090--27b49.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 9,
+      "index": 46,
+      "code": "4092",
+      "id": "08_Horse--i46--4092",
+      "imageFile": "08_Horse--i46--4092--6d85c.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 9,
+      "index": 47,
+      "code": "4094",
+      "id": "08_Horse--i47--4094",
+      "imageFile": "08_Horse--i47--4094--37e35.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 9,
+      "index": 48,
+      "code": "4095",
+      "id": "08_Horse--i48--4095",
+      "imageFile": "08_Horse--i48--4095--bfacb.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 10,
+      "index": 49,
+      "code": "4096",
+      "id": "08_Horse--i49--4096",
+      "imageFile": "08_Horse--i49--4096--7ae76.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 10,
+      "index": 50,
+      "code": "4097",
+      "id": "08_Horse--i50--4097",
+      "imageFile": "08_Horse--i50--4097--1ef0d.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 10,
+      "index": 51,
+      "code": "4099",
+      "id": "08_Horse--i51--4099",
+      "imageFile": "08_Horse--i51--4099--13a4e.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 10,
+      "index": 52,
+      "code": "4101",
+      "id": "08_Horse--i52--4101",
+      "imageFile": "08_Horse--i52--4101--24d3f.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 10,
+      "index": 53,
+      "code": "4103",
+      "id": "08_Horse--i53--4103",
+      "imageFile": "08_Horse--i53--4103--a2562.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 10,
+      "index": 54,
+      "code": "4104",
+      "id": "08_Horse--i54--4104",
+      "imageFile": "08_Horse--i54--4104--f14b3.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 11,
+      "index": 55,
+      "code": "4105",
+      "id": "08_Horse--i55--4105",
+      "imageFile": "08_Horse--i55--4105--acbf5.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 11,
+      "index": 56,
+      "code": "4106",
+      "id": "08_Horse--i56--4106",
+      "imageFile": "08_Horse--i56--4106--bcb69.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 11,
+      "index": 57,
+      "code": "4107",
+      "id": "08_Horse--i57--4107",
+      "imageFile": "08_Horse--i57--4107--5d25d.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 11,
+      "index": 58,
+      "code": "4109",
+      "id": "08_Horse--i58--4109",
+      "imageFile": "08_Horse--i58--4109--d95c7.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 11,
+      "index": 59,
+      "code": "4112",
+      "id": "08_Horse--i59--4112",
+      "imageFile": "08_Horse--i59--4112--cc102.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 11,
+      "index": 60,
+      "code": "4114",
+      "id": "08_Horse--i60--4114",
+      "imageFile": "08_Horse--i60--4114--bcb69.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    }
+  ],
+  "postersSample": [
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 8,
+      "index": 37,
+      "code": "4076",
+      "id": "08_Horse--i37--4076",
+      "imageFile": "08_Horse--i37--4076--e6ad7.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 4,
+      "index": 13,
+      "code": "4136",
+      "id": "08_Horse--i13--4136",
+      "imageFile": "08_Horse--i13--4136--aa645.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 6,
+      "index": 29,
+      "code": "4128",
+      "id": "08_Horse--i29--4128",
+      "imageFile": "08_Horse--i29--4128--d48f8.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 9,
+      "index": 45,
+      "code": "4090",
+      "id": "08_Horse--i45--4090",
+      "imageFile": "08_Horse--i45--4090--27b49.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    },
+    {
+      "pdfName": "08_Horse",
+      "pageNo": 4,
+      "index": 16,
+      "code": "4139",
+      "id": "08_Horse--i16--4139",
+      "imageFile": "08_Horse--i16--4139--99ad1.jpg",
+      "imageSize": [
+        216,
+        144
+      ]
+    }
+  ]
+}

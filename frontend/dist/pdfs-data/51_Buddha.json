@@ -1,0 +1,302 @@
+{
+  "path": "1-per-page/51_Buddha.pdf",
+  "name": "51_Buddha",
+  "readableName": "51 Buddha",
+  "category": "Buddha",
+  "totalPosters": 19,
+  "numLandscapePosters": 17,
+  "numPortraitPosters": 2,
+  "usedLandscapeForSample": true,
+  "posters": [
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 1,
+      "index": 1,
+      "code": "B-2277",
+      "id": "51_Buddha--i1--B-2277",
+      "imageFile": "51_Buddha--i1--B-2277--58f28.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 2,
+      "index": 2,
+      "code": "B-2278",
+      "id": "51_Buddha--i2--B-2278",
+      "imageFile": "51_Buddha--i2--B-2278--4b10f.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 3,
+      "index": 3,
+      "code": "B-2279",
+      "id": "51_Buddha--i3--B-2279",
+      "imageFile": "51_Buddha--i3--B-2279--4cedc.jpg",
+      "imageSize": [
+        354,
+        531
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 4,
+      "index": 4,
+      "code": "B-2280",
+      "id": "51_Buddha--i4--B-2280",
+      "imageFile": "51_Buddha--i4--B-2280--386f5.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 5,
+      "index": 5,
+      "code": "B-2281",
+      "id": "51_Buddha--i5--B-2281",
+      "imageFile": "51_Buddha--i5--B-2281--9bf2f.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 6,
+      "index": 6,
+      "code": "B-2282",
+      "id": "51_Buddha--i6--B-2282",
+      "imageFile": "51_Buddha--i6--B-2282--4abca.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 7,
+      "index": 7,
+      "code": "B-2283",
+      "id": "51_Buddha--i7--B-2283",
+      "imageFile": "51_Buddha--i7--B-2283--1a646.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 8,
+      "index": 8,
+      "code": "B-2284",
+      "id": "51_Buddha--i8--B-2284",
+      "imageFile": "51_Buddha--i8--B-2284--813e7.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 9,
+      "index": 9,
+      "code": "B-2285",
+      "id": "51_Buddha--i9--B-2285",
+      "imageFile": "51_Buddha--i9--B-2285--c3407.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 10,
+      "index": 10,
+      "code": "B-2286",
+      "id": "51_Buddha--i10--B-2286",
+      "imageFile": "51_Buddha--i10--B-2286--4a7db.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 11,
+      "index": 11,
+      "code": "B-2287",
+      "id": "51_Buddha--i11--B-2287",
+      "imageFile": "51_Buddha--i11--B-2287--7e140.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 12,
+      "index": 12,
+      "code": "B-2288",
+      "id": "51_Buddha--i12--B-2288",
+      "imageFile": "51_Buddha--i12--B-2288--a4e1e.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 13,
+      "index": 13,
+      "code": "B-2289",
+      "id": "51_Buddha--i13--B-2289",
+      "imageFile": "51_Buddha--i13--B-2289--7af40.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 14,
+      "index": 14,
+      "code": "B-2290",
+      "id": "51_Buddha--i14--B-2290",
+      "imageFile": "51_Buddha--i14--B-2290--fee60.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 15,
+      "index": 15,
+      "code": "B-2291",
+      "id": "51_Buddha--i15--B-2291",
+      "imageFile": "51_Buddha--i15--B-2291--6a2b1.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 16,
+      "index": 16,
+      "code": "B-2292",
+      "id": "51_Buddha--i16--B-2292",
+      "imageFile": "51_Buddha--i16--B-2292--1624b.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 17,
+      "index": 17,
+      "code": "B-2293",
+      "id": "51_Buddha--i17--B-2293",
+      "imageFile": "51_Buddha--i17--B-2293--2959b.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 18,
+      "index": 18,
+      "code": "B-2294",
+      "id": "51_Buddha--i18--B-2294",
+      "imageFile": "51_Buddha--i18--B-2294--758a3.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 19,
+      "index": 19,
+      "code": "B-2295",
+      "id": "51_Buddha--i19--B-2295",
+      "imageFile": "51_Buddha--i19--B-2295--c5666.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    }
+  ],
+  "postersSample": [
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 7,
+      "index": 7,
+      "code": "B-2283",
+      "id": "51_Buddha--i7--B-2283",
+      "imageFile": "51_Buddha--i7--B-2283--1a646.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 4,
+      "index": 4,
+      "code": "B-2280",
+      "id": "51_Buddha--i4--B-2280",
+      "imageFile": "51_Buddha--i4--B-2280--386f5.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 12,
+      "index": 12,
+      "code": "B-2288",
+      "id": "51_Buddha--i12--B-2288",
+      "imageFile": "51_Buddha--i12--B-2288--a4e1e.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 19,
+      "index": 19,
+      "code": "B-2295",
+      "id": "51_Buddha--i19--B-2295",
+      "imageFile": "51_Buddha--i19--B-2295--c5666.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    },
+    {
+      "pdfName": "51_Buddha",
+      "pageNo": 1,
+      "index": 1,
+      "code": "B-2277",
+      "id": "51_Buddha--i1--B-2277",
+      "imageFile": "51_Buddha--i1--B-2277--58f28.jpg",
+      "imageSize": [
+        705,
+        470
+      ]
+    }
+  ]
+}
