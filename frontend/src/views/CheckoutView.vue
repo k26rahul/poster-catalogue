@@ -50,18 +50,32 @@ function handleDeleteBatch(batchId) {
   deleteBatch(batchId);
 }
 
-function handleFinalCommit() {
-  const commitData = {
+function handleGenerateOrderPdf() {
+  // Build category lookup from batches
+  const categoryLookup = {};
+  for (const batch of allBatches.value) {
+    for (const pdfName of Object.keys(batch.items)) {
+      // Get category from the batch's category breakdown
+      for (const [catName, catData] of Object.entries(batch.summary.categoryBreakdown)) {
+        if (catData.pdfs && catData.pdfs[pdfName] !== undefined) {
+          categoryLookup[pdfName] = catName;
+        }
+      }
+    }
+  }
+
+  // Save order data to localStorage for the standalone HTML
+  const orderData = {
     batches: allBatches.value,
     grandSummary: grandSummary.value,
-    committedAt: Date.now(),
+    generatedAt: Date.now(),
+    categoryLookup,
   };
 
-  console.log('=== FINAL COMMIT DATA ===');
-  console.log(JSON.stringify(commitData, null, 2));
-  console.log('=========================');
+  localStorage.setItem('POSTER_CATALOGUE_ORDER_PDF_DATA', JSON.stringify(orderData));
 
-  alert('Checkout data logged to console. Check browser dev tools.');
+  // Open the standalone HTML file in a new window
+  window.open('/order-pdf.html', '_blank');
 }
 
 function handleClearAllBatches() {
@@ -196,9 +210,9 @@ function handleClearAllBatches() {
           <Icon icon="mdi:trash-can" />
           Clear All Batches
         </button>
-        <button class="btn btn--primary btn--large" @click="handleFinalCommit">
-          <Icon icon="mdi:check-bold" />
-          Final Commit
+        <button class="btn btn--primary btn--large" @click="handleGenerateOrderPdf">
+          <Icon icon="mdi:file-pdf-box" />
+          Generate Order PDF
         </button>
       </section>
     </template>

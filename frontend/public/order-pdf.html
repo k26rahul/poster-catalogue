@@ -1,0 +1,522 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Order PDF - Poster Catalogue</title>
+    <style>
+      /* Reset */
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: 'Courier New', 'Roboto Mono', 'Consolas', monospace;
+        font-size: 11pt;
+        line-height: 1.4;
+        color: #000;
+        background: #f5f5f5;
+        padding: 20px;
+      }
+
+      /* Print Controls */
+      .print-controls {
+        max-width: 210mm;
+        margin: 0 auto 20px;
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+      }
+
+      .btn {
+        padding: 12px 24px;
+        font-size: 14px;
+        font-weight: 500;
+        border: 2px solid #333;
+        background: #fff;
+        cursor: pointer;
+        transition: all 0.2s;
+        font-family: inherit;
+      }
+
+      .btn:hover {
+        background: #f0f0f0;
+      }
+
+      .btn--primary {
+        background: #333;
+        color: #fff;
+      }
+
+      .btn--primary:hover {
+        background: #555;
+      }
+
+      /* Receipt Container */
+      .receipt {
+        max-width: 210mm;
+        margin: 0 auto;
+        background: #fff;
+        padding: 15mm;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+
+      /* Receipt Header */
+      .receipt-header {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      .receipt-logo {
+        font-size: 10pt;
+        color: #333;
+      }
+
+      .receipt-title {
+        font-size: 18pt;
+        font-weight: bold;
+        margin: 10px 0;
+        letter-spacing: 4px;
+      }
+
+      .receipt-date {
+        font-size: 10pt;
+        color: #555;
+        margin-top: 5px;
+      }
+
+      /* Summary Section */
+      .receipt-summary {
+        margin: 20px 0;
+        padding: 10px 0;
+      }
+
+      .summary-line {
+        display: flex;
+        justify-content: space-between;
+        padding: 4px 0;
+        font-weight: 500;
+      }
+
+      .divider {
+        text-align: center;
+        color: #888;
+        margin: 15px 0;
+        letter-spacing: 2px;
+      }
+
+      /* Batch Section */
+      .batch-section {
+        margin: 25px 0;
+      }
+
+      .batch-header {
+        margin-bottom: 15px;
+      }
+
+      .batch-title-line {
+        font-size: 12pt;
+        font-weight: bold;
+        margin-bottom: 5px;
+      }
+
+      .batch-config {
+        font-size: 10pt;
+        color: #444;
+        padding-left: 12px;
+      }
+
+      /* Category Section */
+      .category-section {
+        margin: 15px 0;
+      }
+
+      .category-header {
+        font-size: 10pt;
+        font-weight: bold;
+        color: #333;
+        margin-bottom: 10px;
+      }
+
+      .category-footer {
+        font-size: 10pt;
+        color: #666;
+        margin-top: 10px;
+      }
+
+      /* Poster Row - 5 columns per row, each row is a separate element for page break control */
+      .poster-row {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 8px;
+        margin-bottom: 8px;
+      }
+
+      .poster-cell {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 5px;
+        border: 1px dashed #ccc;
+        background: #fafafa;
+      }
+
+      .poster-image-wrapper {
+        width: 100%;
+        aspect-ratio: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        background: #fff;
+        border: 1px solid #ddd;
+      }
+
+      .poster-image {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+      }
+
+      .poster-code {
+        font-size: 8pt;
+        font-weight: bold;
+        margin-top: 5px;
+        word-break: break-all;
+        line-height: 1.2;
+      }
+
+      .poster-qty {
+        font-size: 8pt;
+        color: #333;
+        background: #eee;
+        padding: 2px 6px;
+        margin-top: 3px;
+        border-radius: 2px;
+      }
+
+      /* Batch Divider */
+      .batch-divider {
+        text-align: center;
+        font-size: 8pt;
+        color: #888;
+        margin: 20px 0;
+        letter-spacing: 1px;
+      }
+
+      /* Footer */
+      .receipt-footer {
+        text-align: center;
+        margin-top: 30px;
+        padding-top: 20px;
+      }
+
+      .footer-line {
+        font-size: 10pt;
+        font-weight: bold;
+        letter-spacing: 2px;
+      }
+
+      .footer-thanks {
+        font-size: 9pt;
+        color: #555;
+        margin-top: 10px;
+        font-style: italic;
+      }
+
+      /* Error State */
+      .error-state {
+        text-align: center;
+        padding: 50px;
+        color: #666;
+      }
+
+      .error-state h2 {
+        margin-bottom: 10px;
+        color: #333;
+      }
+
+      /* Print Styles */
+      @media print {
+        body {
+          background: #fff;
+          padding: 0;
+        }
+
+        .print-controls {
+          display: none !important;
+        }
+
+        .receipt {
+          box-shadow: none;
+          padding: 5mm;
+          max-width: 100%;
+        }
+
+        .poster-image {
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
+        }
+
+        /* Page break controls */
+        .receipt-header {
+          break-after: avoid;
+        }
+
+        .receipt-summary {
+          break-after: avoid;
+          break-inside: avoid;
+        }
+
+        .batch-header {
+          break-after: avoid;
+          break-inside: avoid;
+        }
+
+        .category-header {
+          break-after: avoid;
+        }
+
+        .poster-row {
+          break-inside: avoid;
+        }
+
+        .poster-cell {
+          break-inside: avoid;
+        }
+
+        .batch-divider {
+          break-before: avoid;
+        }
+
+        .receipt-footer {
+          break-inside: avoid;
+        }
+
+        @page {
+          size: A4;
+          margin: 5mm;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Print Controls -->
+    <div class="print-controls">
+      <button class="btn" onclick="window.close()">✕ Close</button>
+      <button class="btn btn--primary" onclick="window.print()">
+        🖨️ Print / Save as PDF
+      </button>
+    </div>
+
+    <!-- Receipt Content (will be generated by JavaScript) -->
+    <div id="receipt-container"></div>
+
+    <script>
+      // Size and Material labels
+      const SIZES = {
+        '09x12': '09X12',
+        '12x12': '12X12',
+        '12x18': '12X18',
+        '12x24': '12X24',
+        '18x24': '18X24',
+      };
+
+      const MATERIALS = {
+        'paper-print-uv': 'Paper Print UV',
+        'paper-sparkle': 'Paper Sparkle',
+        'golden-foil': 'Golden Foil Poster',
+        'vinyl-sparkle': 'Vinyl Sparkle',
+        'translit-backlight': 'Translit (Backlight) Print',
+        'canvas-cloth': 'Canvas (Cloth) Print',
+        'crystal-mdf': 'Crystal MDF Hi-Gloss Poster',
+        '5d-poster': '5D Poster',
+        '3d-emboss': '3D Emboss Poster',
+      };
+
+      function getSizeLabel(slug) {
+        return SIZES[slug] || slug;
+      }
+
+      function getMaterialLabel(slug) {
+        return MATERIALS[slug] || slug;
+      }
+
+      function formatDate(timestamp) {
+        return new Date(timestamp).toLocaleString('en-IN', {
+          dateStyle: 'full',
+          timeStyle: 'short',
+        });
+      }
+
+      function renderReceipt() {
+        const container = document.getElementById('receipt-container');
+
+        // Read order data from localStorage
+        const orderDataStr = localStorage.getItem('POSTER_CATALOGUE_ORDER_PDF_DATA');
+
+        if (!orderDataStr) {
+          container.innerHTML = `
+          <div class="receipt">
+            <div class="error-state">
+              <h2>No Order Data Found</h2>
+              <p>Please generate the order PDF from the checkout page.</p>
+            </div>
+          </div>
+        `;
+          return;
+        }
+
+        const orderData = JSON.parse(orderDataStr);
+        const { batches, grandSummary, generatedAt, categoryLookup } = orderData;
+
+        if (!batches || batches.length === 0) {
+          container.innerHTML = `
+          <div class="receipt">
+            <div class="error-state">
+              <h2>No Batches Found</h2>
+              <p>There are no batches in the order.</p>
+            </div>
+          </div>
+        `;
+          return;
+        }
+
+        // Process batches into category-grouped structure
+        const processedBatches = batches.map((batch, index) => {
+          const categoryMap = {};
+
+          for (const [pdfName, posters] of Object.entries(batch.items)) {
+            const categoryName = categoryLookup[pdfName] || 'Unknown';
+
+            if (!categoryMap[categoryName]) {
+              categoryMap[categoryName] = [];
+            }
+
+            for (const [posterId, posterData] of Object.entries(posters)) {
+              categoryMap[categoryName].push({
+                id: posterId,
+                code: posterData.code,
+                imageFile: posterData.imageFile,
+                qty: posterData.qty,
+              });
+            }
+          }
+
+          // Sort categories alphabetically
+          const sortedCategories = Object.keys(categoryMap).sort();
+          const categories = {};
+          for (const cat of sortedCategories) {
+            categories[cat] = categoryMap[cat];
+          }
+
+          return {
+            batchNumber: index + 1,
+            size: getSizeLabel(batch.size),
+            material: getMaterialLabel(batch.material),
+            categories,
+          };
+        });
+
+        // Generate HTML
+        let html = `
+        <div class="receipt">
+          <!-- Header -->
+          <header class="receipt-header">
+            <div class="receipt-logo">═══════════════════════════════════════</div>
+            <h1 class="receipt-title">ORDER SUMMARY</h1>
+            <div class="receipt-logo">═══════════════════════════════════════</div>
+            <p class="receipt-date">${formatDate(generatedAt)}</p>
+          </header>
+
+          <!-- Grand Summary -->
+          <section class="receipt-summary">
+            <div class="summary-line">
+              <span>Total Batches:</span>
+              <span>${grandSummary.totalBatches}</span>
+            </div>
+            <div class="summary-line">
+              <span>Unique Posters:</span>
+              <span>${grandSummary.totalUniquePosters}</span>
+            </div>
+            <div class="summary-line">
+              <span>Total Quantity:</span>
+              <span>${grandSummary.totalPosterCount}</span>
+            </div>
+            <div class="divider">- - - - - - - - - - - - - - - - - - - - -</div>
+          </section>
+      `;
+
+        // Render each batch
+        for (const batch of processedBatches) {
+          html += `
+          <section class="batch-section">
+            <div class="batch-header">
+              <div class="batch-title-line">▸ BATCH #${batch.batchNumber}</div>
+              <div class="batch-config">Size: ${batch.size} | Material: ${batch.material}</div>
+            </div>
+        `;
+
+          // Render categories within batch
+          for (const [categoryName, posters] of Object.entries(batch.categories)) {
+            html += `
+            <div class="category-section">
+              <div class="category-header">┌─ ${categoryName.toUpperCase()} ─────────────────────────</div>
+          `;
+
+            // Group posters into rows of 5 for better page break control
+            const rows = [];
+            for (let i = 0; i < posters.length; i += 5) {
+              rows.push(posters.slice(i, i + 5));
+            }
+
+            for (const row of rows) {
+              html += `<div class="poster-row">`;
+              for (const poster of row) {
+                html += `
+                <div class="poster-cell">
+                  <div class="poster-image-wrapper">
+                    <img src="/poster-images/${poster.imageFile}" alt="${poster.code}" class="poster-image" loading="lazy">
+                  </div>
+                  <div class="poster-code">${poster.code}</div>
+                  <div class="poster-qty">Qty: ${poster.qty}</div>
+                </div>
+              `;
+              }
+              html += `</div>`;
+            }
+
+            html += `
+              <div class="category-footer">└─────────────────────────────────────────</div>
+            </div>
+          `;
+          }
+
+          html += `
+          </section>
+        `;
+        }
+
+        // Footer
+        html += `
+          <footer class="receipt-footer">
+            <div class="footer-line">*** END OF ORDER ***</div>
+          </footer>
+        </div>
+      `;
+
+        container.innerHTML = html;
+
+        // Set document title for PDF filename
+        const dateStr = new Date(generatedAt).toISOString().split('T')[0];
+        document.title = `Order_${dateStr}`;
+      }
+
+      // Render on page load
+      renderReceipt();
+    </script>
+  </body>
+</html>

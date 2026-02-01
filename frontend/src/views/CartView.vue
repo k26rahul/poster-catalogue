@@ -8,12 +8,13 @@ import QuantitySelector from '@/components/QuantitySelector.vue';
 
 const router = useRouter();
 
-const { pdfs, categories, fetchMetadata } = pdfStore;
+const { pdfs, categories, fetchMetadata, fetchPdf } = pdfStore;
 const { cart, clearCart, getCartSnapshot } = cartStore;
 const { addBatch, allBatches } = checkoutStore;
 
 const selectedSize = ref('');
 const selectedMaterial = ref('');
+const isLoading = ref(true);
 
 // Build category lookup from pdfStore
 const categoryLookup = computed(() => {
@@ -98,6 +99,9 @@ function handleAddToCheckout() {
   clearCart();
   selectedSize.value = '';
   selectedMaterial.value = '';
+
+  // Redirect to checkout page
+  router.push('/checkout');
 }
 
 function handleClearCart() {
@@ -107,6 +111,16 @@ function handleClearCart() {
 }
 
 function goToCheckout() {
+  // If size and material are selected, add the batch first
+  if (canAddToCheckout.value) {
+    const snapshot = getCartSnapshot(pdfStore);
+    addBatch(selectedSize.value, selectedMaterial.value, snapshot, categoryLookup.value);
+    clearCart();
+    selectedSize.value = '';
+    selectedMaterial.value = '';
+  }
+
+  // Then navigate to checkout
   router.push('/checkout');
 }
 
@@ -114,8 +128,26 @@ function getImageUrl(imageFile) {
   return `/poster-images/${imageFile}`;
 }
 
+// Fetch metadata and then fetch full PDF data for each PDF in cart
+async function loadCartData() {
+  isLoading.value = true;
+
+  // First fetch metadata to get categories and basic PDF info
+  await fetchMetadata();
+
+  // Then fetch full PDF data for each PDF that has items in cart
+  // This ensures poster.imageFile and poster.code are available
+  const pdfFetchPromises = [];
+  for (const pdfName of cart.keys()) {
+    pdfFetchPromises.push(fetchPdf(pdfName));
+  }
+  await Promise.all(pdfFetchPromises);
+
+  isLoading.value = false;
+}
+
 onMounted(() => {
-  fetchMetadata();
+  loadCartData();
 });
 </script>
 
@@ -135,7 +167,7 @@ onMounted(() => {
     </header>
 
     <!-- Empty State -->
-    <div v-if="isCartEmpty" class="empty-state">
+    <div v-if="isCartEmpty && !isLoading" class="empty-state">
       <Icon icon="mdi:cart-outline" class="empty-icon" />
       <h2>Your cart is empty</h2>
       <p>Browse posters and add them to your cart</p>
@@ -145,8 +177,13 @@ onMounted(() => {
       </button>
     </div>
 
-    <!-- Cart Content -->
-    <template v-else>
+    <!-- Loading State -->
+    <div v-else-if="isLoading" class="loading-state">
+      <Icon icon="mdi:loading" class="loading-icon" />
+      <p>Loading cart data...</p>
+    </div>
+
+    <template v-else-if="!isLoading">
       <!-- Batch Configuration -->
       <section class="batch-config">
         <h2>Batch Configuration</h2>
@@ -173,14 +210,6 @@ onMounted(() => {
               </option>
             </select>
           </div>
-          <button
-            class="btn btn--primary add-batch-btn"
-            :disabled="!canAddToCheckout"
-            @click="handleAddToCheckout"
-          >
-            <Icon icon="mdi:plus" />
-            Add to Checkout
-          </button>
         </div>
       </section>
 
@@ -331,6 +360,35 @@ onMounted(() => {
 
 .empty-state p {
   color: var(--text-3);
+}
+
+/* Loading State */
+.loading-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-lg);
+  padding: var(--space-3xl);
+  background: var(--bg-4);
+  border: 1px solid var(--border-2);
+  border-radius: var(--radius-lg);
+  text-align: center;
+}
+
+.loading-icon {
+  font-size: 3rem;
+  color: var(--accent);
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 /* Batch Configuration */
