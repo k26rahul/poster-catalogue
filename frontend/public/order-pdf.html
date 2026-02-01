@@ -510,9 +510,11 @@
 
         container.innerHTML = html;
 
-        // Set document title for PDF filename
-        const dateStr = new Date(generatedAt).toISOString().split('T')[0];
-        document.title = `Order_${dateStr}`;
+        // Set document title for PDF filename (includes date and time)
+        const genDate = new Date(generatedAt);
+        const dateStr = genDate.toISOString().split('T')[0];
+        const timeStr = genDate.toTimeString().slice(0, 5).replace(':', '-');
+        document.title = `Order_${dateStr}_${timeStr}`;
       }
 
       // Render on page load
