@@ -1,45 +1,123 @@
-Poster Catalog app
+# Poster Catalogue App
 
-The problem that I am solving:
+A digital catalogue system designed to streamline the poster ordering process for retail businesses.
 
-My father has a shop. He sells posters and photo frames. He has to order the posters from the dealer. The dealer provides my father a lot of PDFs. The PDF contains the poster images and their code. My father has to write down on paper every postal code that he's going to order.
+---
 
-It's a lot of manual effort. There is lot of chances of mistakes. Because he's writing using pen and paper: He cannot modify easily his order list. He has to keep track of the posters that he has ordered and the posters that he has not ordered. He has to write down the poster code on the paper. But he cannot write down the images. While looking at the codes he is not able to identify how the poster look like. A lot of time he need to change the order list.
+## 📋 Problem Statement
 
-That's why I wanted to digitize everything.
+### The Challenge
 
-I wanted a digital postal catalog system that can help him to order the posters easily. The system should be able to show the poster images and their codes. He should be able to select the posters that he wants to order. He should be able to modify his order list easily. He should be able to see the posters that he has ordered and the posters that he has not ordered.
+My father runs a shop selling posters and photo frames, ordering inventory from a dealer who provides product catalogues as PDF files. Each PDF contains poster images along with their corresponding codes.
 
-The first challenge is to parse the PDF data.
+### Pain Points with the Manual Process
 
-For this I have to categorize PDF into three categories:
+| Issue                    | Impact                                                   |
+| ------------------------ | -------------------------------------------------------- |
+| **Paper-based tracking** | Difficult to modify order lists once written             |
+| **No visual reference**  | Codes alone don't help identify poster appearance        |
+| **Error-prone**          | High chance of mistakes when transcribing codes manually |
+| **Poor traceability**    | Hard to track ordered vs. pending items                  |
 
-1. Those having single poster image per PDF page.
-2. Those having multiple poster images per PDF page.
-3. Those having poster code as image. I have to do the OCR on it.
+### The Solution
 
-For PDF parsing I have used the PyMuPDF library.
+A digital poster catalogue system that enables:
 
-For OCR I have used the Tesseract library.
+- Visual browsing of poster images with their codes
+- Easy selection and quantity adjustment
+- Flexible order list modification
+- Clear tracking of ordered and pending items
+- PDF generation for dealer submission
 
-Goal is to generate the complete structural Json for all the PDFs.
+---
 
-When this is done, I started working on the front end.
+## 🛠️ Technical Implementation
 
-I am using vue JS for front end. Using the vite build tool.
+### PDF Parsing
 
-I am not using any stores. Built in reactive objects are enough for data storage.
+PDFs from the dealer fall into three categories, each requiring a different parsing approach:
 
-The workflow:
+| Category   | Description                     | Approach                |
+| ---------- | ------------------------------- | ----------------------- |
+| **Type 1** | Single poster image per page    | Direct image extraction |
+| **Type 2** | Multiple poster images per page | Multi-region extraction |
+| **Type 3** | Poster codes embedded as images | OCR processing required |
 
-- On the homepage, PDFS are arranged as categories.
-- every category has some PDFS under it.
-- Select on a PDF to browse the posters under it.
-- Select any poster and adjust the quantity for purchase.
-- Browse other other PDFs and finalize cart data.
-- Select the size and material and proceed to checkout.
-- This will add an order batch to your checkout.
-- Select more posters then add again to checkout from cart.
-- Can have multiple batches for checkout.
-- When to finally commit, generate the PDF for the order.
-- Downloaded PDF can be sent to dealer.
+**Libraries Used:**
+
+- **PyMuPDF** — PDF parsing and image extraction
+- **Tesseract** — Optical Character Recognition (OCR)
+
+**Output:** Structured JSON files containing all parsed poster data.
+
+### Frontend
+
+| Technology           | Purpose                                       |
+| -------------------- | --------------------------------------------- |
+| **Vue.js**           | Frontend framework                            |
+| **Vite**             | Build tool and dev server                     |
+| **Reactive Objects** | State management (no external store required) |
+
+---
+
+## 🔄 User Workflow
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                         HOMEPAGE                                │
+│              PDFs organized by categories                       │
+└─────────────────────────┬───────────────────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────────────────┐
+│                      SELECT PDF                                 │
+│              Browse posters within a PDF                        │
+└─────────────────────────┬───────────────────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────────────────┐
+│                     ADD TO CART                                 │
+│           Select posters and adjust quantities                  │
+└─────────────────────────┬───────────────────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────────────────┐
+│                  CONFIGURE ORDER                                │
+│             Choose size and material options                    │
+└─────────────────────────┬───────────────────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────────────────┐
+│                  ADD TO CHECKOUT                                │
+│      Creates an order batch (multiple batches supported)        │
+└─────────────────────────┬───────────────────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────────────────┐
+│                   GENERATE PDF                                  │
+│         Download order PDF for dealer submission                │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📁 Project Structure
+
+```
+poster-catalogue-app/
+├── 📂 pdf-parsing/          # Python scripts for PDF processing
+├── 📂 frontend/             # Vue.js application
+└── 📂 data/                 # Generated JSON catalogue data
+```
+
+---
+
+## 🚀 Getting Started
+
+_Documentation coming soon_
+
+---
+
+## 📄 License
+
+_License information to be added_
